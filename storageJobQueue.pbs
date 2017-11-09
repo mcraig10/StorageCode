@@ -1,0 +1,31 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH --ntasks-per-node 4
+#SBATCH -p RM-shared
+#SBATCH --job-name=stoMC
+#SBATCH -t 48:00:00
+#SBATCH --mail-user=mtcraig@andrew.cmu.edu
+#SBATCH --mail-type=ALL
+
+#set inputs to Python script
+scenario="coalret"
+co2cap="cpp"
+stoScenario="StoEnergy"
+
+#echo commands to stdout
+set -x
+
+#set working dir
+export WDIR=$RAMDISK
+
+#copy files to working directory
+cp -rf /home/mtcraig/PythonStorageProjectXSEDE/* $WDIR
+
+#run script with inputs
+python $WDIR/StorageMasterScriptShellXSEDE.py $scenario $co2cap $stoScenario
+
+#copy output folder to persistent space
+folderName="ResultsS"$scenario"C"$co2cap
+cp -rf $WDIR/$folderName/ /pylon2/ec4s84p/mtcraig/
+
+exit

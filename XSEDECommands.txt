@@ -1,0 +1,10 @@
+Connect directly to PSC: 
+Using your SSH client, connect to hostname "bridges.psc.xsede.org" or "bridges.psc.edu" using port 2222.
+Either hostname will connect you to Bridges, but you must specify port 2222.
+
+ls: list files in current directory
+cd __: change directory
+mkdir __: make directory
+pwd: print working directory
+
+gsissh bridges : log into bridges

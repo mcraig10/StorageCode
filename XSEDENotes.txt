@@ -1,0 +1,55 @@
+TO RUN A RUN:
+1) 'module load anaconda', then 'source activate py34'
+2) copy over folder w/ CEtoUC folder
+3) edit storageJobQueue with desired parameters
+4) sbatch storageJobQueue.pbs
+To check job status: squeue -u username
+To cancel job: scancel jobid
+
+TO MODIFY SCRIPT FOR USE ON CLUSTER:
+1) make setKeyParameters and masterFuntion take in parameters
+2) Comment out corresponding parameters in setKeyParametesr
+3) Comment out masterFunction() call
+4) set xsedeRun to True and remote to True
+
+
+WHEN START NEW SERVER SESSION, TYPE:
+module load anaconda
+source activate py34
+[Check by typing: python. SHould start py3.4 session in anaconda]
+
+
+STEPS TAKEN TO GET PYTHON AND GAMS SET UP
+All in home directory:
+1) Install GAMS - use Unix distribution
+2) Run .exe, follow installation steps
+2b) Changed path variable to include folder where gams.exe is, so can simply call "gams"
+3) Load anaconda module: module load anaconda
+4) Create 3.4 Python env: conda create -n py34 python=3.4 anaconda]
+5) Activate env: source activate py34
+6) Test GAMS & Python installs: which gams        which python
+	Can also call python and see what it loads
+7) Setup GAMS-Python API link by navigating to GAMS/24.7/apifiles/python/api_34 and typing: python setup.py install
+
+
+DEBUGGING
+When ran GAMS, got error as follows:
+	gams.workspace.GamsException: Could not load shared library /home/mtcraig/gams/gams24.8_linux_x64_64_sfx/libgmdcclib64.so: /home/mtcraig/.conda/envs/py34/lib/python3.4/site-packages/matplotlib/../../../libstdc++.so.6: version `CXXABI_1.3.8' not found (required by /home/mtcraig/gams/ga
+	To fix this problem, ran 'conda update libgcc'
+	Also in trying (but failing) to fix this problem, I modified the LD_Library_Path var by adding 2 dirs: /usr/lib and /usr/local/lib64
+
+
+MISC INFO
+Each core used in job has about 4 GB RAM
+Seems best to use RM-shared
+mkl on python installs indicates  multi-threaded from intel
+To not open new window w/ emacs, type : emacs __ -ns
+Move to pylon2 with: cd /pylon2    [then back to home with /home/mtcraig]
+To get info on Qs: squeue -u mtcraig
+export instead of set for setting environment variable
+$WDIR: points to WDIR directory
+${WDIR}: use when appending to WDIR name, e.g. if WDIR is Result and watn to store in Result1
+
+
+PROJECT NAME
+ec4s84p
