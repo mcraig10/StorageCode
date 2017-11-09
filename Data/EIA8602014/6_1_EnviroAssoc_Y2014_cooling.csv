@@ -1,0 +1,3003 @@
+2014 Form EIA-860 Data - Schedule 6Acomma 'Boiler / Cooling System Associations',,,,,,
+Utility ID,Utility Name,Plant Code,Plant Name,Boiler ID,Cooling ID,Steam Plant Type
+21,AES Shady Point LLC,10671,AES Shady Point LLC,1A,1,1
+21,AES Shady Point LLC,10671,AES Shady Point LLC,2B,1,1
+21,AES Shady Point LLC,10671,AES Shady Point LLC,2A,1,1
+21,AES Shady Point LLC,10671,AES Shady Point LLC,1B,1,1
+25,Greenidge Generation Holdings LLC,2527,Greenidge Generation LLC,5,3,1
+25,Greenidge Generation Holdings LLC,2527,Greenidge Generation LLC,4,3,1
+25,Greenidge Generation Holdings LLC,2527,Greenidge Generation LLC,6,4,1
+35,AES WR Ltd Partnership,10678,AES Warrior Run Cogeneration Facility,BLR1,CW1,1
+52,ACE Cogeneration Co,10002,ACE Cogeneration Facility,CFB,CT,1
+88,Granite Ridge Energy LLC,55170,Granite Ridge,STB2,PLANT,3
+88,Granite Ridge Energy LLC,55170,Granite Ridge,STB1,PLANT,3
+142,AES Beaver Valley,10676,AES Beaver Valley Partners Beaver Valley,3,1,1
+142,AES Beaver Valley,10676,AES Beaver Valley Partners Beaver Valley,4,1,1
+142,AES Beaver Valley,10676,AES Beaver Valley Partners Beaver Valley,2,1,1
+142,AES Beaver Valley,10676,AES Beaver Valley Partners Beaver Valley,5,1,1
+177,AES Hawaii Inc,10673,AES Hawaii,BLRA,CT,1
+177,AES Hawaii Inc,10673,AES Hawaii,BLRB,CT,1
+189,PowerSouth Energy Cooperative,56,Charles R Lowman,1,1,1
+189,PowerSouth Energy Cooperative,56,Charles R Lowman,3,A,1
+189,PowerSouth Energy Cooperative,56,Charles R Lowman,2,A,1
+189,PowerSouth Energy Cooperative,56,Charles R Lowman,3,B,1
+189,PowerSouth Energy Cooperative,56,Charles R Lowman,2,B,1
+189,PowerSouth Energy Cooperative,533,McWilliams,HRSG1,MCWCT,1
+189,PowerSouth Energy Cooperative,533,McWilliams,HRSGV1,VCT,1
+189,PowerSouth Energy Cooperative,533,McWilliams,HRSGV2,VCT,1
+195,Alabama Power Co,3,Barry,1,1-3,1
+195,Alabama Power Co,3,Barry,2,1-3,1
+195,Alabama Power Co,3,Barry,3,1-3,1
+195,Alabama Power Co,3,Barry,4,4-5,1
+195,Alabama Power Co,3,Barry,5,4-5,1
+195,Alabama Power Co,3,Barry,6A,U6C,1
+195,Alabama Power Co,3,Barry,6B,U6C,1
+195,Alabama Power Co,3,Barry,7A,U7C,1
+195,Alabama Power Co,3,Barry,7B,U7C,1
+195,Alabama Power Co,7,Gadsden,2,1-2,1
+195,Alabama Power Co,7,Gadsden,1,1-2,1
+195,Alabama Power Co,8,Gorgas,10,10,1
+195,Alabama Power Co,8,Gorgas,6,5-7,1
+195,Alabama Power Co,8,Gorgas,7,5-7,1
+195,Alabama Power Co,8,Gorgas,9,8-9,1
+195,Alabama Power Co,8,Gorgas,8,8-9,1
+195,Alabama Power Co,10,Greene County,1,1-2,1
+195,Alabama Power Co,10,Greene County,2,1-2,1
+195,Alabama Power Co,26,E C Gaston,1,1,1
+195,Alabama Power Co,26,E C Gaston,2,1,1
+195,Alabama Power Co,26,E C Gaston,2,2,1
+195,Alabama Power Co,26,E C Gaston,1,2,1
+195,Alabama Power Co,26,E C Gaston,4,3,1
+195,Alabama Power Co,26,E C Gaston,3,3,1
+195,Alabama Power Co,26,E C Gaston,3,4,1
+195,Alabama Power Co,26,E C Gaston,4,4,1
+195,Alabama Power Co,26,E C Gaston,5,5,1
+195,Alabama Power Co,6001,Joseph M Farley,NSS1,1,3
+195,Alabama Power Co,6001,Joseph M Farley,NSS2,2,3
+195,Alabama Power Co,6002,James H Miller Jr,2,1-2,1
+195,Alabama Power Co,6002,James H Miller Jr,1,1-2,1
+195,Alabama Power Co,6002,James H Miller Jr,3,3-4,1
+195,Alabama Power Co,6002,James H Miller Jr,4,3-4,1
+261,AGC Division of APG Inc,6705,Warrick,3,1-3,1
+261,AGC Division of APG Inc,6705,Warrick,1,1-3,1
+261,AGC Division of APG Inc,6705,Warrick,2,1-3,1
+261,AGC Division of APG Inc,6705,Warrick,4,4,1
+298,City of Alexandria - (LA),6558,D G Hunter,3,2,1
+298,City of Alexandria - (LA),6558,D G Hunter,4,3,1
+343,AEP Generating Company,55502,Lawrenceburg Energy Facility,1B,0100,1
+343,AEP Generating Company,55502,Lawrenceburg Energy Facility,1A,0100,1
+343,AEP Generating Company,55502,Lawrenceburg Energy Facility,2A,0200,1
+343,AEP Generating Company,55502,Lawrenceburg Energy Facility,2B,0200,1
+520,Illinois Power Generating Co,861,Coffeen,01,01,1
+520,Illinois Power Generating Co,861,Coffeen,02,02,1
+520,Illinois Power Generating Co,6017,Newton,1,1,1
+520,Illinois Power Generating Co,6017,Newton,2,2,1
+554,City of Ames - (IA),1122,Ames Electric Services Power Plant,7,7,1
+554,City of Ames - (IA),1122,Ames Electric Services Power Plant,8,8,1
+641,ANP Bellingham Energy Company LLC,55211,ANP Bellingham Energy Project,U1,DC1,3
+641,ANP Bellingham Energy Company LLC,55211,ANP Bellingham Energy Project,U2,DC2,3
+656,ANP Blackstone Energy Company LLC,55212,ANP Blackstone Energy Project,U1,U1,3
+656,ANP Blackstone Energy Company LLC,55212,ANP Blackstone Energy Project,U2,U2,3
+733,Appalachian Power Co,3775,Clinch River,1,1,1
+733,Appalachian Power Co,3775,Clinch River,2,2,1
+733,Appalachian Power Co,3775,Clinch River,3,3,1
+733,Appalachian Power Co,3776,Glen Lyn,51,5,1
+733,Appalachian Power Co,3776,Glen Lyn,52,5,1
+733,Appalachian Power Co,3776,Glen Lyn,6,6,1
+733,Appalachian Power Co,3935,John E Amos,1,1,1
+733,Appalachian Power Co,3935,John E Amos,2,2,1
+733,Appalachian Power Co,3935,John E Amos,3,3,1
+733,Appalachian Power Co,3936,Kanawha River,1,1,1
+733,Appalachian Power Co,3936,Kanawha River,2,2,1
+733,Appalachian Power Co,3938,Philip Sporn,11,11,1
+733,Appalachian Power Co,3938,Philip Sporn,21,21,1
+733,Appalachian Power Co,3938,Philip Sporn,31,31,1
+733,Appalachian Power Co,3938,Philip Sporn,41,41,1
+733,Appalachian Power Co,3938,Philip Sporn,51,51,1
+733,Appalachian Power Co,6264,Mountaineer,1,1,1
+733,Appalachian Power Co,55350,Dresden Energy Facility,1,CLTWRS,1
+733,Appalachian Power Co,55350,Dresden Energy Facility,2,CLTWRS,1
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,CFB3,CT1,1
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,CFB2,CT1,1
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,CFB1,CT1,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,3,NCT,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,1,NCT,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,5,NCT,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,2,NCT,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,4,NCT,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,4,SOUTH,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,1,SOUTH,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,3,SOUTH,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,5,SOUTH,1
+772,Archer Daniels Midland Co,10864,Archer Daniels Midland Cedar Rapids,2,SOUTH,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB5,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB3,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB6,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB4,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB7,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB9,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB8,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB2,CGCT,1
+772,Archer Daniels Midland Co,10865,Archer Daniels Midland Decatur,CFB1,CGCT,1
+796,Arizona Electric Pwr Coop Inc,160,Apache Station,1,1,1
+796,Arizona Electric Pwr Coop Inc,160,Apache Station,2,2,1
+796,Arizona Electric Pwr Coop Inc,160,Apache Station,3,3,1
+803,Arizona Public Service Co,113,Cholla,1,1,1
+803,Arizona Public Service Co,113,Cholla,2,1,1
+803,Arizona Public Service Co,113,Cholla,1,2,1
+803,Arizona Public Service Co,113,Cholla,2,2,1
+803,Arizona Public Service Co,113,Cholla,3,3,1
+803,Arizona Public Service Co,113,Cholla,4,4,1
+803,Arizona Public Service Co,116,Ocotillo,1,1,1
+803,Arizona Public Service Co,116,Ocotillo,2,2,1
+803,Arizona Public Service Co,117,West Phoenix,1B,CC1-3,1
+803,Arizona Public Service Co,117,West Phoenix,3B,CC1-3,1
+803,Arizona Public Service Co,117,West Phoenix,2B,CC1-3,1
+803,Arizona Public Service Co,117,West Phoenix,CC4,CC4,1
+803,Arizona Public Service Co,117,West Phoenix,CC5A,CC5,1
+803,Arizona Public Service Co,117,West Phoenix,CC5B,CC5,1
+803,Arizona Public Service Co,118,Saguaro,1,1,4
+803,Arizona Public Service Co,118,Saguaro,2,2,4
+803,Arizona Public Service Co,2442,Four Corners,1,1,1
+803,Arizona Public Service Co,2442,Four Corners,2,1,1
+803,Arizona Public Service Co,2442,Four Corners,1,2,1
+803,Arizona Public Service Co,2442,Four Corners,2,2,1
+803,Arizona Public Service Co,2442,Four Corners,3,3,1
+803,Arizona Public Service Co,2442,Four Corners,4,4,1
+803,Arizona Public Service Co,2442,Four Corners,5,5,1
+803,Arizona Public Service Co,6008,Palo Verde,NSS1,1,3
+803,Arizona Public Service Co,6008,Palo Verde,NSS2,2,3
+803,Arizona Public Service Co,6008,Palo Verde,NSS3,3,3
+803,Arizona Public Service Co,55455,Red Hawk,HRSG1A,CTWR-1,1
+803,Arizona Public Service Co,55455,Red Hawk,HRSG1B,CTWR-1,1
+803,Arizona Public Service Co,55455,Red Hawk,HRSG2B,CTWR-2,1
+803,Arizona Public Service Co,55455,Red Hawk,HRSG2A,CTWR-2,1
+807,Arkansas Electric Coop Corp,202,Carl Bailey,01,01,1
+807,Arkansas Electric Coop Corp,203,McClellan (AR),01,01,1
+807,Arkansas Electric Coop Corp,55221,Harry L. Oswald,HRSG3,COOLTW,1
+807,Arkansas Electric Coop Corp,55221,Harry L. Oswald,HRSG4,COOLTW,1
+807,Arkansas Electric Coop Corp,55221,Harry L. Oswald,HRSG1,COOLTW,1
+807,Arkansas Electric Coop Corp,55221,Harry L. Oswald,HRSG6,COOLTW,1
+807,Arkansas Electric Coop Corp,55221,Harry L. Oswald,HRSG2,COOLTW,1
+807,Arkansas Electric Coop Corp,55221,Harry L. Oswald,HRSG7,COOLTW,1
+807,Arkansas Electric Coop Corp,55221,Harry L. Oswald,HRSG5,COOLTW,1
+807,Arkansas Electric Coop Corp,55714,Magnet Cove,HRSG1,SN0415,1
+807,Arkansas Electric Coop Corp,55714,Magnet Cove,HRSG2,SN0415,1
+814,Entergy Arkansas Inc,167,Cecil Lynch,2,2,4
+814,Entergy Arkansas Inc,167,Cecil Lynch,3,3,4
+814,Entergy Arkansas Inc,168,Hamilton Moses,1,1,4
+814,Entergy Arkansas Inc,168,Hamilton Moses,2,2,4
+814,Entergy Arkansas Inc,169,Harvey Couch,1,1,4
+814,Entergy Arkansas Inc,169,Harvey Couch,2,2,4
+814,Entergy Arkansas Inc,170,Lake Catherine,1,1,1
+814,Entergy Arkansas Inc,170,Lake Catherine,2,2,1
+814,Entergy Arkansas Inc,170,Lake Catherine,3,3,1
+814,Entergy Arkansas Inc,170,Lake Catherine,4,4,1
+814,Entergy Arkansas Inc,173,Robert E Ritchie,1,1,4
+814,Entergy Arkansas Inc,173,Robert E Ritchie,2,2,4
+814,Entergy Arkansas Inc,6009,White Bluff,1,1,1
+814,Entergy Arkansas Inc,6009,White Bluff,2,2,1
+814,Entergy Arkansas Inc,6641,Independence Steam Electric Station,1,1,1
+814,Entergy Arkansas Inc,6641,Independence Steam Electric Station,2,2,1
+814,Entergy Arkansas Inc,8055,Arkansas Nuclear One,NSS1,CW1,3
+814,Entergy Arkansas Inc,8055,Arkansas Nuclear One,NSS2,CW2,3
+814,Entergy Arkansas Inc,55418,Hot Spring Generating Facility,1H1100,1CW,1
+814,Entergy Arkansas Inc,55418,Hot Spring Generating Facility,1H2100,1CW,1
+924,Associated Electric Coopcomma Inc,2167,New Madrid,1,1,1
+924,Associated Electric Coopcomma Inc,2167,New Madrid,2,2,1
+924,Associated Electric Coopcomma Inc,2168,Thomas Hill,MB1,CW12,1
+924,Associated Electric Coopcomma Inc,2168,Thomas Hill,MB2,CW12,1
+924,Associated Electric Coopcomma Inc,2168,Thomas Hill,MB3,CW3,1
+924,Associated Electric Coopcomma Inc,7604,St Francis Energy Facility,HRSG1,1,3
+924,Associated Electric Coopcomma Inc,7604,St Francis Energy Facility,HRSG2,1,3
+924,Associated Electric Coopcomma Inc,7757,Chouteau,2,1,1
+924,Associated Electric Coopcomma Inc,7757,Chouteau,1,1,1
+924,Associated Electric Coopcomma Inc,7757,Chouteau,3,2,1
+924,Associated Electric Coopcomma Inc,7757,Chouteau,4,2,1
+924,Associated Electric Coopcomma Inc,55340,Dell Power Station,HRSG1,2,1
+924,Associated Electric Coopcomma Inc,55340,Dell Power Station,HRSG2,2,1
+1015,Austin Energy,3548,Decker Creek,1,1,1
+1015,Austin Energy,3548,Decker Creek,2,2,1
+1015,Austin Energy,7900,Sand Hill,5A,CLTWR1,1
+1074,Hays Energycomma LLC,55144,Hays Energy Project,HRSG1,ACC1,3
+1074,Hays Energycomma LLC,55144,Hays Energy Project,HRSG2,ACC2,3
+1074,Hays Energycomma LLC,55144,Hays Energy Project,HRSG3,CT3,3
+1074,Hays Energycomma LLC,55144,Hays Energy Project,HRSG4,CT4,3
+1307,Basin Electric Power Coop,2817,Leland Olds,1,1,1
+1307,Basin Electric Power Coop,2817,Leland Olds,2,2,1
+1307,Basin Electric Power Coop,6204,Laramie River Station,1,1,1
+1307,Basin Electric Power Coop,6204,Laramie River Station,2,2,1
+1307,Basin Electric Power Coop,6204,Laramie River Station,3,3,1
+1307,Basin Electric Power Coop,6469,Antelope Valley,B1,CC1,1
+1307,Basin Electric Power Coop,6469,Antelope Valley,B2,CC2,1
+1307,Basin Electric Power Coop,56609,Dry Fork Station,1,ACC,1
+1307,Basin Electric Power Coop,56610,Deer Creek Station,U1HRSG,U1ACC,1
+1616,Berkshire Power Co LLC,55041,Berkshire Power,HRSG1A,CT1A,3
+1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,C1,C1,1
+1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,C2,C2,1
+1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,C3,C3,1
+1692,Big Rivers Electric Corp,1382,HMP&L Station Two Henderson,H1,H,1
+1692,Big Rivers Electric Corp,1382,HMP&L Station Two Henderson,H2,H,1
+1692,Big Rivers Electric Corp,6639,R D Green,G1,G1,1
+1692,Big Rivers Electric Corp,6639,R D Green,G2,G2,1
+1692,Big Rivers Electric Corp,6823,D B Wilson,W1,W1,1
+1735,Birchwood Power Partners LP,54304,Birchwood Power,1A,1F,1
+2171,Brazos Valley Energy,55357,Brazos Valley Generating Facility,HRSG2,CT1,1
+2171,Brazos Valley Energy,55357,Brazos Valley Generating Facility,HRSG1,CT1,1
+2172,Brazos Electric Power Coop Inc,3628,R W Miller,1,1,1
+2172,Brazos Electric Power Coop Inc,3628,R W Miller,2,2,1
+2172,Brazos Electric Power Coop Inc,3628,R W Miller,3,3,1
+2172,Brazos Electric Power Coop Inc,54817,Johnson County,HRSG,1 HRC,1
+2172,Brazos Electric Power Coop Inc,55230,Jack County,HRSG1,CTW1,1
+2172,Brazos Electric Power Coop Inc,55230,Jack County,HRSG2,CTW1,1
+2172,Brazos Electric Power Coop Inc,55230,Jack County,HRSG3,CTW2,1
+2172,Brazos Electric Power Coop Inc,55230,Jack County,HRSG4,CTW2,1
+2232,Bridgeport Energy LLC,55042,Bridgeport Energy Project,HRSG2,CWS1,3
+2232,Bridgeport Energy LLC,55042,Bridgeport Energy Project,HRSG1,CWS1,3
+2313,Brooklyn Navy Yard Cogen PLP,54914,Brooklyn Navy Yard Cogeneration,HRSG1,001,4
+2313,Brooklyn Navy Yard Cogen PLP,54914,Brooklyn Navy Yard Cogeneration,HRSG2,001,4
+2338,Calpine Central LP,56104,Mankato Energy Center,HRSG2,CT101,1
+2338,Calpine Central LP,56104,Mankato Energy Center,HRSG1,CT101,1
+2442,City of Bryan - (TX),3561,Bryan (TX),3,3,1
+2442,City of Bryan - (TX),3561,Bryan (TX),4,4,1
+2442,City of Bryan - (TX),3561,Bryan (TX),5,5,1
+2442,City of Bryan - (TX),3561,Bryan (TX),6,6,1
+2442,City of Bryan - (TX),6243,Dansby,1,1,1
+2507,City of Burbank Water and Power,6013,Olive,01,01,1
+2507,City of Burbank Water and Power,6013,Olive,02,02,1
+2507,City of Burbank Water and Power,56046,Magnolia Power Project,HRSG2,2,1
+2799,Calpine Corp - Metcalf Energy Center,55393,Metcalf Energy Center,HSRG 2,CLGTWR,1
+2799,Calpine Corp - Metcalf Energy Center,55393,Metcalf Energy Center,HRSG 1,CLGTWR,1
+2820,Calpine Corp - Pastoria Energy Center,55656,Pastoria Energy Facilitycomma LLC,HRSG01,CWT01,3
+2820,Calpine Corp - Pastoria Energy Center,55656,Pastoria Energy Facilitycomma LLC,HRSG02,CWT01,3
+2820,Calpine Corp - Pastoria Energy Center,55656,Pastoria Energy Facilitycomma LLC,HRSG04,CWT02,3
+2838,Baytown Energy Center LLC,55327,Baytown Energy Center,HRSG2,CT,1
+2838,Baytown Energy Center LLC,55327,Baytown Energy Center,HRSG3,CT,1
+2838,Baytown Energy Center LLC,55327,Baytown Energy Center,HRSG1,CT,1
+2843,Los Medanos Energy Center LLC,55217,Los Medanos Energy Center,HRSG2,CT,1
+2843,Los Medanos Energy Center LLC,55217,Los Medanos Energy Center,HRSG1,CT,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG1,1,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG4,1,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG2,1,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG3,1,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG4,2,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG1,2,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG3,2,1
+2860,Los Esteros Critical Energy Facility LLC,55748,Los Esteros Critical Energy Center,HRSG2,2,1
+2876,Calvert Cliffs Nuclear PP LLC,6011,Calvert Cliffs Nuclear Power Plant,NSS1,SYS042,3
+2876,Calvert Cliffs Nuclear PP LLC,6011,Calvert Cliffs Nuclear Power Plant,NSS2,SYS042,3
+2877,Calpine Corp-Magic Valley,55123,Magic Valley Generating Station,HRSG1,CT,1
+2877,Calpine Corp-Magic Valley,55123,Magic Valley Generating Station,HRSG2,CT,1
+2891,Westbrook Energy Center,55294,Westbrook Energy Center Power Plant,HRSG1,CIRC,3
+2891,Westbrook Energy Center,55294,Westbrook Energy Center Power Plant,HRSG2,CIRC,3
+2897,Oneta Power LLC,55225,Oneta Energy Center,HRSG-2,CW-1,1
+2897,Oneta Power LLC,55225,Oneta Energy Center,HRSG-1,CW-1,1
+2897,Oneta Power LLC,55225,Oneta Energy Center,HRSG-3,CW-2,1
+2897,Oneta Power LLC,55225,Oneta Energy Center,HRSG-4,CW-2,1
+2929,Decatur Energy Center LLC,55292,Decatur Energy Center,HRSG1,CWS,1
+2929,Decatur Energy Center LLC,55292,Decatur Energy Center,HRSG2,CWS,1
+2929,Decatur Energy Center LLC,55292,Decatur Energy Center,HRSG3,CWS,1
+2934,Calpine Corp - Hidalgo,55545,Hidalgo Energy Center,HRSG2,CTOWER,3
+2934,Calpine Corp - Hidalgo,55545,Hidalgo Energy Center,HRSG1,CTOWER,3
+3046,Duke Energy Progress - (NC),2706,Asheville,1,1,1
+3046,Duke Energy Progress - (NC),2706,Asheville,2,2,1
+3046,Duke Energy Progress - (NC),2708,Cape Fear,5,5,4
+3046,Duke Energy Progress - (NC),2708,Cape Fear,6,6,4
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,1,1,4
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,2,2,4
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,3,3,4
+3046,Duke Energy Progress - (NC),2712,Roxboro,1,1,1
+3046,Duke Energy Progress - (NC),2712,Roxboro,2,2,1
+3046,Duke Energy Progress - (NC),2712,Roxboro,3B,3,1
+3046,Duke Energy Progress - (NC),2712,Roxboro,3A,3,1
+3046,Duke Energy Progress - (NC),2712,Roxboro,4B,4,1
+3046,Duke Energy Progress - (NC),2712,Roxboro,4A,4,1
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,1,1,4
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,2,2,4
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,3,3,4
+3046,Duke Energy Progress - (NC),2716,W H Weatherspoon,1,1,4
+3046,Duke Energy Progress - (NC),2716,W H Weatherspoon,2,2,4
+3046,Duke Energy Progress - (NC),2716,W H Weatherspoon,3,3,4
+3046,Duke Energy Progress - (NC),3251,H B Robinson,1,1,3
+3046,Duke Energy Progress - (NC),3251,H B Robinson,NSS2,1,3
+3046,Duke Energy Progress - (NC),3251,H B Robinson,NSS2,2,3
+3046,Duke Energy Progress - (NC),6014,Brunswick Nuclear,NSS1,1,3
+3046,Duke Energy Progress - (NC),6014,Brunswick Nuclear,NSS2,2,3
+3046,Duke Energy Progress - (NC),6015,Harris,NSS1,1,3
+3046,Duke Energy Progress - (NC),6250,Mayo,1A,1,1
+3046,Duke Energy Progress - (NC),6250,Mayo,1B,1,1
+3046,Duke Energy Progress - (NC),7805,Sherwood H Smith Jr Energy Complex,4,ST4,1
+3046,Duke Energy Progress - (NC),7805,Sherwood H Smith Jr Energy Complex,ST5,ST5,1
+3046,Duke Energy Progress - (NC),58215,Lee Combined Cycle Plant,ST1,ST1,1
+3046,Duke Energy Progress - (NC),58697,L V Sutton Combined Cycle,01A,001,1
+3046,Duke Energy Progress - (NC),58697,L V Sutton Combined Cycle,01B,001,1
+3131,Carville Energy LLC,55404,Carville Energy LLC,HRSG2,CTW,1
+3131,Carville Energy LLC,55404,Carville Energy LLC,HRSG1,CTW,1
+3265,Cleco Power LLC,51,Dolet Hills,1,CW,1
+3265,Cleco Power LLC,1396,Coughlin Power Station,6-1,6,1
+3265,Cleco Power LLC,1396,Coughlin Power Station,7-1,7,1
+3265,Cleco Power LLC,1396,Coughlin Power Station,7-2,7,1
+3265,Cleco Power LLC,1400,Teche,1,1,1
+3265,Cleco Power LLC,1400,Teche,2,2,1
+3265,Cleco Power LLC,1400,Teche,3,3,1
+3265,Cleco Power LLC,6190,Brame Energy Center,1,1,1
+3265,Cleco Power LLC,6190,Brame Energy Center,2,2,1
+3265,Cleco Power LLC,6190,Brame Energy Center,3-2,3,1
+3265,Cleco Power LLC,6190,Brame Energy Center,3-1,3,1
+3265,Cleco Power LLC,55173,Acadia Energy Center,HRSG11,CT 1,1
+3265,Cleco Power LLC,55173,Acadia Energy Center,HRSG12,CT 1,1
+3265,Cleco Power LLC,55173,Acadia Energy Center,HRSG25,CT 2,1
+3265,Cleco Power LLC,55173,Acadia Energy Center,HRSG24,CT 2,1
+3303,Florida Power Development,10333,Florida Power Development,1,1,1
+3370,Channel Energy Center LLC,55299,Channel Energy Center LLC,HRSG1,CT,1
+3370,Channel Energy Center LLC,55299,Channel Energy Center LLC,HRSG2,CT,1
+3370,Channel Energy Center LLC,55299,Channel Energy Center LLC,HRSG3,CT,1
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,1,1,1
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,2,2,1
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,3,3,1
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,4,4,1
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,5,5,1
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,6,6,1
+3542,Duke Energy Ohio Inc,2832,Miami Fort,5-1,5,1
+3542,Duke Energy Ohio Inc,2832,Miami Fort,5-2,5,1
+3542,Duke Energy Ohio Inc,2832,Miami Fort,6,6,1
+3542,Duke Energy Ohio Inc,2832,Miami Fort,7,7-8,1
+3542,Duke Energy Ohio Inc,2832,Miami Fort,8,7-8,1
+3542,Duke Energy Ohio Inc,6019,W H Zimmer,1,1,1
+3549,Choctaw Gas Generating Pro LLC,55694,Quantum Choctaw Power LLC,HSG1,CLGTWR,1
+3549,Choctaw Gas Generating Pro LLC,55694,Quantum Choctaw Power LLC,HSG2,CLGTWR,1
+3593,Choctaw Generation L.Pcomma L.L.L.P.,55076,Red Hills Generating Facility,AA001,AA021,1
+3593,Choctaw Generation L.Pcomma L.L.L.P.,55076,Red Hills Generating Facility,AA002,AA021,1
+3660,PUD No 1 of Clark County - (WA),7605,River Road Gen Plant,1,1,3
+3807,Cleveland Cliffs Inc,10849,Silver Bay Power,BLR1,CW1,1
+3807,Cleveland Cliffs Inc,10849,Silver Bay Power,BLR2,CW1,1
+3890,EFS Cogen Holdings I LLC,50006,Linden Cogen Plant,HRSG5,AC1,1
+3890,EFS Cogen Holdings I LLC,50006,Linden Cogen Plant,HRSG3,AC1,1
+3890,EFS Cogen Holdings I LLC,50006,Linden Cogen Plant,HRSG4,AC1,1
+3890,EFS Cogen Holdings I LLC,50006,Linden Cogen Plant,HRSG1,AC1,1
+3890,EFS Cogen Holdings I LLC,50006,Linden Cogen Plant,HRSG2,AC1,1
+3989,City of Colorado Springs - (CO),492,Martin Drake,5,5,1
+3989,City of Colorado Springs - (CO),492,Martin Drake,6,6,1
+3989,City of Colorado Springs - (CO),492,Martin Drake,7,7,1
+3989,City of Colorado Springs - (CO),8219,Ray D Nixon,1,1,1
+3989,City of Colorado Springs - (CO),55283,Front Range Power Plant,HRSG1,3,1
+3989,City of Colorado Springs - (CO),55283,Front Range Power Plant,HRSG2,3,1
+4028,Columbia Energy LLC,55386,Columbia Energy Center (SC),DB2,CT,1
+4028,Columbia Energy LLC,55386,Columbia Energy Center (SC),DB1,CT,1
+4161,Constellation Power Source Gen,1553,Gould Street,3,3,1
+4210,Cordova Energy Co LLC,55188,Cordova Energy,HRSG21,CW1,3
+4210,Cordova Energy Co LLC,55188,Cordova Energy,HRSG11,CW1,3
+4226,Consolidated Edison Co-NY Inc,2493,East River,60,6,1
+4226,Consolidated Edison Co-NY Inc,2493,East River,70,7,1
+4254,Consumers Energy Co,1695,B C Cobb,2,1,1
+4254,Consumers Energy Co,1695,B C Cobb,3,1,1
+4254,Consumers Energy Co,1695,B C Cobb,1,1,1
+4254,Consumers Energy Co,1695,B C Cobb,2,2,1
+4254,Consumers Energy Co,1695,B C Cobb,3,2,1
+4254,Consumers Energy Co,1695,B C Cobb,1,2,1
+4254,Consumers Energy Co,1695,B C Cobb,3,3,1
+4254,Consumers Energy Co,1695,B C Cobb,2,3,1
+4254,Consumers Energy Co,1695,B C Cobb,1,3,1
+4254,Consumers Energy Co,1695,B C Cobb,4,4,1
+4254,Consumers Energy Co,1695,B C Cobb,5,5,1
+4254,Consumers Energy Co,1702,Dan E Karn,2,1,1
+4254,Consumers Energy Co,1702,Dan E Karn,1,1,1
+4254,Consumers Energy Co,1702,Dan E Karn,3,3,1
+4254,Consumers Energy Co,1702,Dan E Karn,4,3,1
+4254,Consumers Energy Co,1710,J H Campbell,1,1,1
+4254,Consumers Energy Co,1710,J H Campbell,2,2,1
+4254,Consumers Energy Co,1710,J H Campbell,3,3,1
+4254,Consumers Energy Co,1720,J C Weadock,7,7,1
+4254,Consumers Energy Co,1720,J C Weadock,8,8,1
+4254,Consumers Energy Co,1723,J R Whiting,1,1,1
+4254,Consumers Energy Co,1723,J R Whiting,2,2,1
+4254,Consumers Energy Co,1723,J R Whiting,3,3,1
+4254,Consumers Energy Co,55087,Zeeland Generating Station,2B,CIRC,1
+4254,Consumers Energy Co,55087,Zeeland Generating Station,2A,CIRC,1
+4383,Corpus Christi Cogeneration LLC,55206,Corpus Christi Energy Center,HRSG1,CW,1
+4383,Corpus Christi Cogeneration LLC,55206,Corpus Christi Energy Center,HRSG2,CW,1
+4405,Cottonwood Energy Co LP,55358,Cottonwood Energy Project,FB1,110CLG,1
+4405,Cottonwood Energy Co LP,55358,Cottonwood Energy Project,FB2,120CLG,1
+4405,Cottonwood Energy Co LP,55358,Cottonwood Energy Project,FB3,130CLG,1
+4405,Cottonwood Energy Co LP,55358,Cottonwood Energy Project,FB4,140CLG,1
+4425,Covanta Fairfax Inc,50658,Covanta Fairfax Energy,4,CT1,1
+4425,Covanta Fairfax Inc,50658,Covanta Fairfax Energy,1,CT1,1
+4425,Covanta Fairfax Inc,50658,Covanta Fairfax Energy,3,CT1,1
+4425,Covanta Fairfax Inc,50658,Covanta Fairfax Energy,2,CT1,1
+4464,Crockett Cogeneration,55084,Crockett Cogen Project,HRSG1,ACC1,1
+4716,Dairyland Power Coop,4140,Alma,B1,G1,1
+4716,Dairyland Power Coop,4140,Alma,B2,G2,1
+4716,Dairyland Power Coop,4140,Alma,B3,G3,1
+4716,Dairyland Power Coop,4140,Alma,B4,G4,1
+4716,Dairyland Power Coop,4140,Alma,B5,G5,1
+4716,Dairyland Power Coop,4143,Genoa,1,1,1
+4716,Dairyland Power Coop,4271,John P Madgett,B1,G1,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-3,CT,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-4,CT,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-5,CT,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-6,CT,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-2,CT,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-1,CT,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-2,GMR,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-3,GMR,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-4,GMR,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-6,GMR,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-5,GMR,1
+4922,Dayton Power & Light Co,2848,O H Hutchings,H-1,GMR,1
+4922,Dayton Power & Light Co,2850,J M Stuart,1,1,1
+4922,Dayton Power & Light Co,2850,J M Stuart,2,2,1
+4922,Dayton Power & Light Co,2850,J M Stuart,3,3,1
+4922,Dayton Power & Light Co,2850,J M Stuart,4,4,1
+4922,Dayton Power & Light Co,6031,Killen Station,2,2,1
+4945,Dearborn Industrial Gen Inc,55088,Dearborn Industrial Generation,EUCTG2,CIRC,1
+4945,Dearborn Industrial Gen Inc,55088,Dearborn Industrial Generation,EUCTG3,CIRC,1
+4945,Dearborn Industrial Gen Inc,55088,Dearborn Industrial Generation,EUCTG1,CIRC,1
+4966,Casco Bay Energy Co LLC,55068,Maine Independence Station,HRSG1,CT,3
+4966,Casco Bay Energy Co LLC,55068,Maine Independence Station,HRSG2,CT,3
+4994,Deer Park Energy Center,55464,Deer Park Energy Center,HRSG2,CT,1
+4994,Deer Park Energy Center,55464,Deer Park Energy Center,HRSG3,CT,1
+4994,Deer Park Energy Center,55464,Deer Park Energy Center,HRSG5,CT,1
+4994,Deer Park Energy Center,55464,Deer Park Energy Center,HRSG4,CT,1
+4994,Deer Park Energy Center,55464,Deer Park Energy Center,HRSG1,CT,1
+5030,Delta Energy Center LLC,55333,Delta Energy Center,HRSG1,CT,1
+5030,Delta Energy Center LLC,55333,Delta Energy Center,HRSG3,CT,1
+5030,Delta Energy Center LLC,55333,Delta Energy Center,HRSG2,CT,1
+5107,City of Detroit - (MI),1822,Mistersky,5,5,1
+5107,City of Detroit - (MI),1822,Mistersky,6,6,1
+5107,City of Detroit - (MI),1822,Mistersky,7,7,1
+5109,DTE Electric Company,1726,Conners Creek,18,1,4
+5109,DTE Electric Company,1726,Conners Creek,15,1,4
+5109,DTE Electric Company,1726,Conners Creek,16,1,4
+5109,DTE Electric Company,1726,Conners Creek,17,1,4
+5109,DTE Electric Company,1729,Fermi,NSS2,N71,3
+5109,DTE Electric Company,1731,Harbor Beach,1,1,4
+5109,DTE Electric Company,1732,Marysville,12,1,4
+5109,DTE Electric Company,1732,Marysville,10,1,4
+5109,DTE Electric Company,1732,Marysville,9,1,4
+5109,DTE Electric Company,1732,Marysville,11,1,4
+5109,DTE Electric Company,1733,Monroe (MI),1,1,1
+5109,DTE Electric Company,1733,Monroe (MI),2,2,1
+5109,DTE Electric Company,1733,Monroe (MI),3,3,1
+5109,DTE Electric Company,1733,Monroe (MI),4,4,1
+5109,DTE Electric Company,1740,River Rouge,1,CWS,1
+5109,DTE Electric Company,1740,River Rouge,2,CWS,1
+5109,DTE Electric Company,1740,River Rouge,3,CWS,1
+5109,DTE Electric Company,1743,St Clair,7,1,1
+5109,DTE Electric Company,1743,St Clair,3,1,1
+5109,DTE Electric Company,1743,St Clair,2,1,1
+5109,DTE Electric Company,1743,St Clair,6,1,1
+5109,DTE Electric Company,1743,St Clair,4,1,1
+5109,DTE Electric Company,1743,St Clair,1,1,1
+5109,DTE Electric Company,1745,Trenton Channel,17,7,1
+5109,DTE Electric Company,1745,Trenton Channel,18,7,1
+5109,DTE Electric Company,1745,Trenton Channel,16,7,1
+5109,DTE Electric Company,1745,Trenton Channel,19,7,1
+5109,DTE Electric Company,1745,Trenton Channel,19,8,1
+5109,DTE Electric Company,1745,Trenton Channel,18,8,1
+5109,DTE Electric Company,1745,Trenton Channel,17,8,1
+5109,DTE Electric Company,1745,Trenton Channel,16,8,1
+5109,DTE Electric Company,1745,Trenton Channel,9A,9,1
+5109,DTE Electric Company,6034,Belle River,1,C1,1
+5109,DTE Electric Company,6034,Belle River,2,C2,1
+5109,DTE Electric Company,6035,Greenwood (MI),1,1,1
+5221,Dominion Nuclear Conn Inc,566,Millstone,NSS3,CIRC2,3
+5221,Dominion Nuclear Conn Inc,566,Millstone,NSS2,CIRC2,3
+5221,Dominion Nuclear Conn Inc,566,Millstone,NSS2,CIRC3,3
+5221,Dominion Nuclear Conn Inc,566,Millstone,NSS3,CIRC3,3
+5262,Domtar Industries Inc,54104,Ashdown,PB3,GEN1OF,1
+5262,Domtar Industries Inc,54104,Ashdown,PB1,GEN1OF,1
+5262,Domtar Industries Inc,54104,Ashdown,RB2,GEN1OF,1
+5262,Domtar Industries Inc,54104,Ashdown,RB3,GEN1OF,1
+5262,Domtar Industries Inc,54104,Ashdown,PB2,GEN1OF,1
+5262,Domtar Industries Inc,54104,Ashdown,RB3,GEN2OT,1
+5262,Domtar Industries Inc,54104,Ashdown,PB2,GEN2OT,1
+5262,Domtar Industries Inc,54104,Ashdown,PB3,GEN2OT,1
+5262,Domtar Industries Inc,54104,Ashdown,PB1,GEN2OT,1
+5262,Domtar Industries Inc,54104,Ashdown,RB2,GEN2OT,1
+5262,Domtar Industries Inc,54104,Ashdown,RB2,GEN3OT,1
+5262,Domtar Industries Inc,54104,Ashdown,RB3,GEN3OT,1
+5262,Domtar Industries Inc,54104,Ashdown,PB1,GEN3OT,1
+5262,Domtar Industries Inc,54104,Ashdown,PB2,GEN3OT,1
+5262,Domtar Industries Inc,54104,Ashdown,PB3,GEN3OT,1
+5262,Domtar Industries Inc,54104,Ashdown,RB2,GEN4RI,1
+5262,Domtar Industries Inc,54104,Ashdown,PB2,GEN4RI,1
+5262,Domtar Industries Inc,54104,Ashdown,RB3,GEN4RI,1
+5262,Domtar Industries Inc,54104,Ashdown,PB1,GEN4RI,1
+5262,Domtar Industries Inc,54104,Ashdown,PB3,GEN4RI,1
+5269,Dynegy,876,Kincaid Generation LLC,1,1,1
+5269,Dynegy,876,Kincaid Generation LLC,2,2,1
+5310,Doswell Ltd Partnership,52019,Doswell Energy Center,HR501,ACC5,1
+5310,Doswell Ltd Partnership,52019,Doswell Energy Center,HR502,ACC5,1
+5310,Doswell Ltd Partnership,52019,Doswell Energy Center,HR601,ACC6,1
+5310,Doswell Ltd Partnership,52019,Doswell Energy Center,HR602,ACC6,1
+5338,Dow Chemical Co,52120,Dow Chemical Texas Operation,G65,P6CT,3
+5338,Dow Chemical Co,52120,Dow Chemical Texas Operation,G64,P6CT,3
+5347,Dow Chemical Co,52006,LaO Energy Systems,HRU200,P1CW,1
+5347,Dow Chemical Co,52006,LaO Energy Systems,HRU100,P1CW,1
+5347,Dow Chemical Co,52006,LaO Energy Systems,HRU200,P2CT,1
+5347,Dow Chemical Co,52006,LaO Energy Systems,HRU100,P2CT,1
+5347,Dow Chemical Co,55419,Plaquemine Cogeneration Plant,HRU800,P3CT,1
+5347,Dow Chemical Co,55419,Plaquemine Cogeneration Plant,HRU600,P3CT,1
+5347,Dow Chemical Co,55419,Plaquemine Cogeneration Plant,HRU700,P3CT,1
+5347,Dow Chemical Co,55419,Plaquemine Cogeneration Plant,HRU500,P3CT,1
+5374,Dow Chemical Company-Oyster Creek VIII,54676,Oyster Creek Unit VIII,H82,CTOW,1
+5374,Dow Chemical Company-Oyster Creek VIII,54676,Oyster Creek Unit VIII,H81,CTOW,1
+5374,Dow Chemical Company-Oyster Creek VIII,54676,Oyster Creek Unit VIII,H83,CTOW,1
+5416,Duke Energy Carolinascomma LLC,2718,G G Allen,1,1,1
+5416,Duke Energy Carolinascomma LLC,2718,G G Allen,2,2,1
+5416,Duke Energy Carolinascomma LLC,2718,G G Allen,3,3,1
+5416,Duke Energy Carolinascomma LLC,2718,G G Allen,4,4,1
+5416,Duke Energy Carolinascomma LLC,2718,G G Allen,5,5,1
+5416,Duke Energy Carolinascomma LLC,2720,Buck,HRSG1,10,1
+5416,Duke Energy Carolinascomma LLC,2720,Buck,HRSG2,10,1
+5416,Duke Energy Carolinascomma LLC,2720,Buck,6,3,1
+5416,Duke Energy Carolinascomma LLC,2720,Buck,5,3,1
+5416,Duke Energy Carolinascomma LLC,2720,Buck,7,4,1
+5416,Duke Energy Carolinascomma LLC,2720,Buck,8,5,1
+5416,Duke Energy Carolinascomma LLC,2720,Buck,9,6,1
+5416,Duke Energy Carolinascomma LLC,2721,James E. Rogers Energy Complex,1,1,1
+5416,Duke Energy Carolinascomma LLC,2721,James E. Rogers Energy Complex,2,2,1
+5416,Duke Energy Carolinascomma LLC,2721,James E. Rogers Energy Complex,3,3,1
+5416,Duke Energy Carolinascomma LLC,2721,James E. Rogers Energy Complex,4,4,1
+5416,Duke Energy Carolinascomma LLC,2721,James E. Rogers Energy Complex,5,5,1
+5416,Duke Energy Carolinascomma LLC,2721,James E. Rogers Energy Complex,6,6,1
+5416,Duke Energy Carolinascomma LLC,2723,Dan River,1,1,1
+5416,Duke Energy Carolinascomma LLC,2723,Dan River,2,2,1
+5416,Duke Energy Carolinascomma LLC,2723,Dan River,3,3,1
+5416,Duke Energy Carolinascomma LLC,2723,Dan River,HRSG1,7,1
+5416,Duke Energy Carolinascomma LLC,2723,Dan River,HRSG2,7,1
+5416,Duke Energy Carolinascomma LLC,2727,Marshall (NC),1,1,1
+5416,Duke Energy Carolinascomma LLC,2727,Marshall (NC),2,2,1
+5416,Duke Energy Carolinascomma LLC,2727,Marshall (NC),3,3,1
+5416,Duke Energy Carolinascomma LLC,2727,Marshall (NC),4,4,1
+5416,Duke Energy Carolinascomma LLC,2732,Riverbend,7,4,4
+5416,Duke Energy Carolinascomma LLC,2732,Riverbend,8,5,4
+5416,Duke Energy Carolinascomma LLC,2732,Riverbend,9,6,4
+5416,Duke Energy Carolinascomma LLC,2732,Riverbend,10,7,4
+5416,Duke Energy Carolinascomma LLC,3264,W S Lee,1,1,1
+5416,Duke Energy Carolinascomma LLC,3264,W S Lee,2,2,1
+5416,Duke Energy Carolinascomma LLC,3264,W S Lee,3,3,1
+5416,Duke Energy Carolinascomma LLC,3264,W S Lee,1,SUPP,1
+5416,Duke Energy Carolinascomma LLC,3264,W S Lee,3,SUPP,1
+5416,Duke Energy Carolinascomma LLC,3264,W S Lee,2,SUPP,1
+5416,Duke Energy Carolinascomma LLC,3265,Oconee,NSS1,1CCW,3
+5416,Duke Energy Carolinascomma LLC,3265,Oconee,NSS2,2CCW,3
+5416,Duke Energy Carolinascomma LLC,3265,Oconee,NSS3,3CCW,3
+5416,Duke Energy Carolinascomma LLC,6036,Catawba,NSS1,1RC,3
+5416,Duke Energy Carolinascomma LLC,6036,Catawba,NSS2,2RC,3
+5416,Duke Energy Carolinascomma LLC,6038,McGuire,NSS1,1RC,3
+5416,Duke Energy Carolinascomma LLC,6038,McGuire,NSS2,2RC,3
+5416,Duke Energy Carolinascomma LLC,8042,Belews Creek,1,1,1
+5416,Duke Energy Carolinascomma LLC,8042,Belews Creek,2,2,1
+5511,CCI Roseton LLC,8006,Roseton Generating Facility,1,1,1
+5511,CCI Roseton LLC,8006,Roseton Generating Facility,2,2,1
+5517,Dynegy Midwest Generation Inc,889,Baldwin Energy Complex,3,1,1
+5517,Dynegy Midwest Generation Inc,889,Baldwin Energy Complex,2,1,1
+5517,Dynegy Midwest Generation Inc,889,Baldwin Energy Complex,1,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,6,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,3,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,7,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,4,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,8,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,1,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,2,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,5,1,1
+5517,Dynegy Midwest Generation Inc,891,Havana,9,6,1
+5517,Dynegy Midwest Generation Inc,892,Hennepin Power Station,2,1,1
+5517,Dynegy Midwest Generation Inc,892,Hennepin Power Station,1,1,1
+5517,Dynegy Midwest Generation Inc,897,Vermilion,2,1,4
+5517,Dynegy Midwest Generation Inc,897,Vermilion,1,1,4
+5517,Dynegy Midwest Generation Inc,898,Wood River,3,1,1
+5517,Dynegy Midwest Generation Inc,898,Wood River,4,1,1
+5517,Dynegy Midwest Generation Inc,898,Wood River,1,1,1
+5517,Dynegy Midwest Generation Inc,898,Wood River,5,1,1
+5517,Dynegy Midwest Generation Inc,898,Wood River,2,1,1
+5580,East Kentucky Power Coopcomma Inc,1384,Cooper,1,1,1
+5580,East Kentucky Power Coopcomma Inc,1384,Cooper,2,2,1
+5580,East Kentucky Power Coopcomma Inc,1385,Dale,2,1,1
+5580,East Kentucky Power Coopcomma Inc,1385,Dale,1,1,1
+5580,East Kentucky Power Coopcomma Inc,1385,Dale,4,1,1
+5580,East Kentucky Power Coopcomma Inc,1385,Dale,3,1,1
+5580,East Kentucky Power Coopcomma Inc,6041,H L Spurlock,1,1,1
+5580,East Kentucky Power Coopcomma Inc,6041,H L Spurlock,2,2,1
+5580,East Kentucky Power Coopcomma Inc,6041,H L Spurlock,3,3,1
+5580,East Kentucky Power Coopcomma Inc,6041,H L Spurlock,4,4,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,83-19,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,253-28,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,423-A,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,83-22,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,325-31,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,253-29,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,253-25,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,83-21,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,253-26,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,83-18,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,83-20,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,83-23,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,423-B,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,253-27,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,325-30,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,83-24,RW,1
+5610,Eastman Chemical Co-TN Ops,50481,Tennessee Eastman Operations,423-C,RW,1
+5695,Desert Star Energy Center SDG&E,55077,Desert Star Energy Center,1,ACC,1
+5695,Desert Star Energy Center SDG&E,55077,Desert Star Energy Center,2,ACC,1
+5701,El Paso Electric Co,2444,Rio Grande,6,6,1
+5701,El Paso Electric Co,2444,Rio Grande,7,7,1
+5701,El Paso Electric Co,2444,Rio Grande,8,8,1
+5701,El Paso Electric Co,3456,Newman,1,1,1
+5701,El Paso Electric Co,3456,Newman,2,2,1
+5701,El Paso Electric Co,3456,Newman,3,3,1
+5701,El Paso Electric Co,3456,Newman,HRSG2,4,1
+5701,El Paso Electric Co,3456,Newman,HRSG1,4,1
+5701,El Paso Electric Co,3456,Newman,HRSG4,CT5,1
+5701,El Paso Electric Co,3456,Newman,HRSG3,CT5,1
+5748,Electric Energy Inc,887,Joppa Steam,4,1-4,1
+5748,Electric Energy Inc,887,Joppa Steam,3,1-4,1
+5748,Electric Energy Inc,887,Joppa Steam,2,1-4,1
+5748,Electric Energy Inc,887,Joppa Steam,1,1-4,1
+5748,Electric Energy Inc,887,Joppa Steam,6,5-6,1
+5748,Electric Energy Inc,887,Joppa Steam,5,5-6,1
+5761,Ennis Power Company LLC,55223,Ennis Power Company LLC,HRSG1,CT1,3
+5860,Empire District Electric Co,2076,Asbury,1,1,1
+5860,Empire District Electric Co,2076,Asbury,1,2,1
+5860,Empire District Electric Co,7296,State Line Combined Cycle,HRSG22,HRC,1
+5860,Empire District Electric Co,7296,State Line Combined Cycle,HRSG21,HRC,1
+5943,Entergy Nuc Fitzpatrick LLC,6110,James A Fitzpatrick,NSS1,CW,3
+5956,Entergy Nuclear Vermont Yankee,3751,Vermont Yankee,NSS1,CW,3
+6027,Entergy Nuclear Indian Point 2,2497,Indian Point 2,NSS2,CW,3
+6028,Entergy Nuclear Indian Point 3,8907,Indian Point 3,NSS3,CW,3
+6035,Exelon Power,3159,Cromby Generating Station,1,1,4
+6035,Exelon Power,3159,Cromby Generating Station,2,2,4
+6035,Exelon Power,3161,Eddystone Generating Station,1,1,1
+6035,Exelon Power,3161,Eddystone Generating Station,2,2,1
+6035,Exelon Power,3161,Eddystone Generating Station,3,3,1
+6035,Exelon Power,3161,Eddystone Generating Station,4,4,1
+6035,Exelon Power,3169,Schuylkill Generating Station,1,1,4
+6035,Exelon Power,3453,Mountain Creek,8,1,1
+6035,Exelon Power,3453,Mountain Creek,2,1,1
+6035,Exelon Power,3453,Mountain Creek,3A,1,1
+6035,Exelon Power,3453,Mountain Creek,6,1,1
+6035,Exelon Power,3453,Mountain Creek,7,1,1
+6035,Exelon Power,3491,Handley,1A,1,1
+6035,Exelon Power,3491,Handley,3,1,1
+6035,Exelon Power,3491,Handley,4,1,1
+6035,Exelon Power,3491,Handley,2,1,1
+6035,Exelon Power,3491,Handley,5,1,1
+6035,Exelon Power,3491,Handley,1B,1,1
+6035,Exelon Power,55139,Wolf Hollow I LP,HRSG1,CIRC1,1
+6035,Exelon Power,55139,Wolf Hollow I LP,HRSG2,CIRC1,1
+6452,Florida Power & Light Co,609,Cape Canaveral,PCC1,1CWS,3
+6452,Florida Power & Light Co,609,Cape Canaveral,PCC2,2CWS,3
+6452,Florida Power & Light Co,609,Cape Canaveral,3,CW,3
+6452,Florida Power & Light Co,609,Cape Canaveral,2,CW,3
+6452,Florida Power & Light Co,609,Cape Canaveral,1,CW,3
+6452,Florida Power & Light Co,610,Cutler,PCU5,5CWS,4
+6452,Florida Power & Light Co,610,Cutler,PCU6,6CWS,4
+6452,Florida Power & Light Co,612,Fort Myers,2E,FM2,3
+6452,Florida Power & Light Co,612,Fort Myers,2D,FM2,3
+6452,Florida Power & Light Co,612,Fort Myers,2F,FM2,3
+6452,Florida Power & Light Co,612,Fort Myers,2C,FM2,3
+6452,Florida Power & Light Co,612,Fort Myers,2A,FM2,3
+6452,Florida Power & Light Co,612,Fort Myers,2B,FM2,3
+6452,Florida Power & Light Co,613,Lauderdale,4B,FL4,3
+6452,Florida Power & Light Co,613,Lauderdale,4A,FL4,3
+6452,Florida Power & Light Co,613,Lauderdale,5B,FL5,3
+6452,Florida Power & Light Co,613,Lauderdale,5A,FL5,3
+6452,Florida Power & Light Co,617,Port Everglades,PPE1,1CWS,3
+6452,Florida Power & Light Co,617,Port Everglades,PPE2,2CWS,3
+6452,Florida Power & Light Co,617,Port Everglades,PPE3,3CWS,3
+6452,Florida Power & Light Co,617,Port Everglades,PPE4,4CWS,3
+6452,Florida Power & Light Co,619,Riviera,PRV3,3CWS,1
+6452,Florida Power & Light Co,619,Riviera,PRV4,4CWS,1
+6452,Florida Power & Light Co,619,Riviera,1,RBCT5,1
+6452,Florida Power & Light Co,620,Sanford,PSN5,3CWS,3
+6452,Florida Power & Light Co,620,Sanford,PSN3,3CWS,3
+6452,Florida Power & Light Co,621,Turkey Point,PTP1,CP,1
+6452,Florida Power & Light Co,621,Turkey Point,PTP2,CP,1
+6452,Florida Power & Light Co,621,Turkey Point,PTP5,CT5,1
+6452,Florida Power & Light Co,621,Turkey Point,NSS4,TPC,1
+6452,Florida Power & Light Co,621,Turkey Point,NSS3,TPC,1
+6452,Florida Power & Light Co,6042,Manatee,3A,CP,1
+6452,Florida Power & Light Co,6042,Manatee,PMT2,CP,1
+6452,Florida Power & Light Co,6042,Manatee,3B,CP,1
+6452,Florida Power & Light Co,6042,Manatee,3D,CP,1
+6452,Florida Power & Light Co,6042,Manatee,PMT1,CP,1
+6452,Florida Power & Light Co,6042,Manatee,3C,CP,1
+6452,Florida Power & Light Co,6043,Martin,PMR4,CP,1
+6452,Florida Power & Light Co,6043,Martin,PMR3,CP,1
+6452,Florida Power & Light Co,6043,Martin,PMR2,CP,1
+6452,Florida Power & Light Co,6043,Martin,PMR1,CP,1
+6452,Florida Power & Light Co,6043,Martin,PMR8A,CT,1
+6452,Florida Power & Light Co,6043,Martin,PMR8C,CT,1
+6452,Florida Power & Light Co,6043,Martin,PMR8D,CT,1
+6452,Florida Power & Light Co,6043,Martin,PMR8B,CT,1
+6452,Florida Power & Light Co,6045,St Lucie,NSS1,SLC,3
+6452,Florida Power & Light Co,6045,St Lucie,NSS2,SLC,3
+6452,Florida Power & Light Co,6246,Putnam,HRSG21,CT,1
+6452,Florida Power & Light Co,6246,Putnam,HRSG12,CT,1
+6452,Florida Power & Light Co,6246,Putnam,HRSG22,CT,1
+6452,Florida Power & Light Co,6246,Putnam,HRSG11,CT,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC13,CT1,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC12,CT1,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC11,CT1,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC21,CT2,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC22,CT2,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC23,CT2,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC33,CT3,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC31,CT3,1
+6452,Florida Power & Light Co,56407,West County Energy Center,PWC32,CT3,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,1,1,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,2,2,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,2,3,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,1,3,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,NSS3,3,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,4,4,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,5,5,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,1,6,1
+6455,Duke Energy Floridacomma Inc,628,Crystal River,2,6,1
+6455,Duke Energy Floridacomma Inc,634,P L Bartow,4C,1,1
+6455,Duke Energy Floridacomma Inc,634,P L Bartow,1,1,1
+6455,Duke Energy Floridacomma Inc,634,P L Bartow,3,1,1
+6455,Duke Energy Floridacomma Inc,634,P L Bartow,2,1,1
+6455,Duke Energy Floridacomma Inc,634,P L Bartow,4B,1,1
+6455,Duke Energy Floridacomma Inc,634,P L Bartow,4D,1,1
+6455,Duke Energy Floridacomma Inc,634,P L Bartow,4A,1,1
+6455,Duke Energy Floridacomma Inc,638,Suwannee River,3,1,1
+6455,Duke Energy Floridacomma Inc,638,Suwannee River,1,1,1
+6455,Duke Energy Floridacomma Inc,638,Suwannee River,2,1,1
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,1A,1,3
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,3A,1,3
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,3B,1,3
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,2B,1,3
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,4B,1,3
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,1B,1,3
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,2A,1,3
+6455,Duke Energy Floridacomma Inc,7302,Hines Energy Complex,4A,1,3
+6455,Duke Energy Floridacomma Inc,8048,Anclote,2,1,1
+6455,Duke Energy Floridacomma Inc,8048,Anclote,1,1,1
+6455,Duke Energy Floridacomma Inc,8048,Anclote,2,2,1
+6455,Duke Energy Floridacomma Inc,8048,Anclote,1,2,1
+6455,Duke Energy Floridacomma Inc,57894,Levy Nuclear Plant,1,1,4
+6455,Duke Energy Floridacomma Inc,57894,Levy Nuclear Plant,2,2,4
+6519,Frontera Generation Limited Partnership,55098,Frontera Energy Center,HRSG1,CT-001,3
+6519,Frontera Generation Limited Partnership,55098,Frontera Energy Center,HRSG2,CT-001,3
+6526,FirstEnergy Generation Corp,2835,FirstEnergy Ashtabula,7,1,1
+6526,FirstEnergy Generation Corp,2835,FirstEnergy Ashtabula,11,2,1
+6526,FirstEnergy Generation Corp,2835,FirstEnergy Ashtabula,10,2,1
+6526,FirstEnergy Generation Corp,2835,FirstEnergy Ashtabula,8,2,1
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,4,1,1
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,1,1,1
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,5,1,1
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,2,1,1
+6526,FirstEnergy Generation Corp,2837,FirstEnergy Eastlake,3,1,1
+6526,FirstEnergy Generation Corp,2838,FirstEnergy Lake Shore,18,1,1
+6526,FirstEnergy Generation Corp,2864,FirstEnergy R E Burger,6,3,4
+6526,FirstEnergy Generation Corp,2864,FirstEnergy R E Burger,5,3,4
+6526,FirstEnergy Generation Corp,2864,FirstEnergy R E Burger,7,4,4
+6526,FirstEnergy Generation Corp,2864,FirstEnergy R E Burger,8,5,4
+6526,FirstEnergy Generation Corp,2866,FirstEnergy W H Sammis,1,1,1
+6526,FirstEnergy Generation Corp,2866,FirstEnergy W H Sammis,2,2,1
+6526,FirstEnergy Generation Corp,2866,FirstEnergy W H Sammis,3,3,1
+6526,FirstEnergy Generation Corp,2866,FirstEnergy W H Sammis,4,4,1
+6526,FirstEnergy Generation Corp,2866,FirstEnergy W H Sammis,5,5,1
+6526,FirstEnergy Generation Corp,2866,FirstEnergy W H Sammis,6,6,1
+6526,FirstEnergy Generation Corp,2866,FirstEnergy W H Sammis,7,7,1
+6526,FirstEnergy Generation Corp,2878,FirstEnergy Bay Shore,1,BSCS,1
+6526,FirstEnergy Generation Corp,2878,FirstEnergy Bay Shore,2,BSCS,1
+6526,FirstEnergy Generation Corp,2878,FirstEnergy Bay Shore,3,BSCS,1
+6526,FirstEnergy Generation Corp,2878,FirstEnergy Bay Shore,4,BSCS,1
+6526,FirstEnergy Generation Corp,6094,FirstEnergy Bruce Mansfield,1,1,1
+6526,FirstEnergy Generation Corp,6094,FirstEnergy Bruce Mansfield,2,2,1
+6526,FirstEnergy Generation Corp,6094,FirstEnergy Bruce Mansfield,3,3,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-30,TTW-60,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-10,TTW-60,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-50,TTW-60,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-60,TTW-60,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-40,TTW-60,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-20,TTW-60,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-60,TTW-70,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-50,TTW-70,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-20,TTW-70,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-10,TTW-70,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-40,TTW-70,1
+6541,Formosa Plastics Corp,10554,Formosa Utility Venture Ltd,THB-30,TTW-70,1
+6541,Formosa Plastics Corp,56708,CFB Power Plant,H1101,W7101,1
+6541,Formosa Plastics Corp,56708,CFB Power Plant,H1201,W7201,1
+6589,Georgia-Pacific Consr Prods LP-Muskogee,10362,Muskogee Mill,BLR1,1,1
+6589,Georgia-Pacific Consr Prods LP-Muskogee,10362,Muskogee Mill,BLR3,1,1
+6589,Georgia-Pacific Consr Prods LP-Muskogee,10362,Muskogee Mill,BLR2,1,1
+6589,Georgia-Pacific Consr Prods LP-Muskogee,10362,Muskogee Mill,BLR4,1,1
+6616,Fort Pierce Utilities Authority,56400,Treasure Coast Energy Center,HRSG1,C-TWR1,1
+6693,FPL Energy Marcus Hook LP,55801,FPL Energy Marcus Hook LP,HRSG2,TWR1,1
+6693,FPL Energy Marcus Hook LP,55801,FPL Energy Marcus Hook LP,HRSG3,TWR1,1
+6693,FPL Energy Marcus Hook LP,55801,FPL Energy Marcus Hook LP,HRSG1,TWR1,1
+6763,Freestone Power Generation LLC,55226,Freestone Energy Center,1,1,3
+6763,Freestone Power Generation LLC,55226,Freestone Energy Center,2,1,3
+6763,Freestone Power Generation LLC,55226,Freestone Energy Center,4,2,3
+6763,Freestone Power Generation LLC,55226,Freestone Energy Center,3,2,3
+6779,City of Fremont - (NE),2240,Lon Wright,6,6,1
+6779,City of Fremont - (NE),2240,Lon Wright,7,7,1
+6779,City of Fremont - (NE),2240,Lon Wright,8,8,1
+6832,Entergy RISE,55107,Entergy Rhode Island State Energy LP,HRSG02,CT1,1
+6832,Entergy RISE,55107,Entergy Rhode Island State Energy LP,HRSG01,CT1,1
+6844,FPLE Forney LP,55480,Forney Energy Center,HRSG 2,C TOW1,1
+6844,FPLE Forney LP,55480,Forney Energy Center,HRSG 1,C TOW1,1
+6844,FPLE Forney LP,55480,Forney Energy Center,HRSG 3,C TOW1,1
+6844,FPLE Forney LP,55480,Forney Energy Center,HRSG 4,C TOW2,1
+6844,FPLE Forney LP,55480,Forney Energy Center,HRSG 6,C TOW2,1
+6844,FPLE Forney LP,55480,Forney Energy Center,HRSG 5,C TOW2,1
+6854,NextEra Energy Seabrook LLC,6115,Seabrook,NSS1,001,3
+6909,Gainesville Regional Utilities,663,Deerhaven Generating Station,B1,T1,1
+6909,Gainesville Regional Utilities,663,Deerhaven Generating Station,B2,T2,1
+6958,City of Garland - (TX),3576,Ray Olinger,CE1,C1,1
+6958,City of Garland - (TX),3576,Ray Olinger,BW2,C2,1
+6958,City of Garland - (TX),3576,Ray Olinger,BW3,C3,1
+6958,City of Garland - (TX),4266,Spencer,1,1,1
+6958,City of Garland - (TX),4266,Spencer,2,2,1
+6958,City of Garland - (TX),4266,Spencer,3,3,1
+6958,City of Garland - (TX),4266,Spencer,4,4,1
+6958,City of Garland - (TX),4266,Spencer,5,5,1
+7140,Georgia Power Co,649,Vogtle,NSS1,1,3
+7140,Georgia Power Co,649,Vogtle,NSS2,2,3
+7140,Georgia Power Co,649,Vogtle,NSS3,3,3
+7140,Georgia Power Co,649,Vogtle,NSS4,4,3
+7140,Georgia Power Co,703,Bowen,1BLR,1CT,1
+7140,Georgia Power Co,703,Bowen,2BLR,2CT,1
+7140,Georgia Power Co,703,Bowen,3BLR,3CT,1
+7140,Georgia Power Co,703,Bowen,4BLR,4CT,1
+7140,Georgia Power Co,708,Hammond,1,1,1
+7140,Georgia Power Co,708,Hammond,2,2,1
+7140,Georgia Power Co,708,Hammond,3,3,1
+7140,Georgia Power Co,708,Hammond,4,4,1
+7140,Georgia Power Co,709,Harllee Branch,1,1,1
+7140,Georgia Power Co,709,Harllee Branch,2,2,1
+7140,Georgia Power Co,709,Harllee Branch,3,3,1
+7140,Georgia Power Co,709,Harllee Branch,4,4,1
+7140,Georgia Power Co,710,Jack McDonough,4B,4,1
+7140,Georgia Power Co,710,Jack McDonough,4A,4,1
+7140,Georgia Power Co,710,Jack McDonough,5A,5,1
+7140,Georgia Power Co,710,Jack McDonough,5B,5,1
+7140,Georgia Power Co,710,Jack McDonough,6B,6,1
+7140,Georgia Power Co,710,Jack McDonough,6A,6,1
+7140,Georgia Power Co,710,Jack McDonough,MB1,MCS1,1
+7140,Georgia Power Co,710,Jack McDonough,MB2,MCS2,1
+7140,Georgia Power Co,715,McManus,1,1,1
+7140,Georgia Power Co,715,McManus,2,2,1
+7140,Georgia Power Co,727,Mitchell (GA),3,1,1
+7140,Georgia Power Co,728,Yates,Y1BR,Y1CS,1
+7140,Georgia Power Co,728,Yates,Y2BR,Y2CS,1
+7140,Georgia Power Co,728,Yates,Y3BR,Y3CS,1
+7140,Georgia Power Co,728,Yates,Y4BR,Y4CS,1
+7140,Georgia Power Co,728,Yates,Y5BR,Y5CS,1
+7140,Georgia Power Co,728,Yates,Y6BR,Y6CS,1
+7140,Georgia Power Co,728,Yates,Y7BR,Y7CS,1
+7140,Georgia Power Co,733,Kraft,4,1,1
+7140,Georgia Power Co,733,Kraft,3,1,1
+7140,Georgia Power Co,733,Kraft,2,1,1
+7140,Georgia Power Co,733,Kraft,1,1,1
+7140,Georgia Power Co,6051,Edwin I Hatch,NSS1,1,3
+7140,Georgia Power Co,6051,Edwin I Hatch,NSS2,2,3
+7140,Georgia Power Co,6052,Wansley,1,1,1
+7140,Georgia Power Co,6052,Wansley,2,2,1
+7140,Georgia Power Co,6124,McIntosh,1,1,1
+7140,Georgia Power Co,6257,Scherer,1,1,1
+7140,Georgia Power Co,6257,Scherer,2,2,1
+7140,Georgia Power Co,6257,Scherer,3,3,1
+7140,Georgia Power Co,6257,Scherer,4,4,1
+7140,Georgia Power Co,56150,McIntosh Combined Cycle Facility,10B,10,1
+7140,Georgia Power Co,56150,McIntosh Combined Cycle Facility,10A,10,1
+7140,Georgia Power Co,56150,McIntosh Combined Cycle Facility,11B,11,1
+7140,Georgia Power Co,56150,McIntosh Combined Cycle Facility,11A,11,1
+7172,Georgia-PacificCedar Springs LLC,54101,Georgia-Pacific Cedar Springs,RB3,SC1,1
+7172,Georgia-PacificCedar Springs LLC,54101,Georgia-Pacific Cedar Springs,PB1,SC1,1
+7172,Georgia-PacificCedar Springs LLC,54101,Georgia-Pacific Cedar Springs,RB2,SC1,1
+7172,Georgia-PacificCedar Springs LLC,54101,Georgia-Pacific Cedar Springs,RB1,SC2,1
+7172,Georgia-PacificCedar Springs LLC,54101,Georgia-Pacific Cedar Springs,PB2,SC2,1
+7294,City of Glendale - (CA),377,Grayson,8BC,1,1
+7294,City of Glendale - (CA),377,Grayson,8A,1,1
+7294,City of Glendale - (CA),377,Grayson,8BC,2,1
+7294,City of Glendale - (CA),377,Grayson,8A,2,1
+7294,City of Glendale - (CA),377,Grayson,3,3,1
+7294,City of Glendale - (CA),377,Grayson,4,4,1
+7294,City of Glendale - (CA),377,Grayson,5,5,1
+7349,Golden Spread Electric Cooperativecomma Inc,55065,Mustang Station,HRSG2,CT,1
+7349,Golden Spread Electric Cooperativecomma Inc,55065,Mustang Station,HRSG1,CT,1
+7490,Grand River Dam Authority,165,GREC,1,1,1
+7490,Grand River Dam Authority,165,GREC,2,2,1
+7570,Great River Energy,2824,Stanton,10,1,1
+7570,Great River Energy,2824,Stanton,1,1,1
+7570,Great River Energy,6030,Coal Creek,2,9,1
+7570,Great River Energy,6030,Coal Creek,1,9,1
+7570,Great River Energy,56786,Spiritwood Station,1,1,1
+7597,Green Country OP Services LLC,55146,Green Country Energy LLC,1,UNIT1,1
+7597,Green Country OP Services LLC,55146,Green Country Energy LLC,2,UNIT2,1
+7597,Green Country OP Services LLC,55146,Green Country Energy LLC,3,UNIT3,1
+7667,Gregory Power Partners LP,55086,Gregory Power Facility,HRSG1A,MCT,1
+7667,Gregory Power Partners LP,55086,Gregory Power Facility,HRSG1B,MCT,1
+7724,GWF Energy LLC,55933,Tracy Combined Cycle Power Plant,3H0301,0H0701,1
+7724,GWF Energy LLC,55933,Tracy Combined Cycle Power Plant,4H0401,0H0701,1
+7801,Gulf Power Co,641,Crist,2,1,1
+7801,Gulf Power Co,641,Crist,5,1,1
+7801,Gulf Power Co,641,Crist,3,1,1
+7801,Gulf Power Co,641,Crist,4,1,1
+7801,Gulf Power Co,641,Crist,6,6,1
+7801,Gulf Power Co,641,Crist,7,7,1
+7801,Gulf Power Co,643,Lansing Smith,1,1,1
+7801,Gulf Power Co,643,Lansing Smith,2,1,1
+7801,Gulf Power Co,643,Lansing Smith,5,2,1
+7801,Gulf Power Co,643,Lansing Smith,4,2,1
+7869,Hermiston Power Partnership,55328,Hermiston Power Partnership,HRSG 1,CWS1,1
+7869,Hermiston Power Partnership,55328,Hermiston Power Partnership,HRSG 2,CWS1,1
+7977,City of Hamilton - (OH),2917,Hamilton (OH),HRB,5,1
+7977,City of Hamilton - (OH),2917,Hamilton (OH),1,5,1
+7977,City of Hamilton - (OH),2917,Hamilton (OH),7,7,1
+7977,City of Hamilton - (OH),2917,Hamilton (OH),8,8,1
+7977,City of Hamilton - (OH),2917,Hamilton (OH),9,9,1
+8245,City of Hastings - (NE),60,Whelan Energy Center,1,1,1
+8245,City of Hastings - (NE),60,Whelan Energy Center,2,2,1
+8503,Hermiston Generating Co LP,54761,Hermiston Generating Plant,HRSG1,1CT,3
+8503,Hermiston Generating Co LP,54761,Hermiston Generating Plant,HRSG3,2CT,3
+9155,Inland Empire Energy Ctr LLC,55853,Inland Empire Energy Center,1,1,3
+9155,Inland Empire Energy Ctr LLC,55853,Inland Empire Energy Center,2,2,3
+9191,Idaho Power Co,57028,Langley Gulch Power Plant,1,CWS,1
+9216,Imperial Irrigation District,389,El Centro,UNIT 2,2,1
+9216,Imperial Irrigation District,389,El Centro,3,3,1
+9216,Imperial Irrigation District,389,El Centro,HRSG32,30,1
+9216,Imperial Irrigation District,389,El Centro,HRSG31,30,1
+9216,Imperial Irrigation District,389,El Centro,4,4,1
+9231,City of Independence - (MO),2132,Blue Valley,2,1,1
+9231,City of Independence - (MO),2132,Blue Valley,1,1,1
+9231,City of Independence - (MO),2132,Blue Valley,3,2,1
+9267,Hoosier Energy R E Ccomma Inc,1043,Frank E Ratts,1SG1,1CW,1
+9267,Hoosier Energy R E Ccomma Inc,1043,Frank E Ratts,2SG1,2CW,1
+9267,Hoosier Energy R E Ccomma Inc,6213,Merom,1SG1,1CW,1
+9267,Hoosier Energy R E Ccomma Inc,6213,Merom,2SG1,2CW,1
+9269,Indiana-Kentucky Electric Corp,983,Clifty Creek,1,1,1
+9269,Indiana-Kentucky Electric Corp,983,Clifty Creek,2,2,1
+9269,Indiana-Kentucky Electric Corp,983,Clifty Creek,3,3,1
+9269,Indiana-Kentucky Electric Corp,983,Clifty Creek,4,4,1
+9269,Indiana-Kentucky Electric Corp,983,Clifty Creek,5,5,1
+9269,Indiana-Kentucky Electric Corp,983,Clifty Creek,6,6,1
+9273,Indianapolis Power & Light Co,990,Harding Street,9,3,1
+9273,Indianapolis Power & Light Co,990,Harding Street,10,4,1
+9273,Indianapolis Power & Light Co,990,Harding Street,50,50,1
+9273,Indianapolis Power & Light Co,990,Harding Street,60,60,1
+9273,Indianapolis Power & Light Co,990,Harding Street,70,70,1
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),1,1,1
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),2,2,1
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),3,3,1
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),4,4,1
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),5,5,1
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),6,6,1
+9273,Indianapolis Power & Light Co,994,AES Petersburg,1,1,1
+9273,Indianapolis Power & Light Co,994,AES Petersburg,2,2,1
+9273,Indianapolis Power & Light Co,994,AES Petersburg,3,3,1
+9273,Indianapolis Power & Light Co,994,AES Petersburg,4,4,1
+9303,Verso Bucksport LLC,50243,Bucksport Generation LLC,7,CS1,1
+9303,Verso Bucksport LLC,50243,Bucksport Generation LLC,5,CS1,1
+9303,Verso Bucksport LLC,50243,Bucksport Generation LLC,8,CS1,1
+9303,Verso Bucksport LLC,50243,Bucksport Generation LLC,9,CS1,1
+9303,Verso Bucksport LLC,50243,Bucksport Generation LLC,6,CS1,1
+9312,IPC-Mansfield Mill,54091,Mansfield Mill,HRSG,HRSGCT,1
+9312,IPC-Mansfield Mill,54091,Mansfield Mill,RB1,MILLCT,1
+9312,IPC-Mansfield Mill,54091,Mansfield Mill,RB2,MILLCT,1
+9312,IPC-Mansfield Mill,54091,Mansfield Mill,PB2,MILLCT,1
+9312,IPC-Mansfield Mill,54091,Mansfield Mill,PB1,MILLCT,1
+9324,Indiana Michigan Power Co,988,Tanners Creek,U1,U1,1
+9324,Indiana Michigan Power Co,988,Tanners Creek,U2,U2,1
+9324,Indiana Michigan Power Co,988,Tanners Creek,U3,U3,1
+9324,Indiana Michigan Power Co,988,Tanners Creek,U4,U4,1
+9324,Indiana Michigan Power Co,6000,Donald C Cook,NSS1,UNIT1,3
+9324,Indiana Michigan Power Co,6000,Donald C Cook,NSS2,UNIT2,3
+9324,Indiana Michigan Power Co,6166,Rockport,MB1,CT1,1
+9324,Indiana Michigan Power Co,6166,Rockport,MB2,CT2,1
+9332,Indian River Operations Inc,594,Indian River Generating Station,1,1,1
+9332,Indian River Operations Inc,594,Indian River Generating Station,2,2,1
+9332,Indian River Operations Inc,594,Indian River Generating Station,3,3,1
+9332,Indian River Operations Inc,594,Indian River Generating Station,4,4,1
+9379,Inter-Power/AhlCon Partnerscomma L.P.,10143,Colver Power Project,ABB01,EBE,1
+9417,Interstate Power and Light Co,1047,Lansing,1,1,1
+9417,Interstate Power and Light Co,1047,Lansing,2,2,1
+9417,Interstate Power and Light Co,1047,Lansing,3,3,1
+9417,Interstate Power and Light Co,1047,Lansing,4,4,1
+9417,Interstate Power and Light Co,1048,Milton L Kapp,1,1,1
+9417,Interstate Power and Light Co,1048,Milton L Kapp,2,2,1
+9417,Interstate Power and Light Co,1073,Prairie Creek,3,2,1
+9417,Interstate Power and Light Co,1073,Prairie Creek,4,3,1
+9417,Interstate Power and Light Co,1077,Sutherland,2,1,1
+9417,Interstate Power and Light Co,1077,Sutherland,1,1,1
+9417,Interstate Power and Light Co,1077,Sutherland,3,2,1
+9417,Interstate Power and Light Co,1104,Burlington (IA),1,1,1
+9417,Interstate Power and Light Co,6254,Ottumwa,1,1,1
+9417,Interstate Power and Light Co,8031,Emery Station,2,1,1
+9417,Interstate Power and Light Co,8031,Emery Station,1,1,1
+9417,Interstate Power and Light Co,58236,Marshalltown Generating Station,HRSG2,1,3
+9417,Interstate Power and Light Co,58236,Marshalltown Generating Station,HRSG1,1,3
+9424,International Paper Co-Eastovr,52151,International Paper Eastover Facility,PB1,1CT,1
+9424,International Paper Co-Eastovr,52151,International Paper Eastover Facility,RF1,1CT,1
+9424,International Paper Co-Eastovr,52151,International Paper Eastover Facility,RF1,1CW,1
+9424,International Paper Co-Eastovr,52151,International Paper Eastover Facility,PB1,1CW,1
+9617,JEA,207,St Johns River Power Park,1,1,1
+9617,JEA,207,St Johns River Power Park,2,2,1
+9617,JEA,667,Northside Generating Station,1,1,1
+9617,JEA,667,Northside Generating Station,2,2,1
+9617,JEA,667,Northside Generating Station,3,3,1
+9617,JEA,7846,Brandy Branch,HRSG2,2,1
+9617,JEA,7846,Brandy Branch,HRSG3,3,1
+9628,Hopewell Operating Services LLC,10377,James River Genco LLC,1C,UNIT1,1
+9628,Hopewell Operating Services LLC,10377,James River Genco LLC,1B,UNIT1,1
+9628,Hopewell Operating Services LLC,10377,James River Genco LLC,1A,UNIT1,1
+9628,Hopewell Operating Services LLC,10377,James River Genco LLC,2B,UNIT2,1
+9628,Hopewell Operating Services LLC,10377,James River Genco LLC,2C,UNIT2,1
+9628,Hopewell Operating Services LLC,10377,James River Genco LLC,2A,UNIT2,1
+9686,RockTenn-Jackson Fenandina,10202,Fernandina Beach Mill,4REC,CLTWRS,1
+9686,RockTenn-Jackson Fenandina,10202,Fernandina Beach Mill,5REC,CLTWRS,1
+9686,RockTenn-Jackson Fenandina,10202,Fernandina Beach Mill,5PWR,CLTWRS,1
+9686,RockTenn-Jackson Fenandina,10202,Fernandina Beach Mill,7PWR,CLTWRS,1
+9996,City of Kansas City - (KS),1294,Kaw,2,1,1
+9996,City of Kansas City - (KS),1294,Kaw,3,1,1
+9996,City of Kansas City - (KS),1294,Kaw,1,1,1
+9996,City of Kansas City - (KS),1295,Quindaro,2,1,1
+9996,City of Kansas City - (KS),1295,Quindaro,1,1,1
+9996,City of Kansas City - (KS),6064,Nearman Creek,N1,NCS,1
+9996,City of Kansas City - (KS),6064,Nearman Creek,N1,NCS2,1
+10000,Kansas City Power & Light Co,1241,La Cygne,1,1,1
+10000,Kansas City Power & Light Co,1241,La Cygne,2,2,1
+10000,Kansas City Power & Light Co,2079,Hawthorn,5A,5,1
+10000,Kansas City Power & Light Co,2079,Hawthorn,9,9,1
+10000,Kansas City Power & Light Co,2080,Montrose,2,1,1
+10000,Kansas City Power & Light Co,2080,Montrose,1,1,1
+10000,Kansas City Power & Light Co,2080,Montrose,1,2,1
+10000,Kansas City Power & Light Co,2080,Montrose,2,2,1
+10000,Kansas City Power & Light Co,2080,Montrose,3,3,1
+10000,Kansas City Power & Light Co,6065,Iatan,1,1,1
+10000,Kansas City Power & Light Co,6065,Iatan,2,2,1
+10005,Kansas Gas & Electric Co,1240,Gordon Evans Energy Center,1,1,1
+10005,Kansas Gas & Electric Co,1240,Gordon Evans Energy Center,2,2,1
+10005,Kansas Gas & Electric Co,1242,Murray Gill,1,1,1
+10005,Kansas Gas & Electric Co,1242,Murray Gill,2,2,1
+10005,Kansas Gas & Electric Co,1242,Murray Gill,3,3,1
+10005,Kansas Gas & Electric Co,1242,Murray Gill,4,4,1
+10023,TC Ravenswood LLC,2500,Ravenswood,10,1,1
+10023,TC Ravenswood LLC,2500,Ravenswood,20,2,1
+10023,TC Ravenswood LLC,2500,Ravenswood,30,3,1
+10023,TC Ravenswood LLC,2500,Ravenswood,40,4,1
+10171,Kentucky Utilities Co,1355,E W Brown,1,1,1
+10171,Kentucky Utilities Co,1355,E W Brown,2,2,1
+10171,Kentucky Utilities Co,1355,E W Brown,3,3,1
+10171,Kentucky Utilities Co,1356,Ghent,1,1,1
+10171,Kentucky Utilities Co,1356,Ghent,2,1,1
+10171,Kentucky Utilities Co,1356,Ghent,2,2,1
+10171,Kentucky Utilities Co,1356,Ghent,1,2,1
+10171,Kentucky Utilities Co,1356,Ghent,3,3,1
+10171,Kentucky Utilities Co,1356,Ghent,4,3,1
+10171,Kentucky Utilities Co,1356,Ghent,4,4,1
+10171,Kentucky Utilities Co,1356,Ghent,3,4,1
+10171,Kentucky Utilities Co,1357,Green River,4,3,1
+10171,Kentucky Utilities Co,1357,Green River,5,4,1
+10362,Kiowa Power Partners LLC,55501,Kiamichi Energy Facility,HRSG1,CLTWR1,1
+10362,Kiowa Power Partners LLC,55501,Kiamichi Energy Facility,HRSG2,CLTWR1,1
+10362,Kiowa Power Partners LLC,55501,Kiamichi Energy Facility,HRSG4,CLTWR2,1
+10362,Kiowa Power Partners LLC,55501,Kiamichi Energy Facility,HRSG3,CLTWR2,1
+10376,Kissimmee Utility Authority,7238,Cane Island,MS2B,CS2,1
+10376,Kissimmee Utility Authority,7238,Cane Island,MS3B,CS3,1
+10376,Kissimmee Utility Authority,7238,Cane Island,MS4,CS4,1
+10576,Lake Road Generating Co LP,55149,Lake Road Generating Plant,1HA,UNIT1,3
+10576,Lake Road Generating Co LP,55149,Lake Road Generating Plant,2HA,UNIT2,3
+10576,Lake Road Generating Co LP,55149,Lake Road Generating Plant,3HA,UNIT3,3
+10623,City of Lakeland - (FL),676,C D McIntosh Jr,1,U1,1
+10623,City of Lakeland - (FL),676,C D McIntosh Jr,2,U2,1
+10623,City of Lakeland - (FL),676,C D McIntosh Jr,3,U3,1
+10623,City of Lakeland - (FL),676,C D McIntosh Jr,HRSG,U5,1
+10755,Lamar Power Partners LP,55097,Lamar Power Project,HRSG1,TOW1,1
+10755,Lamar Power Partners LP,55097,Lamar Power Project,HRSG2,TOW1,1
+10755,Lamar Power Partners LP,55097,Lamar Power Project,HRSG4,TOW2,1
+10755,Lamar Power Partners LP,55097,Lamar Power Project,HRSG3,TOW2,1
+11059,Pasadena Cogeneration LP,55047,Pasadena Cogeneration,HRSG1,CT1,3
+11059,Pasadena Cogeneration LP,55047,Pasadena Cogeneration,HRSG2,CT2,3
+11059,Pasadena Cogeneration LP,55047,Pasadena Cogeneration,HRSG3,CT3,3
+11208,Los Angeles Department of Water & Power,400,Haynes,1,1,1
+11208,Los Angeles Department of Water & Power,400,Haynes,2,2,1
+11208,Los Angeles Department of Water & Power,400,Haynes,5,5,1
+11208,Los Angeles Department of Water & Power,400,Haynes,6,6,1
+11208,Los Angeles Department of Water & Power,400,Haynes,HRSG10,8,1
+11208,Los Angeles Department of Water & Power,400,Haynes,HRSG9,8,1
+11208,Los Angeles Department of Water & Power,404,Scattergood,2,CW12,1
+11208,Los Angeles Department of Water & Power,404,Scattergood,1,CW12,1
+11208,Los Angeles Department of Water & Power,404,Scattergood,3,CW3,1
+11208,Los Angeles Department of Water & Power,408,Valley (CA),6,8,1
+11208,Los Angeles Department of Water & Power,408,Valley (CA),7,8,1
+11208,Los Angeles Department of Water & Power,6481,Intermountain Power Project,1SGA,1HRC,1
+11208,Los Angeles Department of Water & Power,6481,Intermountain Power Project,2SGA,2HRC,1
+11208,Los Angeles Department of Water & Power,55514,Apex Generating Station,CTG01,ACC1,1
+11208,Los Angeles Department of Water & Power,55514,Apex Generating Station,CTG02,ACC1,1
+11241,Entergy Louisiana LLC,1402,Little Gypsy,1,1,1
+11241,Entergy Louisiana LLC,1402,Little Gypsy,2,2,1
+11241,Entergy Louisiana LLC,1402,Little Gypsy,3,3,1
+11241,Entergy Louisiana LLC,1403,Nine Mile Point,1,1,1
+11241,Entergy Louisiana LLC,1403,Nine Mile Point,2,1,1
+11241,Entergy Louisiana LLC,1403,Nine Mile Point,3,3,1
+11241,Entergy Louisiana LLC,1403,Nine Mile Point,4,4,1
+11241,Entergy Louisiana LLC,1403,Nine Mile Point,5,5,1
+11241,Entergy Louisiana LLC,1403,Nine Mile Point,6BHRSG,60CWS,1
+11241,Entergy Louisiana LLC,1403,Nine Mile Point,6AHRSG,60CWS,1
+11241,Entergy Louisiana LLC,1404,Sterlington,7AB,2,3
+11241,Entergy Louisiana LLC,1404,Sterlington,10,3,3
+11241,Entergy Louisiana LLC,1448,Monroe (LA),10,1,4
+11241,Entergy Louisiana LLC,1448,Monroe (LA),12,2,4
+11241,Entergy Louisiana LLC,1448,Monroe (LA),11,2,4
+11241,Entergy Louisiana LLC,4270,Waterford 3,NSS3,CW,3
+11241,Entergy Louisiana LLC,8056,Waterford 1 & 2,2,1,1
+11241,Entergy Louisiana LLC,8056,Waterford 1 & 2,1,1,1
+11241,Entergy Louisiana LLC,55467,Ouachita,1,UNIT1,1
+11241,Entergy Louisiana LLC,55467,Ouachita,2,UNIT2,1
+11241,Entergy Louisiana LLC,55467,Ouachita,3,UNIT3,1
+11241,Entergy Louisiana LLC,55620,Perryville Power Station,1-2,1,1
+11241,Entergy Louisiana LLC,55620,Perryville Power Station,1-1,1,1
+11249,Louisville Gas & Electric Co,1363,Cane Run,4,4,1
+11249,Louisville Gas & Electric Co,1363,Cane Run,5,5,1
+11249,Louisville Gas & Electric Co,1363,Cane Run,6,6,1
+11249,Louisville Gas & Electric Co,1363,Cane Run,7,7,1
+11249,Louisville Gas & Electric Co,1364,Mill Creek (KY),1,1,1
+11249,Louisville Gas & Electric Co,1364,Mill Creek (KY),2,2,1
+11249,Louisville Gas & Electric Co,1364,Mill Creek (KY),3,3,1
+11249,Louisville Gas & Electric Co,1364,Mill Creek (KY),4,4,1
+11249,Louisville Gas & Electric Co,6071,Trimble County,1,1,1
+11249,Louisville Gas & Electric Co,6071,Trimble County,2,2,1
+11252,Louisiana Generating LLC,1464,Big Cajun 1,1B1,1C1,1
+11252,Louisiana Generating LLC,1464,Big Cajun 1,1B2,1C2,1
+11252,Louisiana Generating LLC,6055,Big Cajun 2,2B1,2C1,1
+11252,Louisiana Generating LLC,6055,Big Cajun 2,2B2,2C2,1
+11252,Louisiana Generating LLC,6055,Big Cajun 2,2B3,2C3,1
+11269,Lower Colorado River Authority,3601,Sim Gideon,1,CP1,1
+11269,Lower Colorado River Authority,3601,Sim Gideon,2,CP2,1
+11269,Lower Colorado River Authority,3601,Sim Gideon,3,CP3,1
+11269,Lower Colorado River Authority,4937,Thomas C Ferguson,CT-1,1,3
+11269,Lower Colorado River Authority,4937,Thomas C Ferguson,1,1,3
+11269,Lower Colorado River Authority,6179,Fayette Power Project,1,1,1
+11269,Lower Colorado River Authority,6179,Fayette Power Project,2,2,1
+11269,Lower Colorado River Authority,6179,Fayette Power Project,3,3,1
+11269,Lower Colorado River Authority,55154,Lost Pines 1 Power Project,2,1,3
+11269,Lower Colorado River Authority,55154,Lost Pines 1 Power Project,1,1,3
+11275,Lower Mount Bethel Energy LLC,55667,Lower Mount Bethel Energy,HRSG 2,CS1,1
+11275,Lower Mount Bethel Energy LLC,55667,Lower Mount Bethel Energy,HRSG 1,CS1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,3,1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,7,1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,11,1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,1,1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,2,1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,6,1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,5,1,1
+11479,Madison Gas & Electric Co,3992,Blount Street,8,2,1
+11479,Madison Gas & Electric Co,3992,Blount Street,6,2,1
+11479,Madison Gas & Electric Co,3992,Blount Street,3,2,1
+11479,Madison Gas & Electric Co,3992,Blount Street,9,2,1
+11479,Madison Gas & Electric Co,3992,Blount Street,7,2,1
+11479,Madison Gas & Electric Co,3992,Blount Street,5,2,1
+11479,Madison Gas & Electric Co,3992,Blount Street,11,2,1
+11571,Manitowoc Public Utilities,4125,Manitowoc,8,1,1
+11571,Manitowoc Public Utilities,4125,Manitowoc,6,1,1
+11571,Manitowoc Public Utilities,4125,Manitowoc,9,1,1
+11806,Massachusetts Mun Wholes Electric Co,6081,Stony Brook,1A,COOL1,3
+11806,Massachusetts Mun Wholes Electric Co,6081,Stony Brook,1C,COOL1,3
+11806,Massachusetts Mun Wholes Electric Co,6081,Stony Brook,1B,COOL1,3
+11806,Massachusetts Mun Wholes Electric Co,6081,Stony Brook,CA1,D COND,3
+12199,Montana-Dakota Utilities Co,2790,R M Heskett,B1,C12,1
+12199,Montana-Dakota Utilities Co,2790,R M Heskett,B2,C12,1
+12341,MidAmerican Energy Co,1081,Riverside,6,1,1
+12341,MidAmerican Energy Co,1081,Riverside,7,1,1
+12341,MidAmerican Energy Co,1081,Riverside,8,1,1
+12341,MidAmerican Energy Co,1081,Riverside,9,1,1
+12341,MidAmerican Energy Co,1081,Riverside,6,2,1
+12341,MidAmerican Energy Co,1081,Riverside,7,2,1
+12341,MidAmerican Energy Co,1081,Riverside,9,2,1
+12341,MidAmerican Energy Co,1081,Riverside,8,2,1
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,1,1,1
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,2,2,1
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,3,3,1
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,4,4,1
+12341,MidAmerican Energy Co,1091,George Neal North,1,1,1
+12341,MidAmerican Energy Co,1091,George Neal North,2,2,1
+12341,MidAmerican Energy Co,1091,George Neal North,3,3,1
+12341,MidAmerican Energy Co,6664,Louisa,101,101,1
+12341,MidAmerican Energy Co,7343,George Neal South,4,4,1
+12341,MidAmerican Energy Co,7985,Greater Des Moines,HRSG1,1,3
+12341,MidAmerican Energy Co,7985,Greater Des Moines,HRSG2,1,3
+12384,Midwest Generations EME LLC,384,Joliet 29,71,7,1
+12384,Midwest Generations EME LLC,384,Joliet 29,72,7,1
+12384,Midwest Generations EME LLC,384,Joliet 29,81,8,1
+12384,Midwest Generations EME LLC,384,Joliet 29,82,8,1
+12384,Midwest Generations EME LLC,867,Crawford,7,7,4
+12384,Midwest Generations EME LLC,867,Crawford,8,8,4
+12384,Midwest Generations EME LLC,874,Joliet 9,5,6,1
+12384,Midwest Generations EME LLC,879,Powerton,52,5,1
+12384,Midwest Generations EME LLC,879,Powerton,51,5,1
+12384,Midwest Generations EME LLC,879,Powerton,61,6,1
+12384,Midwest Generations EME LLC,879,Powerton,62,6,1
+12384,Midwest Generations EME LLC,883,Waukegan,17,6,1
+12384,Midwest Generations EME LLC,883,Waukegan,7,7,1
+12384,Midwest Generations EME LLC,883,Waukegan,8,8,1
+12384,Midwest Generations EME LLC,884,Will County,1,1,1
+12384,Midwest Generations EME LLC,884,Will County,2,2,1
+12384,Midwest Generations EME LLC,884,Will County,3,3,1
+12384,Midwest Generations EME LLC,884,Will County,4,4,1
+12384,Midwest Generations EME LLC,886,Fisk Street,19,19,4
+12465,System Energy Resourcescomma Inc,6072,Grand Gulf,NSS1,CW,3
+12490,Middletown Power LLC,562,Middletown,2,2,1
+12490,Middletown Power LLC,562,Middletown,3,3,1
+12490,Middletown Power LLC,562,Middletown,4,4,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,20E01,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,09HR82,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,16E01,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,13HR82,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,10HR82,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,11HR82,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,12HR82,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,19E01,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,18E01,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,17E01,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,14HR82,SDM46,1
+12492,Midland Cogeneration Venture,10745,Midland Cogeneration Venture,21E01,SDM46,1
+12501,Midlothian Energy LLC,55091,Midlothian Energy Facility,HRSG1,ACC1,3
+12501,Midlothian Energy LLC,55091,Midlothian Energy Facility,HRSG2,ACC2,3
+12501,Midlothian Energy LLC,55091,Midlothian Energy Facility,HRSG3,ACC3,3
+12501,Midlothian Energy LLC,55091,Midlothian Energy Facility,HRSG4,ACC4,3
+12501,Midlothian Energy LLC,55091,Midlothian Energy Facility,HRSG5,ACC5,3
+12501,Midlothian Energy LLC,55091,Midlothian Energy Facility,HRSG6,ACC6,3
+12564,Mid-Georgia Cogen LP,55040,Mid-Georgia Cogeneration Facility,201,CW1,3
+12564,Mid-Georgia Cogen LP,55040,Mid-Georgia Cogeneration Facility,101,CW1,3
+12568,Milford Power Co LLC,55126,Milford Power Project,HRSG2,CA90,3
+12568,Milford Power Co LLC,55126,Milford Power Project,HRSG1,CA90,3
+12628,NRG Chalk Point LLC,1571,Chalk Point LLC,1,1,1
+12628,NRG Chalk Point LLC,1571,Chalk Point LLC,2,2,1
+12628,NRG Chalk Point LLC,1571,Chalk Point LLC,3,3,1
+12628,NRG Chalk Point LLC,1571,Chalk Point LLC,4,4,1
+12631,NRG Delta LLC,228,Contra Costa,9,6,4
+12631,NRG Delta LLC,228,Contra Costa,10,7,4
+12631,NRG Delta LLC,271,Pittsburg Power,5,5,1
+12631,NRG Delta LLC,271,Pittsburg Power,6,6,1
+12631,NRG Delta LLC,271,Pittsburg Power,7,7,1
+12647,ALLETEcomma Inc.,1891,Syl Laskin,1,CS1,1
+12647,ALLETEcomma Inc.,1891,Syl Laskin,2,CS1,1
+12647,ALLETEcomma Inc.,1893,Clay Boswell,1,CS1,1
+12647,ALLETEcomma Inc.,1893,Clay Boswell,2,CS1,1
+12647,ALLETEcomma Inc.,1893,Clay Boswell,3,CS3,1
+12647,ALLETEcomma Inc.,1893,Clay Boswell,4,CS4,1
+12647,ALLETEcomma Inc.,10075,Taconite Harbor Energy Center,3,CS1,1
+12647,ALLETEcomma Inc.,10075,Taconite Harbor Energy Center,2,CS1,1
+12647,ALLETEcomma Inc.,10075,Taconite Harbor Energy Center,1,CS1,1
+12653,GenOn Mid-Atlantic LLC,1572,Dickerson,1,1,1
+12653,GenOn Mid-Atlantic LLC,1572,Dickerson,2,2,1
+12653,GenOn Mid-Atlantic LLC,1572,Dickerson,3,3,1
+12653,GenOn Mid-Atlantic LLC,1573,Morgantown Generating Plant,1,1,1
+12653,GenOn Mid-Atlantic LLC,1573,Morgantown Generating Plant,2,2,1
+12658,Minnkota Power Coopcomma Inc,2823,Milton R Young,B1,CS1,1
+12658,Minnkota Power Coopcomma Inc,2823,Milton R Young,B2,CS2,1
+12667,Minnesota Municipal Power Agny,56164,Faribault Energy Park,HRSG1,CW01,1
+12685,Entergy Mississippi Inc,2050,Baxter Wilson,1,1,1
+12685,Entergy Mississippi Inc,2050,Baxter Wilson,2,2,1
+12685,Entergy Mississippi Inc,2051,Delta (MS),1,1-2,4
+12685,Entergy Mississippi Inc,2051,Delta (MS),2,1-2,4
+12685,Entergy Mississippi Inc,2053,Rex Brown,3,CP,1
+12685,Entergy Mississippi Inc,2053,Rex Brown,4,CP,1
+12685,Entergy Mississippi Inc,2053,Rex Brown,1B,CT,1
+12685,Entergy Mississippi Inc,2053,Rex Brown,1A,CT,1
+12685,Entergy Mississippi Inc,8054,Gerald Andrus,1,1,1
+12685,Entergy Mississippi Inc,55218,Hinds Energy Facility,H01,CW,3
+12685,Entergy Mississippi Inc,55218,Hinds Energy Facility,H02,CW,3
+12685,Entergy Mississippi Inc,55220,Attala,HRSG2,BOP,3
+12685,Entergy Mississippi Inc,55220,Attala,HRSG1,BOP,3
+12686,Mississippi Power Co,2049,Jack Watson,5,CT,1
+12686,Mississippi Power Co,2049,Jack Watson,1,OTCW,1
+12686,Mississippi Power Co,2049,Jack Watson,3,OTCW,1
+12686,Mississippi Power Co,2049,Jack Watson,4,OTCW,1
+12686,Mississippi Power Co,2049,Jack Watson,2,OTCW,1
+12686,Mississippi Power Co,6073,Victor J Daniel Jr,2,BCCF,1
+12686,Mississippi Power Co,6073,Victor J Daniel Jr,1,BCCF,1
+12686,Mississippi Power Co,6073,Victor J Daniel Jr,4B,CT,1
+12686,Mississippi Power Co,6073,Victor J Daniel Jr,3A,CT,1
+12686,Mississippi Power Co,6073,Victor J Daniel Jr,3B,CT,1
+12686,Mississippi Power Co,6073,Victor J Daniel Jr,4A,CT,1
+12686,Mississippi Power Co,57037,Kemper County IGCC Project,A,1CT,1
+12686,Mississippi Power Co,57037,Kemper County IGCC Project,B,1CT,1
+12713,Millennium Power Partners LP,55079,Millennium Power,HRSG1,CTOWER,3
+12792,NRG New York LLC,2625,Bowline Point,1,1,1
+12792,NRG New York LLC,2625,Bowline Point,2,2,1
+12796,Monongahela Power Co,3942,FirstEnergy Albright,1,1,4
+12796,Monongahela Power Co,3942,FirstEnergy Albright,2,2,4
+12796,Monongahela Power Co,3942,FirstEnergy Albright,3,3,4
+12796,Monongahela Power Co,3942,FirstEnergy Albright,3,4,4
+12796,Monongahela Power Co,3942,FirstEnergy Albright,2,4,4
+12796,Monongahela Power Co,3942,FirstEnergy Albright,1,4,4
+12796,Monongahela Power Co,3943,FirstEnergy Fort Martin Power Station,1,1,1
+12796,Monongahela Power Co,3943,FirstEnergy Fort Martin Power Station,2,2,1
+12796,Monongahela Power Co,3945,FirstEnergy Rivesville,7,5,4
+12796,Monongahela Power Co,3945,FirstEnergy Rivesville,8,6,4
+12796,Monongahela Power Co,3946,FirstEnergy Willow Island,1,1,4
+12796,Monongahela Power Co,3946,FirstEnergy Willow Island,2,2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,37,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,33,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,34,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,35,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,COB,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,36,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,29,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,32,PS2,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,32,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,36,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,29,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,COB,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,37,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,35,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,33,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,34,PS3,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,42,PS4,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,43,PS4,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,41,PS4,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,44,PS4,4
+12981,Motiva Enterprises LLC,50973,Motiva Enterprises Port Arthur Refinery,46,PS4,4
+13100,Municipal Electric Authority,7946,Wansley Unit 9,HRSG2,COOL1,1
+13100,Municipal Electric Authority,7946,Wansley Unit 9,HRSG1,COOL1,1
+13143,Board of Water Electric & Communications,1167,Muscatine Plant #1,7,7,1
+13143,Board of Water Electric & Communications,1167,Muscatine Plant #1,8,8,1
+13143,Board of Water Electric & Communications,1167,Muscatine Plant #1,9,9,1
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,63,63,1
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,64,64,1
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,65,65,1
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,66,66,1
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,67,67,1
+13168,NRG Huntley Operations Inc,2549,C R Huntley Generating Station,68,68,1
+13192,NRG Arthur Kill Operations Inc,2490,Arthur Kill Generating Station,20,2,1
+13192,NRG Arthur Kill Operations Inc,2490,Arthur Kill Generating Station,30,3,1
+13337,Nebraska Public Power District,2226,Canaday,1,1,1
+13337,Nebraska Public Power District,2277,Sheldon,1,1,1
+13337,Nebraska Public Power District,2277,Sheldon,2,2,1
+13337,Nebraska Public Power District,6077,Gerald Gentleman,1,1,1
+13337,Nebraska Public Power District,6077,Gerald Gentleman,2,2,1
+13337,Nebraska Public Power District,8036,Cooper Nuclear Station,NSS1,CW,3
+13407,Nevada Power Co,2322,Clark (NVE),1,1,3
+13407,Nevada Power Co,2322,Clark (NVE),5,10,3
+13407,Nevada Power Co,2322,Clark (NVE),6,10,3
+13407,Nevada Power Co,2322,Clark (NVE),2,2,3
+13407,Nevada Power Co,2322,Clark (NVE),3,3,3
+13407,Nevada Power Co,2322,Clark (NVE),8,9,3
+13407,Nevada Power Co,2322,Clark (NVE),7,9,3
+13407,Nevada Power Co,2324,Reid Gardner,1,1,1
+13407,Nevada Power Co,2324,Reid Gardner,2,2,1
+13407,Nevada Power Co,2324,Reid Gardner,3,3,1
+13407,Nevada Power Co,2324,Reid Gardner,4,4,1
+13407,Nevada Power Co,7082,Harry Allen,HRSG6,ACC7,1
+13407,Nevada Power Co,7082,Harry Allen,HRSG5,ACC7,1
+13407,Nevada Power Co,55322,Chuck Lenzie Generating Station,HRSG1,ACC1,1
+13407,Nevada Power Co,55322,Chuck Lenzie Generating Station,HRSG2,ACC1,1
+13407,Nevada Power Co,55322,Chuck Lenzie Generating Station,HRSG4,ACC2,1
+13407,Nevada Power Co,55322,Chuck Lenzie Generating Station,HRSG3,ACC2,1
+13407,Nevada Power Co,55687,Higgins Generating Station,HRSG2,ACC,1
+13407,Nevada Power Co,55687,Higgins Generating Station,HRSG1,ACC,1
+13407,Nevada Power Co,55841,Silverhawk,A03,ACC,1
+13407,Nevada Power Co,55841,Silverhawk,A01,ACC,1
+13478,Entergy New Orleans Inc,1409,Michoud,1,1,1
+13478,Entergy New Orleans Inc,1409,Michoud,2,2,1
+13478,Entergy New Orleans Inc,1409,Michoud,3,3,1
+13492,New Hope Power Company,54627,Okeelanta Cogeneration,C,CT1,1
+13492,New Hope Power Company,54627,Okeelanta Cogeneration,B,CT1,1
+13492,New Hope Power Company,54627,Okeelanta Cogeneration,A,CT1,1
+13492,New Hope Power Company,54627,Okeelanta Cogeneration,C,CT2,1
+13492,New Hope Power Company,54627,Okeelanta Cogeneration,A,CT2,1
+13492,New Hope Power Company,54627,Okeelanta Cogeneration,B,CT2,1
+13538,EP Newington Energy LLC,55661,EP Newington Energy LLC,HRSG1,TOW,1
+13538,EP Newington Energy LLC,55661,EP Newington Energy LLC,HRSG2,TOW,1
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,1,1,1
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,2,1,1
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,4,2,1
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,3,2,1
+13584,NRG El Segundo Operations Inc,330,El Segundo Power,3,1,1
+13584,NRG El Segundo Operations Inc,330,El Segundo Power,4,2,1
+13584,NRG El Segundo Operations Inc,330,El Segundo Power,4,3,1
+13584,NRG El Segundo Operations Inc,330,El Segundo Power,3,3,1
+13584,NRG El Segundo Operations Inc,330,El Segundo Power,4,4,1
+13584,NRG El Segundo Operations Inc,57901,El Segundo Energy Center LLC,10,10,3
+13584,NRG El Segundo Operations Inc,57901,El Segundo Energy Center LLC,20,20,3
+13606,Nine Mile Point Nuclear Sta LLC,2589,Nine Mile Point Nuclear Station,NSS1,U1,3
+13606,Nine Mile Point Nuclear Sta LLC,2589,Nine Mile Point Nuclear Station,NSS2,U2,3
+13756,Northern Indiana Pub Serv Co,995,Bailly,7,78,1
+13756,Northern Indiana Pub Serv Co,995,Bailly,8,78,1
+13756,Northern Indiana Pub Serv Co,997,Michigan City,12,12,1
+13756,Northern Indiana Pub Serv Co,997,Michigan City,4,23,1
+13756,Northern Indiana Pub Serv Co,997,Michigan City,5,23,1
+13756,Northern Indiana Pub Serv Co,997,Michigan City,6,23,1
+13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,14,14,1
+13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,15,15,1
+13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,17,17,1
+13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,18,18,1
+13756,Northern Indiana Pub Serv Co,55364,Sugar Creek Power,1B,CW,1
+13756,Northern Indiana Pub Serv Co,55364,Sugar Creek Power,1A,CW,1
+13781,Northern States Power Co - Minnesota,1904,Black Dog,3,1,1
+13781,Northern States Power Co - Minnesota,1904,Black Dog,4,1,1
+13781,Northern States Power Co - Minnesota,1904,Black Dog,5,1,1
+13781,Northern States Power Co - Minnesota,1912,High Bridge,5,5,1
+13781,Northern States Power Co - Minnesota,1912,High Bridge,6,6,1
+13781,Northern States Power Co - Minnesota,1912,High Bridge,9,9,1
+13781,Northern States Power Co - Minnesota,1915,Allen S King,1,1,1
+13781,Northern States Power Co - Minnesota,1922,Monticello Nuclear Facility,NSS1,CS1,3
+13781,Northern States Power Co - Minnesota,1925,Prairie Island,NSS2,0,3
+13781,Northern States Power Co - Minnesota,1925,Prairie Island,NSS1,0,3
+13781,Northern States Power Co - Minnesota,1927,Riverside (MN),7,200,3
+13781,Northern States Power Co - Minnesota,1927,Riverside (MN),7A,200,3
+13781,Northern States Power Co - Minnesota,1927,Riverside (MN),6,200,3
+13781,Northern States Power Co - Minnesota,1927,Riverside (MN),8,300,3
+13781,Northern States Power Co - Minnesota,6090,Sherburne County,1,1,1
+13781,Northern States Power Co - Minnesota,6090,Sherburne County,2,2,1
+13781,Northern States Power Co - Minnesota,6090,Sherburne County,3,3,1
+13914,Occidental Chemical Corporation,55089,Taft Cogeneration Facility,20F201,53E002,1
+13914,Occidental Chemical Corporation,55089,Taft Cogeneration Facility,20F301,53E002,1
+13914,Occidental Chemical Corporation,55089,Taft Cogeneration Facility,20F101,53E002,1
+13923,NRG Oswego Harbor Power Operations Inc,2594,Oswego Harbor Power,5,5,1
+13923,NRG Oswego Harbor Power Operations Inc,2594,Oswego Harbor Power,6,6,1
+13960,NRG Cabrillo Power Ops Inc,302,Encina,1,1,1
+13960,NRG Cabrillo Power Ops Inc,302,Encina,2,2,1
+13960,NRG Cabrillo Power Ops Inc,302,Encina,3,3,1
+13960,NRG Cabrillo Power Ops Inc,302,Encina,4,4,1
+13960,NRG Cabrillo Power Ops Inc,302,Encina,5,5,1
+13994,Oglethorpe Power Corporation,7917,Chattahoochee Energy Facility,8A,10P,1
+13994,Oglethorpe Power Corporation,7917,Chattahoochee Energy Facility,8B,10P,1
+13994,Oglethorpe Power Corporation,55382,Thomas A Smith Energy Facility,1H1100,1CW,1
+13994,Oglethorpe Power Corporation,55382,Thomas A Smith Energy Facility,1H2100,1CW,1
+13994,Oglethorpe Power Corporation,55382,Thomas A Smith Energy Facility,2H1100,2CW,1
+13994,Oglethorpe Power Corporation,55382,Thomas A Smith Energy Facility,2H2100,2CW,1
+14015,Ohio Valley Electric Corp,2876,Kyger Creek,1,1,1
+14015,Ohio Valley Electric Corp,2876,Kyger Creek,2,2,1
+14015,Ohio Valley Electric Corp,2876,Kyger Creek,3,3,1
+14015,Ohio Valley Electric Corp,2876,Kyger Creek,4,4,1
+14015,Ohio Valley Electric Corp,2876,Kyger Creek,5,5,1
+14063,Oklahoma Gas & Electric Co,2951,Horseshoe Lake,8,8CT,1
+14063,Oklahoma Gas & Electric Co,2951,Horseshoe Lake,6,CP,1
+14063,Oklahoma Gas & Electric Co,2951,Horseshoe Lake,7,CP,1
+14063,Oklahoma Gas & Electric Co,2952,Muskogee,4,4CT,1
+14063,Oklahoma Gas & Electric Co,2952,Muskogee,5,5CT,1
+14063,Oklahoma Gas & Electric Co,2952,Muskogee,6,6CT,1
+14063,Oklahoma Gas & Electric Co,2952,Muskogee,3,RIV,1
+14063,Oklahoma Gas & Electric Co,2953,Mustang,1,1CT,1
+14063,Oklahoma Gas & Electric Co,2953,Mustang,2,2CT,1
+14063,Oklahoma Gas & Electric Co,2953,Mustang,3,3CT,1
+14063,Oklahoma Gas & Electric Co,2953,Mustang,4,4CT,1
+14063,Oklahoma Gas & Electric Co,2956,Seminole (OK),1,CP,1
+14063,Oklahoma Gas & Electric Co,2956,Seminole (OK),2,CP,1
+14063,Oklahoma Gas & Electric Co,2956,Seminole (OK),3,CP,1
+14063,Oklahoma Gas & Electric Co,6095,Sooner,2,CP,1
+14063,Oklahoma Gas & Electric Co,6095,Sooner,1,CP,1
+14063,Oklahoma Gas & Electric Co,55457,McClain Energy Facility,1,CT,3
+14063,Oklahoma Gas & Electric Co,55463,Redbud Power Plant,FB1,210CLG,1
+14063,Oklahoma Gas & Electric Co,55463,Redbud Power Plant,FB2,220CLG,1
+14063,Oklahoma Gas & Electric Co,55463,Redbud Power Plant,FB3,230CLG,1
+14063,Oklahoma Gas & Electric Co,55463,Redbud Power Plant,FB4,240CLG,1
+14127,Omaha Public Power District,2289,Fort Calhoun,NSS1,1,3
+14127,Omaha Public Power District,2291,North Omaha,1,1,1
+14127,Omaha Public Power District,2291,North Omaha,2,2,1
+14127,Omaha Public Power District,2291,North Omaha,3,3,1
+14127,Omaha Public Power District,2291,North Omaha,4,4,1
+14127,Omaha Public Power District,2291,North Omaha,5,5,1
+14127,Omaha Public Power District,6096,Nebraska City,1,1,1
+14127,Omaha Public Power District,6096,Nebraska City,2,2,1
+14165,NRG Power Midwest LP,2836,Avon Lake,12,2,1
+14165,NRG Power Midwest LP,2836,Avon Lake,10,2,1
+14165,NRG Power Midwest LP,2861,Niles Power Plant,1,1,4
+14165,NRG Power Midwest LP,2861,Niles Power Plant,2,2,4
+14165,NRG Power Midwest LP,3096,Brunot Island,HRSG2B,CW,1
+14165,NRG Power Midwest LP,3096,Brunot Island,HRSG3,CW,1
+14165,NRG Power Midwest LP,3096,Brunot Island,HRSG2A,CW,1
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,1,1,1
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,2,2,1
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,3,3,1
+14165,NRG Power Midwest LP,3098,Elrama Power Plant,4,4,1
+14165,NRG Power Midwest LP,3138,New Castle Plant,3,3,1
+14165,NRG Power Midwest LP,3138,New Castle Plant,4,4,1
+14165,NRG Power Midwest LP,3138,New Castle Plant,5,5,1
+14165,NRG Power Midwest LP,8226,Cheswick Power Plant,1,1,1
+14184,Orlando CoGen Ltd LP,54466,Orlando Cogen LP,HRSG 1,TOW1,1
+14232,Otter Tail Power Co,1943,Hoot Lake,1,1,1
+14232,Otter Tail Power Co,1943,Hoot Lake,2,2,1
+14232,Otter Tail Power Co,1943,Hoot Lake,3,3,1
+14232,Otter Tail Power Co,1943,Hoot Lake,3,3A,1
+14232,Otter Tail Power Co,6098,Big Stone,1,1,1
+14232,Otter Tail Power Co,8222,Coyote,B1,C1,1
+14266,PPL Susquehanna LLC,6103,PPL Susquehanna,NSS1,1,3
+14266,PPL Susquehanna LLC,6103,PPL Susquehanna,NSS2,2,3
+14268,City of Owensboro - (KY),1374,Elmer Smith,1,1,1
+14268,City of Owensboro - (KY),1374,Elmer Smith,2,2,1
+14274,Otay Mesa Energy Center LLC,55345,Otay Mesa Generating Project,HRSG 1,ACC1,1
+14274,Otay Mesa Energy Center LLC,55345,Otay Mesa Generating Project,HRSG 2,ACC1,1
+14294,PSEG Power New York Inc,2539,Bethlehem Energy Center,5,1,1
+14294,PSEG Power New York Inc,2539,Bethlehem Energy Center,7,1,1
+14294,PSEG Power New York Inc,2539,Bethlehem Energy Center,6,1,1
+14294,PSEG Power New York Inc,2539,Bethlehem Energy Center,1,1,1
+14294,PSEG Power New York Inc,2539,Bethlehem Energy Center,2,2,1
+14294,PSEG Power New York Inc,2539,Bethlehem Energy Center,3,3,1
+14294,PSEG Power New York Inc,2539,Bethlehem Energy Center,4,4,1
+14298,Odessa-Ector Power Partners LP,55215,Odessa Ector Generating Station,HRSG1,CTW1,1
+14298,Odessa-Ector Power Partners LP,55215,Odessa Ector Generating Station,HRSG2,CTW1,1
+14298,Odessa-Ector Power Partners LP,55215,Odessa Ector Generating Station,HRSG3,CTW2,1
+14298,Odessa-Ector Power Partners LP,55215,Odessa Ector Generating Station,HRSG4,CTW2,1
+14306,Eagle 2 US LLC,55117,RS Cogen,R6,RSC,1
+14306,Eagle 2 US LLC,55117,RS Cogen,R5,RSC,1
+14310,P H Glatfelter Co,50397,P H Glatfelter,4PB034,1,1
+14310,P H Glatfelter Co,50397,P H Glatfelter,4PB034,2,1
+14310,P H Glatfelter Co,50397,P H Glatfelter,5PB036,5-6,1
+14310,P H Glatfelter Co,50397,P H Glatfelter,REC037,5-6,1
+14328,Pacific Gas & Electric Co,6099,Diablo Canyon,NSS1,1,3
+14328,Pacific Gas & Electric Co,6099,Diablo Canyon,NSS2,2,3
+14328,Pacific Gas & Electric Co,56476,Gateway Generating Station,HRSGB,ACC1,1
+14328,Pacific Gas & Electric Co,56476,Gateway Generating Station,HRSGA,ACC1,1
+14328,Pacific Gas & Electric Co,56532,Colusa Generating Station,HRSGB,ACC1,1
+14328,Pacific Gas & Electric Co,56532,Colusa Generating Station,HRSGA,ACC1,1
+14354,PacifiCorp,3644,Carbon,1,1,1
+14354,PacifiCorp,3644,Carbon,2,2,1
+14354,PacifiCorp,3648,Gadsby,1,1,1
+14354,PacifiCorp,3648,Gadsby,2,2,1
+14354,PacifiCorp,3648,Gadsby,3,3,1
+14354,PacifiCorp,4158,Dave Johnston,BW41,CW41,1
+14354,PacifiCorp,4158,Dave Johnston,BW42,CW42,1
+14354,PacifiCorp,4158,Dave Johnston,BW43,CW43,1
+14354,PacifiCorp,4158,Dave Johnston,BW44,CW44,1
+14354,PacifiCorp,4162,Naughton,1,1,1
+14354,PacifiCorp,4162,Naughton,2,2,1
+14354,PacifiCorp,4162,Naughton,3,3,1
+14354,PacifiCorp,6101,Wyodak,BW91,AC91,1
+14354,PacifiCorp,6165,Hunter,1,1,1
+14354,PacifiCorp,6165,Hunter,2,2,1
+14354,PacifiCorp,6165,Hunter,3,3,1
+14354,PacifiCorp,8066,Jim Bridger,BW71,CW71,1
+14354,PacifiCorp,8066,Jim Bridger,BW72,CW72,1
+14354,PacifiCorp,8066,Jim Bridger,BW73,CW73,1
+14354,PacifiCorp,8066,Jim Bridger,BW74,CW74,1
+14354,PacifiCorp,8069,Huntington,1,1,1
+14354,PacifiCorp,8069,Huntington,2,2,1
+14354,PacifiCorp,55662,Chehalis Generating Facility,ST1,ACC1,3
+14354,PacifiCorp,56102,Currant Creek,HRSG1B,ACC1,1
+14354,PacifiCorp,56102,Currant Creek,HRSG1A,ACC1,1
+14354,PacifiCorp,56237,Lake Side Power Plant,HRSG01,CS01,1
+14354,PacifiCorp,56237,Lake Side Power Plant,HRSG02,CS01,1
+14354,PacifiCorp,56237,Lake Side Power Plant,HRSG21,CS21,1
+14354,PacifiCorp,56237,Lake Side Power Plant,HRSG22,CS22,1
+14372,Pacific Klamath Energy Inc,55103,Klamath Cogeneration Plant,HRSG2,COOL1,1
+14372,Pacific Klamath Energy Inc,55103,Klamath Cogeneration Plant,HRSG1,COOL1,1
+14412,Gila River Power Station LP,55306,Gila River Power Station,4 B,CT-4,1
+14412,Gila River Power Station LP,55306,Gila River Power Station,4 A,CT-4,1
+14610,Orlando Utilities Comm,564,Stanton Energy Center,1,1,1
+14610,Orlando Utilities Comm,564,Stanton Energy Center,2,2,1
+14610,Orlando Utilities Comm,564,Stanton Energy Center,B,B,1
+14610,Orlando Utilities Comm,55318,Indian River,3,CWS,1
+14610,Orlando Utilities Comm,55318,Indian River,2,CWS,1
+14610,Orlando Utilities Comm,55318,Indian River,1,CWS,1
+14932,US Operating Services Company,10043,Logan Generating Company LP,B01,DAE01,1
+14932,US Operating Services Company,10566,Chambers Cogeneration LP,BOIL2,CT,1
+14932,US Operating Services Company,10566,Chambers Cogeneration LP,BOIL1,CT,1
+14932,US Operating Services Company,50976,Indiantown Cogeneration LP,AAB01,DA,1
+15143,Platte River Power Authority,6761,Rawhide,101,101,1
+15147,PSEG Fossil LLC,2398,Bergen Generating Station,1301,1,1
+15147,PSEG Fossil LLC,2398,Bergen Generating Station,1401,1,1
+15147,PSEG Fossil LLC,2398,Bergen Generating Station,1101,1,1
+15147,PSEG Fossil LLC,2398,Bergen Generating Station,1201,1,1
+15147,PSEG Fossil LLC,2398,Bergen Generating Station,2101,2,1
+15147,PSEG Fossil LLC,2398,Bergen Generating Station,2201,2,1
+15147,PSEG Fossil LLC,2403,PSEG Hudson Generating Station,2,HU,1
+15147,PSEG Fossil LLC,2403,PSEG Hudson Generating Station,1,HU,1
+15147,PSEG Fossil LLC,2406,PSEG Linden Generating Station,12,1,1
+15147,PSEG Fossil LLC,2406,PSEG Linden Generating Station,11,1,1
+15147,PSEG Fossil LLC,2406,PSEG Linden Generating Station,21,2,1
+15147,PSEG Fossil LLC,2406,PSEG Linden Generating Station,22,2,1
+15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,1,ME,1
+15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,2,ME,1
+15147,PSEG Fossil LLC,2411,PSEG Sewaren Generating Station,1,SE,1
+15147,PSEG Fossil LLC,2411,PSEG Sewaren Generating Station,4,SE,1
+15147,PSEG Fossil LLC,2411,PSEG Sewaren Generating Station,2,SE,1
+15147,PSEG Fossil LLC,2411,PSEG Sewaren Generating Station,3,SE,1
+15248,Portland General Electric Co,6106,Boardman,1SG,1CS,1
+15248,Portland General Electric Co,8073,Beaver,2,HX-106,3
+15248,Portland General Electric Co,8073,Beaver,3,HX-106,3
+15248,Portland General Electric Co,8073,Beaver,5,HX-106,3
+15248,Portland General Electric Co,8073,Beaver,1,HX-106,3
+15248,Portland General Electric Co,8073,Beaver,4,HX-106,3
+15248,Portland General Electric Co,8073,Beaver,6,HX-106,3
+15248,Portland General Electric Co,56227,Port Westward,HRSG01,CTW001,1
+15276,PPL Martins Creek LLC,3148,PPL Martins Creek,1,1,1
+15276,PPL Martins Creek LLC,3148,PPL Martins Creek,2,2,1
+15276,PPL Martins Creek LLC,3148,PPL Martins Creek,3,3,1
+15276,PPL Martins Creek LLC,3148,PPL Martins Creek,4,4,1
+15296,New York Power Authority,56196,500MW CC,7A,ACC,3
+15296,New York Power Authority,56196,500MW CC,7B,ACC,3
+15298,Talen Montana LLC,2187,J E Corette Plant,2,2,1
+15298,Talen Montana LLC,6076,Colstrip,1,1,1
+15298,Talen Montana LLC,6076,Colstrip,2,2,1
+15298,Talen Montana LLC,6076,Colstrip,3,3,1
+15298,Talen Montana LLC,6076,Colstrip,4,4,1
+15330,Prairie State Generating Co LLC,55856,Prairie State Generating Station,PC1,1,1
+15330,Prairie State Generating Co LLC,55856,Prairie State Generating Station,PC2,2,1
+15452,PSEG Power Connecticut LLC,568,Bridgeport Station,BHB2,BHC2,1
+15452,PSEG Power Connecticut LLC,568,Bridgeport Station,BHB3,BHC3,1
+15452,PSEG Power Connecticut LLC,6156,New Haven Harbor,NHB1,NHC1,1
+15466,Public Service Co of Colorado,465,Arapahoe,3,3,4
+15466,Public Service Co of Colorado,465,Arapahoe,4,4,4
+15466,Public Service Co of Colorado,469,Cherokee,1,1,1
+15466,Public Service Co of Colorado,469,Cherokee,2,2,1
+15466,Public Service Co of Colorado,469,Cherokee,3,3,1
+15466,Public Service Co of Colorado,469,Cherokee,4,4,1
+15466,Public Service Co of Colorado,469,Cherokee,HRSG2,CWS,1
+15466,Public Service Co of Colorado,469,Cherokee,HRSG1,CWS,1
+15466,Public Service Co of Colorado,470,Comanche (CO),1,1,1
+15466,Public Service Co of Colorado,470,Comanche (CO),2,2,1
+15466,Public Service Co of Colorado,470,Comanche (CO),3,3,1
+15466,Public Service Co of Colorado,477,Valmont,5,1,1
+15466,Public Service Co of Colorado,525,Hayden,H1,H1,1
+15466,Public Service Co of Colorado,525,Hayden,H2,H2,1
+15466,Public Service Co of Colorado,6112,Fort St Vrain,3,1,1
+15466,Public Service Co of Colorado,6112,Fort St Vrain,4,1,1
+15466,Public Service Co of Colorado,6112,Fort St Vrain,2,1,1
+15466,Public Service Co of Colorado,6248,Pawnee,1,1,1
+15466,Public Service Co of Colorado,55835,Rocky Mountain Energy Center,HRSG 2,CWS,1
+15466,Public Service Co of Colorado,55835,Rocky Mountain Energy Center,HRSG 1,CWS,1
+15470,Duke Energy Indiana Inc,1001,Cayuga,1,1,1
+15470,Duke Energy Indiana Inc,1001,Cayuga,2,2,1
+15470,Duke Energy Indiana Inc,1001,Cayuga,2,SUPP,1
+15470,Duke Energy Indiana Inc,1001,Cayuga,1,SUPP,1
+15470,Duke Energy Indiana Inc,1004,Edwardsport,6-1,6,1
+15470,Duke Energy Indiana Inc,1004,Edwardsport,7-2,7,1
+15470,Duke Energy Indiana Inc,1004,Edwardsport,7-1,7,1
+15470,Duke Energy Indiana Inc,1004,Edwardsport,8-1,8,1
+15470,Duke Energy Indiana Inc,1004,Edwardsport,HRSG2,CTWR,1
+15470,Duke Energy Indiana Inc,1004,Edwardsport,HRSG1,CTWR,1
+15470,Duke Energy Indiana Inc,1007,Noblesville,CT3,ST1,3
+15470,Duke Energy Indiana Inc,1007,Noblesville,CT4,ST1,3
+15470,Duke Energy Indiana Inc,1007,Noblesville,CT5,ST1,3
+15470,Duke Energy Indiana Inc,1007,Noblesville,CT4,ST2,3
+15470,Duke Energy Indiana Inc,1007,Noblesville,CT5,ST2,3
+15470,Duke Energy Indiana Inc,1007,Noblesville,CT3,ST2,3
+15470,Duke Energy Indiana Inc,1008,R Gallagher,1,1,1
+15470,Duke Energy Indiana Inc,1008,R Gallagher,2,2,1
+15470,Duke Energy Indiana Inc,1008,R Gallagher,3,3,1
+15470,Duke Energy Indiana Inc,1008,R Gallagher,4,4,1
+15470,Duke Energy Indiana Inc,1010,Wabash River,2,2,1
+15470,Duke Energy Indiana Inc,1010,Wabash River,3,3,1
+15470,Duke Energy Indiana Inc,1010,Wabash River,4,4,1
+15470,Duke Energy Indiana Inc,1010,Wabash River,5,5,1
+15470,Duke Energy Indiana Inc,1010,Wabash River,6,6,1
+15470,Duke Energy Indiana Inc,6113,Gibson,1,1,1
+15470,Duke Energy Indiana Inc,6113,Gibson,2,2,1
+15470,Duke Energy Indiana Inc,6113,Gibson,3,3,1
+15470,Duke Energy Indiana Inc,6113,Gibson,4,4,1
+15470,Duke Energy Indiana Inc,6113,Gibson,5,5,1
+15472,Public Service Co of NH,2364,Merrimack,1,1,1
+15472,Public Service Co of NH,2364,Merrimack,2,2,1
+15472,Public Service Co of NH,2367,Schiller,4,4,1
+15472,Public Service Co of NH,2367,Schiller,5W,5,1
+15472,Public Service Co of NH,2367,Schiller,5,5,1
+15472,Public Service Co of NH,2367,Schiller,6,6,1
+15472,Public Service Co of NH,8002,Newington,1,1,1
+15473,Public Service Co of NM,2450,Reeves,1,1,1
+15473,Public Service Co of NM,2450,Reeves,2,2,1
+15473,Public Service Co of NM,2450,Reeves,3,3,1
+15473,Public Service Co of NM,2451,San Juan,1,1,1
+15473,Public Service Co of NM,2451,San Juan,2,2,1
+15473,Public Service Co of NM,2451,San Juan,3,3,1
+15473,Public Service Co of NM,2451,San Juan,4,4,1
+15473,Public Service Co of NM,55210,Afton Generating Station,1,1,1
+15473,Public Service Co of NM,55343,Luna Energy Facility,1,1,1
+15473,Public Service Co of NM,55343,Luna Energy Facility,2,1,1
+15474,Public Service Co of Oklahoma,127,Oklaunion,1,1,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3314,3301,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3301A,3301,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3313,3301,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3302,3301,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3301B,3301,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3302,3302,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3313,3313,1
+15474,Public Service Co of Oklahoma,2963,Northeastern,3314,3314,1
+15474,Public Service Co of Oklahoma,2964,Southwestern,801S,8001,1
+15474,Public Service Co of Oklahoma,2964,Southwestern,801N,8001,1
+15474,Public Service Co of Oklahoma,2964,Southwestern,8002,8002,1
+15474,Public Service Co of Oklahoma,2964,Southwestern,8003,8003,1
+15474,Public Service Co of Oklahoma,2965,Tulsa,1402,1402,1
+15474,Public Service Co of Oklahoma,2965,Tulsa,1403,1403,1
+15474,Public Service Co of Oklahoma,2965,Tulsa,1404,1404,1
+15474,Public Service Co of Oklahoma,4940,Riverside (OK),1501,1501,1
+15474,Public Service Co of Oklahoma,4940,Riverside (OK),1502,1502,1
+15474,Public Service Co of Oklahoma,8059,Comanche (OK),7252,7253,3
+15474,Public Service Co of Oklahoma,8059,Comanche (OK),7251,7253,3
+15478,PSEG Nuclear LLC,2410,PSEG Salem Generating Station,NSS1,NSS1,3
+15478,PSEG Nuclear LLC,2410,PSEG Salem Generating Station,NSS2,NSS2,3
+15478,PSEG Nuclear LLC,6118,PSEG Hope Creek Generating Station,NSS1,HC,3
+15500,Puget Sound Energy Inc,55482,Goldendale Generating Station,HRSG1,MAIN,1
+15500,Puget Sound Energy Inc,55700,Mint Farm Generating Station,HRSG1,1CLG,1
+15534,PPL Montour LLC,3149,PPL Montour,1,1,1
+15534,PPL Montour LLC,3149,PPL Montour,2,2,1
+15537,Brunner Island LLC,3140,Brunner Island,1,1,1
+15537,Brunner Island LLC,3140,Brunner Island,2,2,1
+15537,Brunner Island LLC,3140,Brunner Island,3,3,1
+15708,Rathdrum Operating Services Co.comma Inc.,55179,Rathdrum Power LLC,1,UNIT1,1
+15873,GenOn Northeast Management Company,3118,Conemaugh,1,1,1
+15873,GenOn Northeast Management Company,3118,Conemaugh,2,2,1
+15873,GenOn Northeast Management Company,3136,Keystone,1,1,1
+15873,GenOn Northeast Management Company,3136,Keystone,2,2,1
+15908,NRG California South LP,329,Coolwater,1,1&2,1
+15908,NRG California South LP,329,Coolwater,2,1&2,1
+15908,NRG California South LP,329,Coolwater,31,3&4,1
+15908,NRG California South LP,329,Coolwater,42,3&4,1
+15908,NRG California South LP,329,Coolwater,41,3&4,1
+15908,NRG California South LP,329,Coolwater,32,3&4,1
+15908,NRG California South LP,331,Etiwanda Generating Station,3,3,1
+15908,NRG California South LP,331,Etiwanda Generating Station,4,4,1
+15908,NRG California South LP,345,Mandalay,1,1,1
+15908,NRG California South LP,345,Mandalay,2,1,1
+15908,NRG California South LP,350,Ormond Beach,2,1,1
+15908,NRG California South LP,350,Ormond Beach,1,1,1
+16190,Sappi Fine Paper North America-Somerset,50406,Somerset Plant,REC,1,1
+16190,Sappi Fine Paper North America-Somerset,50406,Somerset Plant,2HFB,1,1
+16190,Sappi Fine Paper North America-Somerset,50406,Somerset Plant,1HFB,1,1
+16190,Sappi Fine Paper North America-Somerset,50406,Somerset Plant,1HFB,2,1
+16190,Sappi Fine Paper North America-Somerset,50406,Somerset Plant,REC,2,1
+16190,Sappi Fine Paper North America-Somerset,50406,Somerset Plant,2HFB,2,1
+16233,Rocky Mountain Power Inc,55749,Hardin Generator Project,PC1,CCW1,1
+16534,Sacramento Municipal Util Dist,55970,Cosumnes,HRSGB,PLANT,3
+16534,Sacramento Municipal Util Dist,55970,Cosumnes,HRSGA,PLANT,3
+16572,Salt River Project,141,Agua Fria,1,1,1
+16572,Salt River Project,141,Agua Fria,2,2,1
+16572,Salt River Project,141,Agua Fria,3,3,1
+16572,Salt River Project,147,Kyrene,K-1,K-1,1
+16572,Salt River Project,147,Kyrene,K-2,K-2,1
+16572,Salt River Project,147,Kyrene,K-7,K-7,1
+16572,Salt River Project,4941,Navajo,1,1A-1B,1
+16572,Salt River Project,4941,Navajo,2,2A-2B,1
+16572,Salt River Project,4941,Navajo,3,3A-3B,1
+16572,Salt River Project,6177,Coronado,U1B,U1CW,1
+16572,Salt River Project,6177,Coronado,U2B,U2CW,1
+16572,Salt River Project,8068,Santan,3,1-4,1
+16572,Salt River Project,8068,Santan,4,1-4,1
+16572,Salt River Project,8068,Santan,1,1-4,1
+16572,Salt River Project,8068,Santan,2,1-4,1
+16572,Salt River Project,8068,Santan,5B,5,1
+16572,Salt River Project,8068,Santan,5A,5,1
+16572,Salt River Project,8068,Santan,6A,6,1
+16572,Salt River Project,55129,Desert Basin,HRSG1,HRC,1
+16572,Salt River Project,55129,Desert Basin,HRSG2,HRC,1
+16572,Salt River Project,58557,Mesquite Generating Station Block 1,2,1,1
+16572,Salt River Project,58557,Mesquite Generating Station Block 1,1,1,1
+16604,City of San Antonio - (TX),3609,Leon Creek,3,3,4
+16604,City of San Antonio - (TX),3609,Leon Creek,4,4,4
+16604,City of San Antonio - (TX),3611,O W Sommers,1,1,1
+16604,City of San Antonio - (TX),3611,O W Sommers,2,2,1
+16604,City of San Antonio - (TX),3612,V H Braunig,1,1,1
+16604,City of San Antonio - (TX),3612,V H Braunig,2,2,1
+16604,City of San Antonio - (TX),3612,V H Braunig,3,3,1
+16604,City of San Antonio - (TX),3613,W B Tuttle,1,1,4
+16604,City of San Antonio - (TX),3613,W B Tuttle,2,2,4
+16604,City of San Antonio - (TX),3613,W B Tuttle,3,3,4
+16604,City of San Antonio - (TX),3613,W B Tuttle,4,4,4
+16604,City of San Antonio - (TX),6181,J T Deely,1,1,1
+16604,City of San Antonio - (TX),6181,J T Deely,2,2,1
+16604,City of San Antonio - (TX),7097,J K Spruce,BLR1,LAKE1,1
+16604,City of San Antonio - (TX),7097,J K Spruce,BLR2,LAKE2,1
+16604,City of San Antonio - (TX),7512,Arthur Von Rosenberg,2,1,1
+16604,City of San Antonio - (TX),7512,Arthur Von Rosenberg,1,1,1
+16604,City of San Antonio - (TX),55137,Rio Nogales Power Project,301,CIRC,1
+16604,City of San Antonio - (TX),55137,Rio Nogales Power Project,201,CIRC,1
+16604,City of San Antonio - (TX),55137,Rio Nogales Power Project,101,CIRC,1
+16609,San Diego Gas & Electric Co,55985,Palomar Energy,HRSG1,CW,1
+16609,San Diego Gas & Electric Co,55985,Palomar Energy,HRSG2,CW,1
+16624,San Miguel Electric Coopcomma Inc,6183,San Miguel,SM-1,SM-1,1
+16909,Selkirk Cogen Partners LP,10725,Selkirk Cogen,HRSG1,CS1,1
+16909,Selkirk Cogen Partners LP,10725,Selkirk Cogen,HRSG2,CS2,1
+16909,Selkirk Cogen Partners LP,10725,Selkirk Cogen,HRSG3,CS2,1
+17139,Shell Oil Co-Deer Park,50304,Shell Deer Park,H8610,CPS,4
+17139,Shell Oil Co-Deer Park,50304,Shell Deer Park,H8620,CPS,4
+17166,Sierra Pacific Power Co,2330,Fort Churchill,2,1,1
+17166,Sierra Pacific Power Co,2330,Fort Churchill,1,1,1
+17166,Sierra Pacific Power Co,2336,Tracy,4,1,1
+17166,Sierra Pacific Power Co,2336,Tracy,3,1,1
+17166,Sierra Pacific Power Co,2336,Tracy,1,1,1
+17166,Sierra Pacific Power Co,2336,Tracy,2,1,1
+17166,Sierra Pacific Power Co,2336,Tracy,9,ACC1,1
+17166,Sierra Pacific Power Co,2336,Tracy,8,ACC1,1
+17166,Sierra Pacific Power Co,8224,North Valmy,1,1NEW,1
+17166,Sierra Pacific Power Co,8224,North Valmy,1,1OLD,1
+17166,Sierra Pacific Power Co,8224,North Valmy,2,2,1
+17177,City of Sikeston - (MO),6768,Sikeston Power Station,1,1,1
+17235,NRG REMA LLC,2393,Gilbert,4,1,3
+17235,NRG REMA LLC,2393,Gilbert,6,1,3
+17235,NRG REMA LLC,2393,Gilbert,5,1,3
+17235,NRG REMA LLC,2393,Gilbert,7,1,3
+17235,NRG REMA LLC,3113,Portland (PA),1,1,1
+17235,NRG REMA LLC,3113,Portland (PA),2,1,1
+17235,NRG REMA LLC,3115,Titus,3,1,4
+17235,NRG REMA LLC,3115,Titus,2,1,4
+17235,NRG REMA LLC,3115,Titus,1,1,4
+17235,NRG REMA LLC,3131,Shawville,4,1,1
+17235,NRG REMA LLC,3131,Shawville,3,1,1
+17235,NRG REMA LLC,3131,Shawville,2,1,1
+17235,NRG REMA LLC,3131,Shawville,1,1,1
+17254,Sithe/Independence LLC,54547,Sithe Independence Station,HRSG 2,CW5,1
+17254,Sithe/Independence LLC,54547,Sithe Independence Station,HRSG 1,CW5,1
+17254,Sithe/Independence LLC,54547,Sithe Independence Station,HRSG 3,CW6,1
+17254,Sithe/Independence LLC,54547,Sithe Independence Station,HRSG 4,CW6,1
+17465,RockTenn-West Point Mill,10017,West Point Mill,RF04,CT01,1
+17465,RockTenn-West Point Mill,10017,West Point Mill,RF05,CT01,1
+17465,RockTenn-West Point Mill,10017,West Point Mill,PB08,CT01,1
+17465,RockTenn-West Point Mill,10017,West Point Mill,PB10,CT01,1
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,CAN3,CAN3,4
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,CAN2,CANA,4
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,CAN1,CANA,4
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,CAN3,CANHS,4
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,CAN2,CANHS,4
+17539,South Carolina Electric&Gas Company,3280,Canadys Steam,CAN1,CANHS,4
+17539,South Carolina Electric&Gas Company,3287,McMeekin,MCM2,MCM1,1
+17539,South Carolina Electric&Gas Company,3287,McMeekin,MCM1,MCM1,1
+17539,South Carolina Electric&Gas Company,3295,Urquhart,URQ3,URQ1,1
+17539,South Carolina Electric&Gas Company,3295,Urquhart,HRSG6,URQ1,1
+17539,South Carolina Electric&Gas Company,3295,Urquhart,HRSG5,URQ1,1
+17539,South Carolina Electric&Gas Company,3297,Wateree,WAT1,WAT1,1
+17539,South Carolina Electric&Gas Company,3297,Wateree,WAT2,WAT2,1
+17539,South Carolina Electric&Gas Company,6127,V C Summer,NSS1,VCS1,3
+17539,South Carolina Electric&Gas Company,7210,Cope,COP1,COP1,1
+17539,South Carolina Electric&Gas Company,55927,Jasper,HRSG1,CW,1
+17539,South Carolina Electric&Gas Company,55927,Jasper,HRSG3,CW,1
+17539,South Carolina Electric&Gas Company,55927,Jasper,HRSG2,CW,1
+17543,South Carolina Public Service Authority,130,Cross,1,1,1
+17543,South Carolina Public Service Authority,130,Cross,2,2,1
+17543,South Carolina Public Service Authority,130,Cross,3,3,1
+17543,South Carolina Public Service Authority,130,Cross,4,4,1
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,2,1,4
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,1,1,4
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,1,2,4
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,2,2,4
+17543,South Carolina Public Service Authority,3319,Jefferies,1,1,1
+17543,South Carolina Public Service Authority,3319,Jefferies,2,2,1
+17543,South Carolina Public Service Authority,3319,Jefferies,4,3,1
+17543,South Carolina Public Service Authority,3319,Jefferies,3,3,1
+17543,South Carolina Public Service Authority,6249,Winyah,1,1,1
+17543,South Carolina Public Service Authority,6249,Winyah,2,2,1
+17543,South Carolina Public Service Authority,6249,Winyah,3,3,1
+17543,South Carolina Public Service Authority,6249,Winyah,4,4,1
+17543,South Carolina Public Service Authority,7834,John S Rainey,1B,1S,3
+17543,South Carolina Public Service Authority,7834,John S Rainey,1A,1S,3
+17554,South Carolina Genertg Cocomma Inc,3298,Williams,WIL1,WIL1,1
+17566,South Houston Green Power LP,55470,Green Power 2,HRSG1,CT805,1
+17566,South Houston Green Power LP,55470,Green Power 2,HRSG3,CT805,1
+17566,South Houston Green Power LP,55470,Green Power 2,HRSG2,CT805,1
+17568,South Mississippi El Pwr Assn,2070,Moselle,HRSG2,A,1
+17568,South Mississippi El Pwr Assn,2070,Moselle,1,A,1
+17568,South Mississippi El Pwr Assn,2070,Moselle,2,A,1
+17568,South Mississippi El Pwr Assn,2070,Moselle,HRSG1,A,1
+17568,South Mississippi El Pwr Assn,2070,Moselle,3,A,1
+17568,South Mississippi El Pwr Assn,6061,R D Morrow,1,1,1
+17568,South Mississippi El Pwr Assn,6061,R D Morrow,2,1,1
+17568,South Mississippi El Pwr Assn,55063,Batesville Generation Facility,HRSG1,CCW1,1
+17568,South Mississippi El Pwr Assn,55063,Batesville Generation Facility,HRSG2,CCW1,1
+17568,South Mississippi El Pwr Assn,55063,Batesville Generation Facility,HRSG3,CCW1,1
+17609,Southern California Edison Co,358,Mountainview Generating Station,MV3A,CT3,1
+17609,Southern California Edison Co,358,Mountainview Generating Station,MV3B,CT3,1
+17609,Southern California Edison Co,358,Mountainview Generating Station,MV4B,CT4,1
+17609,Southern California Edison Co,358,Mountainview Generating Station,MV4A,CT4,1
+17609,Southern California Edison Co,360,San Onofre Nuclear Generating Station,NSS2,S2CIRC,4
+17609,Southern California Edison Co,360,San Onofre Nuclear Generating Station,NSS3,S3CIRC,4
+17609,Southern California Edison Co,2341,Mohave,1,1,4
+17609,Southern California Edison Co,2341,Mohave,2,1,4
+17632,Southern Illinois Power Coop,976,Marion,123,1-4,1
+17632,Southern Illinois Power Coop,976,Marion,4,1-4,1
+17633,Southern Indiana Gas & Elec Co,1012,F B Culley,1,1,1
+17633,Southern Indiana Gas & Elec Co,1012,F B Culley,2,2,1
+17633,Southern Indiana Gas & Elec Co,1012,F B Culley,3,3,1
+17633,Southern Indiana Gas & Elec Co,6137,A B Brown,1,1,1
+17633,Southern Indiana Gas & Elec Co,6137,A B Brown,2,2,1
+17650,Southern Power Co,7710,H Allen Franklin Combined Cycle,1B,U1C,1
+17650,Southern Power Co,7710,H Allen Franklin Combined Cycle,1A,U1C,1
+17650,Southern Power Co,7710,H Allen Franklin Combined Cycle,2A,U2C,1
+17650,Southern Power Co,7710,H Allen Franklin Combined Cycle,2B,U2C,1
+17650,Southern Power Co,7710,H Allen Franklin Combined Cycle,3A,U3C,1
+17650,Southern Power Co,7710,H Allen Franklin Combined Cycle,3B,U3C,1
+17650,Southern Power Co,7826,Rowan,5,U4C,3
+17650,Southern Power Co,7826,Rowan,4,U4C,3
+17650,Southern Power Co,7897,E B Harris Electric Generating Plant,1A,U1C,1
+17650,Southern Power Co,7897,E B Harris Electric Generating Plant,1B,U1C,1
+17650,Southern Power Co,7897,E B Harris Electric Generating Plant,2B,U2C,1
+17650,Southern Power Co,7897,E B Harris Electric Generating Plant,2A,U2C,1
+17650,Southern Power Co,55708,Nacogdoches Power,BLR1,COOL1,1
+17650,Southern Power Co,55821,Curtis H Stanton Energy Center,26,1,1
+17650,Southern Power Co,55821,Curtis H Stanton Energy Center,25,1,1
+17650,Southern Power Co,55965,Wansley Combined Cycle,6A,U6C,1
+17650,Southern Power Co,55965,Wansley Combined Cycle,6B,U6C,1
+17650,Southern Power Co,55965,Wansley Combined Cycle,7B,U7C,1
+17650,Southern Power Co,55965,Wansley Combined Cycle,7A,U7C,1
+17698,Southwestern Electric Power Co,1416,Arsenal Hill,5A,CW,1
+17698,Southwestern Electric Power Co,1417,Lieberman,3,CW,1
+17698,Southwestern Electric Power Co,1417,Lieberman,4,CW,1
+17698,Southwestern Electric Power Co,1417,Lieberman,1,CW,1
+17698,Southwestern Electric Power Co,1417,Lieberman,2,CW,1
+17698,Southwestern Electric Power Co,3476,Knox Lee,5,CW,1
+17698,Southwestern Electric Power Co,3476,Knox Lee,3,CW,1
+17698,Southwestern Electric Power Co,3476,Knox Lee,2,CW,1
+17698,Southwestern Electric Power Co,3476,Knox Lee,4,CW,1
+17698,Southwestern Electric Power Co,3478,Wilkes,3,CW,1
+17698,Southwestern Electric Power Co,3478,Wilkes,2,CW,1
+17698,Southwestern Electric Power Co,3478,Wilkes,1,CW,1
+17698,Southwestern Electric Power Co,6138,Flint Creek,1,CW,1
+17698,Southwestern Electric Power Co,6139,Welsh,3,CW,1
+17698,Southwestern Electric Power Co,6139,Welsh,2,CW,1
+17698,Southwestern Electric Power Co,6139,Welsh,1,CW,1
+17698,Southwestern Electric Power Co,7902,Pirkey,1,CW,1
+17698,Southwestern Electric Power Co,56564,John W Turk Jr Power Plant,1,1,1
+17698,Southwestern Electric Power Co,56565,J Lamar Stall Unit,HRSG2,PLANT,3
+17698,Southwestern Electric Power Co,56565,J Lamar Stall Unit,HRSG1,PLANT,3
+17718,Southwestern Public Service Co,2446,Maddox,051B,051C,1
+17718,Southwestern Public Service Co,2454,Cunningham,121B,121C,1
+17718,Southwestern Public Service Co,2454,Cunningham,122B,122C,1
+17718,Southwestern Public Service Co,3482,Jones,151B,151C,1
+17718,Southwestern Public Service Co,3482,Jones,152B,152C,1
+17718,Southwestern Public Service Co,3484,Nichols,141B,141C,1
+17718,Southwestern Public Service Co,3484,Nichols,142B,142C,1
+17718,Southwestern Public Service Co,3484,Nichols,143B,143C,1
+17718,Southwestern Public Service Co,3485,Plant X,114B,114C,1
+17718,Southwestern Public Service Co,3485,Plant X,111B,115C,1
+17718,Southwestern Public Service Co,3485,Plant X,113B,115C,1
+17718,Southwestern Public Service Co,3485,Plant X,112B,115C,1
+17718,Southwestern Public Service Co,6193,Harrington,061B,061C,1
+17718,Southwestern Public Service Co,6193,Harrington,062B,062C,1
+17718,Southwestern Public Service Co,6193,Harrington,063B,063C,1
+17718,Southwestern Public Service Co,6194,Tolk,171B,171C,1
+17718,Southwestern Public Service Co,6194,Tolk,172B,172C,1
+17828,City of Springfield - (IL),963,Dallman,31,31,1
+17828,City of Springfield - (IL),963,Dallman,32,32,1
+17828,City of Springfield - (IL),963,Dallman,33,33,1
+17828,City of Springfield - (IL),963,Dallman,41,41,1
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,2,1,1
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,3,1,1
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,1,1,1
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,4,1,1
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,5,1,1
+17833,City Utilities of Springfield - (MO),6195,John Twitty Energy Center,1,1,1
+17833,City Utilities of Springfield - (MO),6195,John Twitty Energy Center,2,2,1
+18162,RockTenn-Florence,50806,Florence Mill,PB1,600SYS,1
+18162,RockTenn-Florence,50806,Florence Mill,PB3,600SYS,1
+18162,RockTenn-Florence,50806,Florence Mill,RBF,600SYS,1
+18162,RockTenn-Florence,50806,Florence Mill,PB4,COGEN,1
+18315,Sunflower Electric Power Corp,108,Holcomb,SGU1,CW1A,1
+18315,Sunflower Electric Power Corp,1233,Fort Dodge,4,4,1
+18315,Sunflower Electric Power Corp,1336,Garden City,GC3,GC3,2
+18315,Sunflower Electric Power Corp,1336,Garden City,S-2,S-2A,2
+18320,Sunrise Power Co LLC,55182,Sunrise Power LLC,HRSG2,HRC,1
+18320,Sunrise Power Co LLC,55182,Sunrise Power LLC,HRSG1,HRC,1
+18445,City of Tallahassee - (FL),688,Arvah B Hopkins,1,1,1
+18445,City of Tallahassee - (FL),688,Arvah B Hopkins,2,2,1
+18445,City of Tallahassee - (FL),688,Arvah B Hopkins,2A,2,1
+18445,City of Tallahassee - (FL),689,S O Purdom,9,9,4
+18454,Tampa Electric Co,645,Big Bend,BB01,OTC1,1
+18454,Tampa Electric Co,645,Big Bend,BB02,OTC2,1
+18454,Tampa Electric Co,645,Big Bend,BB03,OTC3,1
+18454,Tampa Electric Co,645,Big Bend,BB04,OTC4,1
+18454,Tampa Electric Co,7242,Polk,1A,RC01,3
+18454,Tampa Electric Co,7242,Polk,2B,RC01,3
+18454,Tampa Electric Co,7242,Polk,2C,RC01,3
+18454,Tampa Electric Co,7242,Polk,2A,RC01,3
+18454,Tampa Electric Co,7242,Polk,1B,RC01,3
+18454,Tampa Electric Co,7242,Polk,1C,RC01,3
+18454,Tampa Electric Co,7873,H L Culbreath Bayside Power Station,1C,CS01,3
+18454,Tampa Electric Co,7873,H L Culbreath Bayside Power Station,1B,CS01,3
+18454,Tampa Electric Co,7873,H L Culbreath Bayside Power Station,1A,CS01,3
+18454,Tampa Electric Co,7873,H L Culbreath Bayside Power Station,2C,CS02,3
+18454,Tampa Electric Co,7873,H L Culbreath Bayside Power Station,2D,CS02,3
+18454,Tampa Electric Co,7873,H L Culbreath Bayside Power Station,2A,CS02,3
+18454,Tampa Electric Co,7873,H L Culbreath Bayside Power Station,2B,CS02,3
+18488,City of Taunton,1682,Cleary Flood,8,8,1
+18488,City of Taunton,1682,Cleary Flood,9,9,1
+18518,Tenaska Gateway Partners Ltd,55132,Tenaska Gateway Generating Station,HRSG3,CLTWR,1
+18518,Tenaska Gateway Partners Ltd,55132,Tenaska Gateway Generating Station,HRSG2,CLTWR,1
+18518,Tenaska Gateway Partners Ltd,55132,Tenaska Gateway Generating Station,HRSG1,CLTWR,1
+18569,Tenaska Virginia Partners LP,55439,Tenaska Virginia Generating Station,HRSG1,CLTWR,1
+18569,Tenaska Virginia Partners LP,55439,Tenaska Virginia Generating Station,HRSG2,CLTWR,1
+18569,Tenaska Virginia Partners LP,55439,Tenaska Virginia Generating Station,HRSG3,CLTWR,1
+18611,Tenaska Frontier Partners Ltd,55062,Tenaska Frontier Generation Station,HRSG3,CLTWR,1
+18611,Tenaska Frontier Partners Ltd,55062,Tenaska Frontier Generation Station,HRSG1,CLTWR,1
+18611,Tenaska Frontier Partners Ltd,55062,Tenaska Frontier Generation Station,HRSG2,CLTWR,1
+18642,Tennessee Valley Authority,46,Browns Ferry,NSS2,SITE,3
+18642,Tennessee Valley Authority,46,Browns Ferry,NSS1,SITE,3
+18642,Tennessee Valley Authority,46,Browns Ferry,NSS3,SITE,3
+18642,Tennessee Valley Authority,47,Colbert,5,1,1
+18642,Tennessee Valley Authority,47,Colbert,2,1,1
+18642,Tennessee Valley Authority,47,Colbert,4,1,1
+18642,Tennessee Valley Authority,47,Colbert,1,1,1
+18642,Tennessee Valley Authority,47,Colbert,3,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,3,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,2,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,1,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,6,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,7,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,4,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,5,1,1
+18642,Tennessee Valley Authority,50,Widows Creek,8,1,1
+18642,Tennessee Valley Authority,1378,Paradise,3,1,1
+18642,Tennessee Valley Authority,1378,Paradise,2,1,1
+18642,Tennessee Valley Authority,1378,Paradise,1,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,2,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,5,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,1,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,4,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,8,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,7,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,9,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,6,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,10,1,1
+18642,Tennessee Valley Authority,1379,Shawnee,3,1,1
+18642,Tennessee Valley Authority,3393,Allen Steam Plant,3,1,1
+18642,Tennessee Valley Authority,3393,Allen Steam Plant,1,1,1
+18642,Tennessee Valley Authority,3393,Allen Steam Plant,2,1,1
+18642,Tennessee Valley Authority,3396,Bull Run,1,1,1
+18642,Tennessee Valley Authority,3399,Cumberland (TN),1,1,1
+18642,Tennessee Valley Authority,3399,Cumberland (TN),2,1,1
+18642,Tennessee Valley Authority,3403,Gallatin (TN),4,1,1
+18642,Tennessee Valley Authority,3403,Gallatin (TN),1,1,1
+18642,Tennessee Valley Authority,3403,Gallatin (TN),3,1,1
+18642,Tennessee Valley Authority,3403,Gallatin (TN),2,1,1
+18642,Tennessee Valley Authority,3405,John Sevier,4,1,1
+18642,Tennessee Valley Authority,3405,John Sevier,3,1,1
+18642,Tennessee Valley Authority,3405,John Sevier,2,1,1
+18642,Tennessee Valley Authority,3405,John Sevier,1,1,1
+18642,Tennessee Valley Authority,3405,John Sevier,HRSG1,2,1
+18642,Tennessee Valley Authority,3406,Johnsonville,6,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,8,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,7,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,1,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,10,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,2,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,5,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,3,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,4,1,1
+18642,Tennessee Valley Authority,3406,Johnsonville,9,1,1
+18642,Tennessee Valley Authority,3407,Kingston,4,1,1
+18642,Tennessee Valley Authority,3407,Kingston,7,1,1
+18642,Tennessee Valley Authority,3407,Kingston,9,1,1
+18642,Tennessee Valley Authority,3407,Kingston,6,1,1
+18642,Tennessee Valley Authority,3407,Kingston,1,1,1
+18642,Tennessee Valley Authority,3407,Kingston,3,1,1
+18642,Tennessee Valley Authority,3407,Kingston,5,1,1
+18642,Tennessee Valley Authority,3407,Kingston,2,1,1
+18642,Tennessee Valley Authority,3407,Kingston,8,1,1
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,D,A,4
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,C,A,4
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,A,A,4
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,B,A,4
+18642,Tennessee Valley Authority,6152,Sequoyah,NSS2,SITE,3
+18642,Tennessee Valley Authority,6152,Sequoyah,NSS1,SITE,3
+18642,Tennessee Valley Authority,7722,Watts Bar Nuclear Plant,NSS2,SITE,3
+18642,Tennessee Valley Authority,7722,Watts Bar Nuclear Plant,NSS1,SITE,3
+18642,Tennessee Valley Authority,7845,Lagoon Creek,HRSG,SITE,1
+18642,Tennessee Valley Authority,55197,Caledonia,1,UNIT 1,1
+18642,Tennessee Valley Authority,55197,Caledonia,2,UNIT 2,1
+18642,Tennessee Valley Authority,55197,Caledonia,3,UNIT 3,1
+18642,Tennessee Valley Authority,55269,TVA Southaven Combined Cycle,1,UNIT1,1
+18642,Tennessee Valley Authority,55269,TVA Southaven Combined Cycle,2,UNIT2,1
+18642,Tennessee Valley Authority,55269,TVA Southaven Combined Cycle,3,UNIT3,1
+18642,Tennessee Valley Authority,55451,Magnolia Power Plant,FB1,310CLG,1
+18642,Tennessee Valley Authority,55451,Magnolia Power Plant,FB2,320CLG,1
+18642,Tennessee Valley Authority,55451,Magnolia Power Plant,FB3,330CLG,1
+18715,Texas Municipal Power Agency,6136,Gibbons Creek,1,1,1
+18835,Tenaska Alabama B LP,55440,Tenaska Central Alabama Generating Stn,HRSG2,CLTWR,1
+18835,Tenaska Alabama B LP,55440,Tenaska Central Alabama Generating Stn,HRSG3,CLTWR,1
+18835,Tenaska Alabama B LP,55440,Tenaska Central Alabama Generating Stn,HRSG1,CLTWR,1
+19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,60,70,1
+19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,40,70,1
+19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,50,70,1
+19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,30,70,1
+19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,BW21,CW21,1
+19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,BW22,CW22,1
+19281,Turlock Irrigation District,56078,Walnut Energy Center,301,CWS,3
+19316,Two Elk Generation Partners LP,55360,Two Elk Generating Station,1,ACC,1
+19436,Union Electric Co - (MO),2103,Labadie,1,1,1
+19436,Union Electric Co - (MO),2103,Labadie,2,2,1
+19436,Union Electric Co - (MO),2103,Labadie,3,3,1
+19436,Union Electric Co - (MO),2103,Labadie,4,4,1
+19436,Union Electric Co - (MO),2104,Meramec,1,1,1
+19436,Union Electric Co - (MO),2104,Meramec,2,2,1
+19436,Union Electric Co - (MO),2104,Meramec,3,3,1
+19436,Union Electric Co - (MO),2104,Meramec,4,4,1
+19436,Union Electric Co - (MO),2107,Sioux,1,1,1
+19436,Union Electric Co - (MO),2107,Sioux,2,2,1
+19436,Union Electric Co - (MO),6153,Callaway,NSS1,1,3
+19436,Union Electric Co - (MO),6155,Rush Island,1,1,1
+19436,Union Electric Co - (MO),6155,Rush Island,2,2,1
+19526,United States Steel-Gary,50733,Gary Works,TBB6,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,4BH2,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,4BH1,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,4BH3,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,TBB5,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,TBB4A,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,TBB3,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,TBB2,SWPS2,1
+19526,United States Steel-Gary,50733,Gary Works,TBB1,SWPS2,1
+19545,Black Hills Power Inc,56596,Wygen III,1,5,1
+19547,Hawaiian Electric Co Inc,764,Honolulu,16,8,1
+19547,Hawaiian Electric Co Inc,764,Honolulu,17,9,1
+19547,Hawaiian Electric Co Inc,765,Kahe,5,1-6,1
+19547,Hawaiian Electric Co Inc,765,Kahe,3,1-6,1
+19547,Hawaiian Electric Co Inc,765,Kahe,6,1-6,1
+19547,Hawaiian Electric Co Inc,765,Kahe,1,1-6,1
+19547,Hawaiian Electric Co Inc,765,Kahe,4,1-6,1
+19547,Hawaiian Electric Co Inc,765,Kahe,2,1-6,1
+19547,Hawaiian Electric Co Inc,766,Waiau,4,3,1
+19547,Hawaiian Electric Co Inc,766,Waiau,3,3,1
+19547,Hawaiian Electric Co Inc,766,Waiau,5,5,1
+19547,Hawaiian Electric Co Inc,766,Waiau,6,5,1
+19547,Hawaiian Electric Co Inc,766,Waiau,7,7,1
+19547,Hawaiian Electric Co Inc,766,Waiau,8,7,1
+19804,City of Vero Beach - (FL),693,Vero Beach Municipal Power Plant,1,1,1
+19804,City of Vero Beach - (FL),693,Vero Beach Municipal Power Plant,CA,2,1
+19804,City of Vero Beach - (FL),693,Vero Beach Municipal Power Plant,3,3,1
+19804,City of Vero Beach - (FL),693,Vero Beach Municipal Power Plant,4,4,1
+19830,NRG Vienna Operations Inc,1564,Vienna Operations,8,8,1
+19876,Virginia Electric & Power Co,3796,Bremo Bluff,3,3,1
+19876,Virginia Electric & Power Co,3796,Bremo Bluff,4,4,1
+19876,Virginia Electric & Power Co,3797,Chesterfield,3,3,1
+19876,Virginia Electric & Power Co,3797,Chesterfield,4,4,1
+19876,Virginia Electric & Power Co,3797,Chesterfield,5,5,1
+19876,Virginia Electric & Power Co,3797,Chesterfield,6,6,1
+19876,Virginia Electric & Power Co,3797,Chesterfield,CT7,CW7,1
+19876,Virginia Electric & Power Co,3797,Chesterfield,CT8,CW8,1
+19876,Virginia Electric & Power Co,3803,Chesapeake,1,1,1
+19876,Virginia Electric & Power Co,3803,Chesapeake,2,2,1
+19876,Virginia Electric & Power Co,3803,Chesapeake,3,3,1
+19876,Virginia Electric & Power Co,3803,Chesapeake,4,4,1
+19876,Virginia Electric & Power Co,3804,Possum Point,3,3,1
+19876,Virginia Electric & Power Co,3804,Possum Point,4,4,1
+19876,Virginia Electric & Power Co,3804,Possum Point,5,5,1
+19876,Virginia Electric & Power Co,3804,Possum Point,6B,6,1
+19876,Virginia Electric & Power Co,3804,Possum Point,6A,6,1
+19876,Virginia Electric & Power Co,3806,Surry,NSS1,CW1,3
+19876,Virginia Electric & Power Co,3806,Surry,NSS2,CW2,3
+19876,Virginia Electric & Power Co,3809,Yorktown,1,1,1
+19876,Virginia Electric & Power Co,3809,Yorktown,2,2,1
+19876,Virginia Electric & Power Co,3809,Yorktown,3,3,1
+19876,Virginia Electric & Power Co,3954,Mt Storm,1,1,1
+19876,Virginia Electric & Power Co,3954,Mt Storm,2,2,1
+19876,Virginia Electric & Power Co,3954,Mt Storm,3,3,1
+19876,Virginia Electric & Power Co,6168,North Anna,NSS1,CW1,3
+19876,Virginia Electric & Power Co,6168,North Anna,NSS2,CW2,3
+19876,Virginia Electric & Power Co,7213,Clover,1,1,1
+19876,Virginia Electric & Power Co,7213,Clover,2,2,1
+19876,Virginia Electric & Power Co,50966,Bellmeade Power Station,2,1,1
+19876,Virginia Electric & Power Co,50966,Bellmeade Power Station,1,1,1
+19876,Virginia Electric & Power Co,52007,Mecklenburg Power Station,BLR1,CS1,1
+19876,Virginia Electric & Power Co,52007,Mecklenburg Power Station,BLR2,CS2,1
+19876,Virginia Electric & Power Co,54844,Gordonsville Energy LP,1,1,1
+19876,Virginia Electric & Power Co,54844,Gordonsville Energy LP,2,2,1
+19876,Virginia Electric & Power Co,55939,Warren County,CT02,1,1
+19876,Virginia Electric & Power Co,55939,Warren County,CT03,1,1
+19876,Virginia Electric & Power Co,55939,Warren County,CT01,1,1
+19876,Virginia Electric & Power Co,56807,Bear Garden,1B,1,1
+19876,Virginia Electric & Power Co,56807,Bear Garden,1A,1,1
+19876,Virginia Electric & Power Co,56808,Virginia City Hybrid Energy Center,2,1,1
+19876,Virginia Electric & Power Co,56808,Virginia City Hybrid Energy Center,1,1,1
+20159,Washington Parish Engy Ctr LLC,55486,Washington Parish Energy Center,HRSG2,CT,3
+20159,Washington Parish Engy Ctr LLC,55486,Washington Parish Energy Center,HRSG1,CT,3
+20160,Energy Northwest,371,Columbia Generating Station,NSS2,CW,3
+20169,Avista Corp,7931,Coyote Springs II,SG02,CW02,1
+20447,Western Farmers Elec Coopcomma Inc,3006,Anadarko Plant,1,1,1
+20447,Western Farmers Elec Coopcomma Inc,3006,Anadarko Plant,2,2,1
+20447,Western Farmers Elec Coopcomma Inc,3006,Anadarko Plant,3,3,1
+20447,Western Farmers Elec Coopcomma Inc,3006,Anadarko Plant,6,4,1
+20447,Western Farmers Elec Coopcomma Inc,3006,Anadarko Plant,4,4,1
+20447,Western Farmers Elec Coopcomma Inc,3006,Anadarko Plant,5,4,1
+20447,Western Farmers Elec Coopcomma Inc,3008,Mooreland,1,1,1
+20447,Western Farmers Elec Coopcomma Inc,3008,Mooreland,2,2,1
+20447,Western Farmers Elec Coopcomma Inc,3008,Mooreland,3,3,1
+20447,Western Farmers Elec Coopcomma Inc,6772,Hugo,1,1,1
+20492,Weyerhaeuser Co,50184,Weyerhaeuser Columbus MS,REC,COLTWR,1
+20492,Weyerhaeuser Co,50184,Weyerhaeuser Columbus MS,PKG,COLTWR,1
+20492,Weyerhaeuser Co,50184,Weyerhaeuser Columbus MS,COMB,COLTWR,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,4,002,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,3,002,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,2,002,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,1,002,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,6,003,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,5,003,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,9,004,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,7,004,1
+20847,Wisconsin Electric Power Co,1769,Presque Isle,8,004,1
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,BO12,CD10,1
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,BO11,CD10,1
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,BO21,CD20,1
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,BO22,CD20,1
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,5,303,1
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,6,304,1
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,7,305,1
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,8,306,1
+20847,Wisconsin Electric Power Co,4042,Valley (WI),2,401,1
+20847,Wisconsin Electric Power Co,4042,Valley (WI),1,401,1
+20847,Wisconsin Electric Power Co,4042,Valley (WI),4,402,1
+20847,Wisconsin Electric Power Co,4042,Valley (WI),3,402,1
+20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,2,801,1
+20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,1,801,1
+20847,Wisconsin Electric Power Co,56068,Elm Road Generating Station,18,013,1
+20847,Wisconsin Electric Power Co,56068,Elm Road Generating Station,19,013,1
+20856,Wisconsin Power & Light Co,4050,Edgewater,3,3,1
+20856,Wisconsin Power & Light Co,4050,Edgewater,4,4,1
+20856,Wisconsin Power & Light Co,4050,Edgewater,5,5,1
+20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,1,1,1
+20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,2,2,1
+20856,Wisconsin Power & Light Co,8023,Columbia (WI),1,1,1
+20856,Wisconsin Power & Light Co,8023,Columbia (WI),2,2,1
+20856,Wisconsin Power & Light Co,55641,Riverside Energy Center,HRSG1,CWS,1
+20856,Wisconsin Power & Light Co,55641,Riverside Energy Center,HRSG2,CWS,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,6,3,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,3,3,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,7,3,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,5,3,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,8,3,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,4,3,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,5,4,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,3,4,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,7,4,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,4,4,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,6,4,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,8,4,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,7,5,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,8,5,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,3,5,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,4,5,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,6,5,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,5,5,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,7,6,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,8,6,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,6,6,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,3,6,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,4,6,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,5,6,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,7,7,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,3,7,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,8,7,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,6,7,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,5,7,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,4,7,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,5,8,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,7,8,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,8,8,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,3,8,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,6,8,1
+20860,Wisconsin Public Service Corp,4072,Pulliam,4,8,1
+20860,Wisconsin Public Service Corp,4078,Weston,2,1,1
+20860,Wisconsin Public Service Corp,4078,Weston,1,1,1
+20860,Wisconsin Public Service Corp,4078,Weston,2,2,1
+20860,Wisconsin Public Service Corp,4078,Weston,1,2,1
+20860,Wisconsin Public Service Corp,4078,Weston,3,3,1
+20860,Wisconsin Public Service Corp,4078,Weston,4,4,1
+20860,Wisconsin Public Service Corp,56031,Fox Energy Center,HRSG1,RF,1
+20860,Wisconsin Public Service Corp,56031,Fox Energy Center,HRSG2,RF,1
+20893,Wolf Creek Nuclear Optg Corp,210,Wolf Creek Generating Station,NSS1,1,3
+21461,NRG Canal LLC,1599,Canal,1,1,1
+21461,NRG Canal LLC,1599,Canal,2,2,1
+21535,STP Nuclear Operating Co,6251,South Texas Project,NSS1,MCR,3
+21535,STP Nuclear Operating Co,6251,South Texas Project,NSS2,MCR,3
+21554,Seminole Electric Cooperative Inc,136,Seminole (FL),1,1,1
+21554,Seminole Electric Cooperative Inc,136,Seminole (FL),2,2,1
+21554,Seminole Electric Cooperative Inc,7380,Midulla Generating Station,HRSG2,STEAM,3
+21554,Seminole Electric Cooperative Inc,7380,Midulla Generating Station,HRSG1,STEAM,3
+21579,New Covert Generating Company  LLC,55297,New Covert Generating Facility,HRSG1,1,1
+21579,New Covert Generating Company  LLC,55297,New Covert Generating Facility,HRSG2,2,1
+21579,New Covert Generating Company  LLC,55297,New Covert Generating Facility,HRSG3,3,1
+21668,Wise County Power Company  LLC,55320,Wise County Power LLC,HRSG1,PAB,1
+21668,Wise County Power Company  LLC,55320,Wise County Power LLC,HRSG2,PAB,1
+21970,Northeast Energy Associates LP,10307,Bellingham Cogeneration Facility,HRSG1,ACC001,3
+21970,Northeast Energy Associates LP,10307,Bellingham Cogeneration Facility,HRSG2,ACC001,3
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1B,1,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1A,1,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,3,1,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2A,1,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2B,1,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,4,1,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2B,2,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1A,2,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,3,2,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,4,2,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2A,2,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1B,2,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2B,3,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,4,3,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1A,3,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2A,3,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1B,3,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,3,3,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2B,4,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,4,4,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1B,4,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,1A,4,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,3,4,1
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,2A,4,1
+22053,Kentucky Power Co,1353,Big Sandy,BSU1,U1CT,1
+22053,Kentucky Power Co,1353,Big Sandy,BSU2,U2CT,1
+22053,Kentucky Power Co,3948,Mitchell (WV),1,1,1
+22053,Kentucky Power Co,3948,Mitchell (WV),2,2,1
+22125,Cayuga Operating Companycomma LLC,2535,Cayuga Operating Company,1,1,1
+22125,Cayuga Operating Companycomma LLC,2535,Cayuga Operating Company,2,2,1
+22129,Somerset Operating Co LLC,6082,Somerset Operating Co LLC,1,1,1
+22131,Red Oak Operating Services LLC,55239,Red Oak Power LLC,HRSG1,TOWER,3
+22131,Red Oak Operating Services LLC,55239,Red Oak Power LLC,HRSG3,TOWER,3
+22131,Red Oak Operating Services LLC,55239,Red Oak Power LLC,HRSG2,TOWER,3
+22148,AES Alamitos LLC,315,AES Alamitos LLC,1,1,1
+22148,AES Alamitos LLC,315,AES Alamitos LLC,2,2,1
+22148,AES Alamitos LLC,315,AES Alamitos LLC,3,3,1
+22148,AES Alamitos LLC,315,AES Alamitos LLC,4,4,1
+22148,AES Alamitos LLC,315,AES Alamitos LLC,5,5,1
+22148,AES Alamitos LLC,315,AES Alamitos LLC,6,6,1
+22290,North Jersey Energy Assoc LP,10308,Sayreville Cogeneration Facility,HRSG1,DC,3
+22290,North Jersey Energy Assoc LP,10308,Sayreville Cogeneration Facility,HRSG2,DC,3
+22380,NRG Montville Operations Inc,546,Montville Station,5,5,1
+22380,NRG Montville Operations Inc,546,Montville Station,6,6,1
+22484,AES Redondo Beach LLC,356,AES Redondo Beach LLC,5,5,1
+22484,AES Redondo Beach LLC,356,AES Redondo Beach LLC,6,6,1
+22484,AES Redondo Beach LLC,356,AES Redondo Beach LLC,7,7,1
+22484,AES Redondo Beach LLC,356,AES Redondo Beach LLC,8,8,1
+22500,Westar Energy Inc,1248,Hutchinson Energy Center,2,123,1
+22500,Westar Energy Inc,1248,Hutchinson Energy Center,3,123,1
+22500,Westar Energy Inc,1248,Hutchinson Energy Center,1,123,1
+22500,Westar Energy Inc,1248,Hutchinson Energy Center,4,4,1
+22500,Westar Energy Inc,1250,Lawrence Energy Center,3,L235,1
+22500,Westar Energy Inc,1250,Lawrence Energy Center,4,L4,1
+22500,Westar Energy Inc,1250,Lawrence Energy Center,5,L5,1
+22500,Westar Energy Inc,1252,Tecumseh Energy Center,9,7,1
+22500,Westar Energy Inc,1252,Tecumseh Energy Center,10,8,1
+22500,Westar Energy Inc,6068,Jeffrey Energy Center,1,1,1
+22500,Westar Energy Inc,6068,Jeffrey Energy Center,2,2,1
+22500,Westar Energy Inc,6068,Jeffrey Energy Center,3,3,1
+22650,Calpine Corp-Sutter,55112,Sutter Energy Center,HRSG1,ACC,1
+22650,Calpine Corp-Sutter,55112,Sutter Energy Center,HRSG2,ACC,1
+22652,Texas City Cogeneration LLC,52088,Texas City Power Plant,HRSG 3,CT,1
+22652,Texas City Cogeneration LLC,52088,Texas City Power Plant,HRSG 2,CT,1
+22652,Texas City Cogeneration LLC,52088,Texas City Power Plant,HRSG 1,CT,1
+22979,Astoria Energy LLC,55375,Astoria Energy,HRSG2,ACC1,1
+22979,Astoria Energy LLC,55375,Astoria Energy,HRSG1,ACC1,1
+23013,EIF Northampton GPcomma LLC,50888,Northampton Generating Company LP,BLR1,CT1,1
+23279,Allegheny Energy Supply Co LLC,1570,FirstEnergy R Paul Smith Power Station,9,3,4
+23279,Allegheny Energy Supply Co LLC,1570,FirstEnergy R Paul Smith Power Station,11,4,4
+23279,Allegheny Energy Supply Co LLC,3178,FirstEnergy Armstrong Power Station,1,1,4
+23279,Allegheny Energy Supply Co LLC,3178,FirstEnergy Armstrong Power Station,2,2,4
+23279,Allegheny Energy Supply Co LLC,3179,Hatfields Ferry Power Station,2,1,4
+23279,Allegheny Energy Supply Co LLC,3179,Hatfields Ferry Power Station,2,2,4
+23279,Allegheny Energy Supply Co LLC,3179,Hatfields Ferry Power Station,1,2,4
+23279,Allegheny Energy Supply Co LLC,3179,Hatfields Ferry Power Station,3,2,4
+23279,Allegheny Energy Supply Co LLC,3181,FirstEnergy Mitchell Power Station,2,2,4
+23279,Allegheny Energy Supply Co LLC,3181,FirstEnergy Mitchell Power Station,3,2,4
+23279,Allegheny Energy Supply Co LLC,3181,FirstEnergy Mitchell Power Station,1,2,4
+23279,Allegheny Energy Supply Co LLC,3181,FirstEnergy Mitchell Power Station,33,3,4
+23279,Allegheny Energy Supply Co LLC,3944,FirstEnergy Harrison Power Station,2,1,1
+23279,Allegheny Energy Supply Co LLC,3944,FirstEnergy Harrison Power Station,1,1,1
+23279,Allegheny Energy Supply Co LLC,3944,FirstEnergy Harrison Power Station,2,2,1
+23279,Allegheny Energy Supply Co LLC,3944,FirstEnergy Harrison Power Station,3,2,1
+23279,Allegheny Energy Supply Co LLC,6004,FirstEnergy Pleasants Power Station,1,1,1
+23279,Allegheny Energy Supply Co LLC,6004,FirstEnergy Pleasants Power Station,2,2,1
+23279,Allegheny Energy Supply Co LLC,55710,FirstEnergy Allegheny Energy Units 3 4 & 5,STB,1,3
+23693,AES Huntington Beach LLC,335,AES Huntington Beach LLC,2,1,1
+23693,AES Huntington Beach LLC,335,AES Huntington Beach LLC,1,1,1
+23693,AES Huntington Beach LLC,335,AES Huntington Beach LLC,3A,1,1
+23693,AES Huntington Beach LLC,335,AES Huntington Beach LLC,4A,1,1
+24202,Carr Street Generating Sta LP,50978,Carr Street Generating Station,HRSG1,CW,4
+24202,Carr Street Generating Sta LP,50978,Carr Street Generating Station,HRSG2,CW,4
+24211,Tucson Electric Power Co,126,H Wilson Sundt Generating Station,1,1,1
+24211,Tucson Electric Power Co,126,H Wilson Sundt Generating Station,2,2,1
+24211,Tucson Electric Power Co,126,H Wilson Sundt Generating Station,3,3,1
+24211,Tucson Electric Power Co,126,H Wilson Sundt Generating Station,4,4,1
+24211,Tucson Electric Power Co,8223,Springerville,1,1,1
+24211,Tucson Electric Power Co,8223,Springerville,2,2,1
+24211,Tucson Electric Power Co,8223,Springerville,4,4,1
+24211,Tucson Electric Power Co,8223,Springerville,3,4,1
+24211,Tucson Electric Power Co,59784,Gila River Power Block 3,3 B,CT-3,1
+24211,Tucson Electric Power Co,59784,Gila River Power Block 3,3 A,CT-3,1
+26469,Ingleside Cogeneration LP,55313,Ingleside Cogeneration,20F101,53E001,1
+26469,Ingleside Cogeneration LP,55313,Ingleside Cogeneration,20F201,53E001,1
+26853,La Paloma Generating Co LLC,55151,La Paloma Generating LLC,HRSG1,TWR1,3
+26853,La Paloma Generating Co LLC,55151,La Paloma Generating LLC,HRSG2,TWR1,3
+26853,La Paloma Generating Co LLC,55151,La Paloma Generating LLC,HRSG4,TWR2,3
+26853,La Paloma Generating Co LLC,55151,La Paloma Generating LLC,HRSG3,TWR2,3
+27031,Liberty Electric Power LLC,55231,Liberty Electric Power Plant,HRSG1,CT,1
+27031,Liberty Electric Power LLC,55231,Liberty Electric Power Plant,HRSG2,CT,1
+29122,Morgan Energy Center LLC,55293,Morgan Energy Center,HRSG 3,CWS,1
+29122,Morgan Energy Center LLC,55293,Morgan Energy Center,HRSG 1,CWS,1
+29122,Morgan Energy Center LLC,55293,Morgan Energy Center,HRSG 2,CWS,1
+29926,Entergy Nuclear Generation Co,1590,Pilgrim Nuclear Power Station,NSS1,CW,3
+30002,International Paper Co,50398,International Paper Savanna Mill,15RB,10TGCT,1
+30002,International Paper Co,50398,International Paper Savanna Mill,13PB,9CT,1
+30151,Tri-State G & T Assncomma Inc,87,Escalante,1,1,1
+30151,Tri-State G & T Assncomma Inc,527,Nucla,1,N1-3,1
+30151,Tri-State G & T Assncomma Inc,527,Nucla,1,N4,1
+30151,Tri-State G & T Assncomma Inc,6021,Craig (CO),C1,C1,1
+30151,Tri-State G & T Assncomma Inc,6021,Craig (CO),C2,C2,1
+30151,Tri-State G & T Assncomma Inc,6021,Craig (CO),C3,C3,1
+30151,Tri-State G & T Assncomma Inc,50707,JM Shafer Generating Station,HRSG A,CT,1
+30151,Tri-State G & T Assncomma Inc,50707,JM Shafer Generating Station,HRSG E,CT,1
+30151,Tri-State G & T Assncomma Inc,50707,JM Shafer Generating Station,HRSG D,CT,1
+30151,Tri-State G & T Assncomma Inc,50707,JM Shafer Generating Station,HRSG B,CT,1
+30151,Tri-State G & T Assncomma Inc,50707,JM Shafer Generating Station,HRSG C,CT,1
+31386,Tenaska Alabama Partners LP,55271,Tenaska Lindsay Hill Generating Station,HRSG2,CLTWR,1
+31386,Tenaska Alabama Partners LP,55271,Tenaska Lindsay Hill Generating Station,HRSG3,CLTWR,1
+31386,Tenaska Alabama Partners LP,55271,Tenaska Lindsay Hill Generating Station,HRSG1,CLTWR,1
+31719,FPL Energy Wyman LLC,1507,William F Wyman,1,1,1
+31719,FPL Energy Wyman LLC,1507,William F Wyman,2,2,1
+31719,FPL Energy Wyman LLC,1507,William F Wyman,3,3,1
+31719,FPL Energy Wyman LLC,1507,William F Wyman,4,4,1
+32173,New Athens Generating Company LLC,55405,Athens Generating Plant,HRSG01,UNIT 1,3
+32173,New Athens Generating Company LLC,55405,Athens Generating Plant,HRSG02,UNIT 2,3
+32173,New Athens Generating Company LLC,55405,Athens Generating Plant,HRSG03,UNIT 3,3
+32790,New Harquahala Generating Cocomma LLC,55372,Harquahala Generating Project,HRSG3,CTA&B,3
+32790,New Harquahala Generating Cocomma LLC,55372,Harquahala Generating Project,HRSG2,CTA&B,3
+32790,New Harquahala Generating Cocomma LLC,55372,Harquahala Generating Project,HRSG1,CTA&B,3
+34164,Elk Hills Power LLC,55400,Elk Hills Power LLC,HRSG1,CW,1
+34164,Elk Hills Power LLC,55400,Elk Hills Power LLC,HRSG2,CW,1
+39347,East Texas Electric Coopcomma Inc,55664,Harrison County Power Project,HCCP 1,CWS,1
+39347,East Texas Electric Coopcomma Inc,55664,Harrison County Power Project,HCCP 2,CWS,1
+40211,Wabash Valley Power Assncomma Inc,57842,Wabash Valley Power IGCC,1,1,3
+40211,Wabash Valley Power Assncomma Inc,57842,Wabash Valley Power IGCC,1HRSG,1,3
+40229,Old Dominion Electric Coop,59220,Wildcat Point Generation Facility,HRSG2,T1,1
+40229,Old Dominion Electric Coop,59220,Wildcat Point Generation Facility,HRSG1,T1,1
+40230,Deseret Generation & Tran Coop,7790,Bonanza,1-1,1-1,1
+40577,American Mun Power-Ohiocomma Inc,7286,Richard Gorsuch,4,1,4
+40577,American Mun Power-Ohiocomma Inc,7286,Richard Gorsuch,1,1,4
+40577,American Mun Power-Ohiocomma Inc,7286,Richard Gorsuch,3,1,4
+40577,American Mun Power-Ohiocomma Inc,7286,Richard Gorsuch,2,1,4
+40577,American Mun Power-Ohiocomma Inc,55701,Fremont Energy Center,P001,CWS01,1
+40577,American Mun Power-Ohiocomma Inc,55701,Fremont Energy Center,P002,CWS01,1
+40606,City of Grand Island - (NE),59,Platte,1,1,1
+40613,Northern California Power Agny,57978,Lodi Energy Center,ST1HRG,TWR,3
+49745,Cash Creek Generating LLC,56107,Cash Creek,HRSG2,CS,1
+49745,Cash Creek Generating LLC,56107,Cash Creek,HRSG,CS,1
+49756,Illinois Power Resources Generating LLC,856,E D Edwards,1,1,1
+49756,Illinois Power Resources Generating LLC,856,E D Edwards,2,2,1
+49756,Illinois Power Resources Generating LLC,856,E D Edwards,3,3,1
+49756,Illinois Power Resources Generating LLC,6016,Duck Creek,1,1,1
+49768,Bastrop Energy Partnerscomma LP,55168,Bastrop Energy Center,HRSG1B,CTOWER,1
+49768,Bastrop Energy Partnerscomma LP,55168,Bastrop Energy Center,HRSG1A,CTOWER,1
+49791,Eastman Cogeneration LP,55176,Eastman Cogeneration Facility,HRSG 2,GEA CT,1
+49791,Eastman Cogeneration LP,55176,Eastman Cogeneration Facility,HRSG 1,GEA CT,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,2,1,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,1,1,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,3,1,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,1,2,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,2,2,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,3,2,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,2,3,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,1,3,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,3,3,1
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,4,4,1
+49893,Invenergy Services LLC,7999,Grays Harbor Energy Facility,HRSG1,CW1,1
+49893,Invenergy Services LLC,7999,Grays Harbor Energy Facility,HRSG2,CW1,1
+49893,Invenergy Services LLC,55183,Nelson Energy Center,HRSG1,CW-10,1
+49893,Invenergy Services LLC,55183,Nelson Energy Center,HRSG2,CW-20,1
+49896,Newmont Nevada Energy Investmentcomma LLC,56224,TS Power Plant,BLR100,CTW100,1
+49950,Caithness Long Islandcomma LLC,56234,Caithness Long Island Energy Center,HRSG01,ACC01,1
+49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,7,7,1
+49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,81,85,1
+49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,82,85,1
+49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,94,96,1
+49965,Constellation Mystic Power LLC,1588,Mystic Generating Station,93,96,1
+49974,NAES Corporation - (WA),55334,Holland Energy Facility,HRSG 2,CIRC,1
+49974,NAES Corporation - (WA),55334,Holland Energy Facility,HRSG 1,CIRC,1
+49979,Topaz Power Group  LLC,3441,Nueces Bay,5,5,1
+49979,Topaz Power Group  LLC,3441,Nueces Bay,6,6,1
+49979,Topaz Power Group  LLC,3441,Nueces Bay,9,7,1
+49979,Topaz Power Group  LLC,3441,Nueces Bay,7,7,1
+49979,Topaz Power Group  LLC,3441,Nueces Bay,8,7,1
+49979,Topaz Power Group  LLC,4939,Barney M Davis,1,1,1
+49979,Topaz Power Group  LLC,4939,Barney M Davis,3,2,1
+49979,Topaz Power Group  LLC,4939,Barney M Davis,2,2,1
+49979,Topaz Power Group  LLC,4939,Barney M Davis,4,2,1
+50018,Dominion Energy New Englandcomma LLC,3236,Manchester Street,HRSG10,10,3
+50018,Dominion Energy New Englandcomma LLC,3236,Manchester Street,HRSG11,11,3
+50018,Dominion Energy New Englandcomma LLC,3236,Manchester Street,HRSG09,9,3
+50033,PPG Industries Inc Natrium,50491,PPG Natrium Plant,5BLR,7CIRC,1
+50053,Calhoun Port Authority,3436,E S Joslin,1,1,4
+50100,R.E. Ginna Nuclear Power Plantcomma LLC,6122,R E Ginna Nuclear Power Plant,NSS1,1,3
+50111,Lafayette Utilities System,1443,Louis Doc Bonin,1,1,1
+50111,Lafayette Utilities System,1443,Louis Doc Bonin,2,2,1
+50111,Lafayette Utilities System,1443,Louis Doc Bonin,3,3,1
+50129,Georgia-Pacific Cons Op LLC Port Hudson,10612,Georgia-Pacific Port Hudson,PB1SCB,CS1,1
+50157,South Point Energy Center LLC,55177,South Point Energy Center,HRSG B,CW,1
+50157,South Point Energy Center LLC,55177,South Point Energy Center,HRSG A,CW,1
+50161,FirstEnergy Nuclear Operating Company,6020,Perry,NSS1,CSID01,3
+50161,FirstEnergy Nuclear Operating Company,6040,Beaver Valley,NSS1,CSID01,3
+50161,FirstEnergy Nuclear Operating Company,6040,Beaver Valley,NSS2,CSID02,3
+50161,FirstEnergy Nuclear Operating Company,6149,Davis Besse,NSS1,CSID01,3
+54693,Osprey Energy Center,55412,Osprey Energy Center Power Plant,HRSG1,CT,1
+54693,Osprey Energy Center,55412,Osprey Energy Center Power Plant,HRSG2,CT,1
+54784,NewPage Corporation,10495,Rumford Cogeneration,CRECV,COOLTW,1
+54784,NewPage Corporation,10495,Rumford Cogeneration,7,COOLTW,1
+54784,NewPage Corporation,10495,Rumford Cogeneration,6,COOLTW,1
+54796,Union Power Partners LP,55380,Union Power Partners LP,1 B,CT-1,3
+54796,Union Power Partners LP,55380,Union Power Partners LP,1 A,CT-1,3
+54796,Union Power Partners LP,55380,Union Power Partners LP,2 A,CT-2,3
+54796,Union Power Partners LP,55380,Union Power Partners LP,2 B,CT-2,3
+54796,Union Power Partners LP,55380,Union Power Partners LP,3 B,CT-3,3
+54796,Union Power Partners LP,55380,Union Power Partners LP,3 A,CT-3,3
+54796,Union Power Partners LP,55380,Union Power Partners LP,4 B,CT-4,3
+54796,Union Power Partners LP,55380,Union Power Partners LP,4 A,CT-4,3
+54802,Dynegy -Moss Landing LLC,260,Dynegy Moss Landing Power Plant,6-1,6,1
+54802,Dynegy -Moss Landing LLC,260,Dynegy Moss Landing Power Plant,7-1,7,1
+54802,Dynegy -Moss Landing LLC,260,Dynegy Moss Landing Power Plant,HRSG2,U1,1
+54802,Dynegy -Moss Landing LLC,260,Dynegy Moss Landing Power Plant,HRSG1,U1,1
+54802,Dynegy -Moss Landing LLC,260,Dynegy Moss Landing Power Plant,HRSG4,U2,1
+54802,Dynegy -Moss Landing LLC,260,Dynegy Moss Landing Power Plant,HRSG3,U2,1
+54817,Fairless Energy LLC,55298,Fairless Energy Center,HRSG1A,BLK1CS,1
+54817,Fairless Energy LLC,55298,Fairless Energy Center,HRSG1B,BLK1CS,1
+54817,Fairless Energy LLC,55298,Fairless Energy Center,HRSG2A,BLK2CS,1
+54817,Fairless Energy LLC,55298,Fairless Energy Center,HRSG2B,BLK2CS,1
+54863,U S Power Generating Company LLC,8906,Astoria Generating Station,20,2,1
+54863,U S Power Generating Company LLC,8906,Astoria Generating Station,30,3,1
+54863,U S Power Generating Company LLC,8906,Astoria Generating Station,40,4,1
+54863,U S Power Generating Company LLC,8906,Astoria Generating Station,50,5,1
+54885,NRG Wholesale Generation LP,3130,Seward (PA),2,1,1
+54885,NRG Wholesale Generation LP,3130,Seward (PA),1,1,1
+54885,NRG Wholesale Generation LP,55706,Choctaw County,HRG301,ACC,1
+54885,NRG Wholesale Generation LP,55706,Choctaw County,HRG101,ACC,1
+54885,NRG Wholesale Generation LP,55706,Choctaw County,HRG201,ACC,1
+54885,NRG Wholesale Generation LP,55976,Hunterstown Power Plant,301,ACC,1
+54885,NRG Wholesale Generation LP,55976,Hunterstown Power Plant,201,ACC,1
+54885,NRG Wholesale Generation LP,55976,Hunterstown Power Plant,101,ACC,1
+54888,NRG Texas Power LLC,298,Limestone,LIM1,C1,1
+54888,NRG Texas Power LLC,298,Limestone,LIM2,C2,1
+54888,NRG Texas Power LLC,3460,Cedar Bayou,CBY1,C1,1
+54888,NRG Texas Power LLC,3460,Cedar Bayou,CBY2,C2,1
+54888,NRG Texas Power LLC,3460,Cedar Bayou,CBY3,C3,1
+54888,NRG Texas Power LLC,3464,Greens Bayou,GBY5,C5,1
+54888,NRG Texas Power LLC,3468,Sam Bertron,SRB1,C1,1
+54888,NRG Texas Power LLC,3468,Sam Bertron,SRB2,C2,1
+54888,NRG Texas Power LLC,3468,Sam Bertron,SRB3,C3,1
+54888,NRG Texas Power LLC,3468,Sam Bertron,SRB4,C4,1
+54888,NRG Texas Power LLC,3469,T H Wharton,THW2,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB32,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB42,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB44,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB41,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB33,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB34,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB31,C2,3
+54888,NRG Texas Power LLC,3469,T H Wharton,THWB43,C2,3
+54888,NRG Texas Power LLC,3470,W A Parish,WAP1,C1,1
+54888,NRG Texas Power LLC,3470,W A Parish,WAP2,C2,1
+54888,NRG Texas Power LLC,3470,W A Parish,WAP3,C3,1
+54888,NRG Texas Power LLC,3470,W A Parish,WAP4,C4,1
+54888,NRG Texas Power LLC,3470,W A Parish,WAP5,C5,1
+54888,NRG Texas Power LLC,3470,W A Parish,WAP6,C6,1
+54888,NRG Texas Power LLC,3470,W A Parish,WAP7,C7,1
+54888,NRG Texas Power LLC,3470,W A Parish,WAP8,C8,1
+54890,Russell City Energy Company LLC,56467,Russell City Energy Center,HRSG1,CT1,1
+54890,Russell City Energy Company LLC,56467,Russell City Energy Center,HRSG2,CT1,1
+54899,NAES Corporation - (DE),599,McKee Run,2,1,1
+54899,NAES Corporation - (DE),599,McKee Run,1,1,1
+54899,NAES Corporation - (DE),599,McKee Run,2,2,1
+54899,NAES Corporation - (DE),599,McKee Run,1,2,1
+54899,NAES Corporation - (DE),599,McKee Run,3,3,1
+54907,ReNu Power Holdings LLC,3443,Victoria,6,4,1
+54907,ReNu Power Holdings LLC,3443,Victoria,HRSG9,4/5CT,1
+54907,ReNu Power Holdings LLC,3443,Victoria,8,4/5CT,1
+54907,ReNu Power Holdings LLC,3443,Victoria,6,4/5CT,1
+54907,ReNu Power Holdings LLC,3443,Victoria,HRSG9,5,1
+54907,ReNu Power Holdings LLC,3443,Victoria,8,5,1
+54907,ReNu Power Holdings LLC,3443,Victoria,8,6,1
+54915,Dogwood Power Managementcomma LLC,55178,Dogwood Energy Facility,HRSG2,CT,1
+54915,Dogwood Power Managementcomma LLC,55178,Dogwood Energy Facility,HRSG1,CT,1
+55269,NextEra Energy Duane Arnold LLC,1060,Duane Arnold Energy Center,NSS1,CW,3
+55269,NextEra Energy Duane Arnold LLC,1060,Duane Arnold Energy Center,NSS1,WW,3
+55307,Colorado Energy Management,10682,Brush Generation Facility,HR1,CT1,1
+55307,Colorado Energy Management,10682,Brush Generation Facility,HR2,CT2,1
+55307,Colorado Energy Management,10682,Brush Generation Facility,HR5,CT4,1
+55307,Colorado Energy Management,10682,Brush Generation Facility,HR4,CT4,1
+55510,Tiverton Power LLC,55048,Tiverton Power Plant,HRSG1,ACC1,4
+55649,Ontelaunee Energy Center,55193,Ontelaunee Energy Center,HRSG1,1,3
+55649,Ontelaunee Energy Center,55193,Ontelaunee Energy Center,HRSG2,1,3
+55729,Duke Energy Kentucky Inc,6018,East Bend,2,2,1
+55739,Edgecombe Operating Services LLC,10384,Edgecombe Genco LLC,1B,UNIT1,1
+55739,Edgecombe Operating Services LLC,10384,Edgecombe Genco LLC,1A,UNIT1,1
+55739,Edgecombe Operating Services LLC,10384,Edgecombe Genco LLC,2B,UNIT2,1
+55739,Edgecombe Operating Services LLC,10384,Edgecombe Genco LLC,2A,UNIT2,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,1A,UNIT1,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,1B,UNIT1,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,2A,UNIT1,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,2B,UNIT1,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,3A,UNIT2,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,4B,UNIT2,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,4A,UNIT2,1
+55740,Spruance Genco LLC,54081,Spruance Genco LLC,3B,UNIT2,1
+55768,RC Cape May Holdings LLC,2378,B L England,1,1,1
+55768,RC Cape May Holdings LLC,2378,B L England,2,2,1
+55768,RC Cape May Holdings LLC,2378,B L England,3,3,1
+55773,Dighton Powercomma LLC,55026,Dighton Power Plant,HRSG,ACC,3
+55808,Westmoreland Partners,54035,Roanoke Valley Energy Facililty I,BLR1,CT1,1
+55843,Dynegy Morro Bay LLC,259,Dynegy Morro Bay LLC,1,1,1
+55843,Dynegy Morro Bay LLC,259,Dynegy Morro Bay LLC,2,2,1
+55843,Dynegy Morro Bay LLC,259,Dynegy Morro Bay LLC,3,3,1
+55843,Dynegy Morro Bay LLC,259,Dynegy Morro Bay LLC,4,4,1
+55861,Sandy Creek Energy Associates  L P,56611,Sandy Creek Energy Station,S01,CS1,1
+55867,Verso Corporation ? Escanaba Paper Company,10208,Escanaba Mill,10,TC,1
+55867,Verso Corporation ? Escanaba Paper Company,10208,Escanaba Mill,11,TC,1
+55867,Verso Corporation ? Escanaba Paper Company,10208,Escanaba Mill,7,TC,1
+55867,Verso Corporation ? Escanaba Paper Company,10208,Escanaba Mill,8,TC,1
+55867,Verso Corporation ? Escanaba Paper Company,10208,Escanaba Mill,9,TC,1
+55879,Optim Energy LLC,50815,Optim Energy Altura Cogen LLC,HRB2,CT-1,1
+55879,Optim Energy LLC,50815,Optim Energy Altura Cogen LLC,HRB1,CT-1,1
+55899,Calpine Bosque Energy Center LLC,55172,Bosque County Peaking,HRSG3,COOL5,1
+55899,Calpine Bosque Energy Center LLC,55172,Bosque County Peaking,HRSG1,COOL5,1
+55899,Calpine Bosque Energy Center LLC,55172,Bosque County Peaking,HRSG2,COOL5,1
+55903,Domtar Paper Company LLC,50189,Domtar Paper Co LLC Plymouth NC,PKG,RR001,1
+55903,Domtar Paper Company LLC,50189,Domtar Paper Co LLC Plymouth NC,2HFB,RR001,1
+55903,Domtar Paper Company LLC,50189,Domtar Paper Co LLC Plymouth NC,1CB,RR001,1
+55903,Domtar Paper Company LLC,50189,Domtar Paper Co LLC Plymouth NC,5REC,RR001,1
+55903,Domtar Paper Company LLC,50189,Domtar Paper Co LLC Plymouth NC,1HFB,RR001,1
+55906,NextEra Energy Point Beach LLC,4046,Point Beach Nuclear Plant,NSS1,CW,3
+55906,NextEra Energy Point Beach LLC,4046,Point Beach Nuclear Plant,NSS2,CW2,3
+55911,Whitewater Operating Services LLC,55011,LSP-Whitewater LP,1,UNIT1,1
+55912,Cottage Grove Operating Services LLC,55010,LSP-Cottage Grove LP,1,UNIT1,1
+55919,Georgia-Pacific Consr Prods LP-Green Bay,10360,Green Bay West Mill,B25,NCCW,1
+55919,Georgia-Pacific Consr Prods LP-Green Bay,10360,Green Bay West Mill,B26,NCCW,1
+55919,Georgia-Pacific Consr Prods LP-Green Bay,10360,Green Bay West Mill,B27,NCCW,1
+55919,Georgia-Pacific Consr Prods LP-Green Bay,10360,Green Bay West Mill,B29,NCCW,1
+55919,Georgia-Pacific Consr Prods LP-Green Bay,10360,Green Bay West Mill,B24,NCCW,1
+55919,Georgia-Pacific Consr Prods LP-Green Bay,10360,Green Bay West Mill,B28,NCCW,1
+55924,GenPower,56671,Longview Power LLC,UHA01,PAB,1
+55936,Entergy Gulf States - LA LLC,1391,Louisiana 1,4A,4AAC,1
+55936,Entergy Gulf States - LA LLC,1391,Louisiana 1,5A,5ACT,1
+55936,Entergy Gulf States - LA LLC,1391,Louisiana 1,1A,DICW,1
+55936,Entergy Gulf States - LA LLC,1391,Louisiana 1,3A,DICW,1
+55936,Entergy Gulf States - LA LLC,1391,Louisiana 1,2A,DICW,1
+55936,Entergy Gulf States - LA LLC,1391,Louisiana 1,9,DICW,1
+55936,Entergy Gulf States - LA LLC,1392,Louisiana 2,10,3,1
+55936,Entergy Gulf States - LA LLC,1392,Louisiana 2,11,3,1
+55936,Entergy Gulf States - LA LLC,1392,Louisiana 2,12,4,1
+55936,Entergy Gulf States - LA LLC,1393,R S Nelson,1A,1,1
+55936,Entergy Gulf States - LA LLC,1393,R S Nelson,2A,2,1
+55936,Entergy Gulf States - LA LLC,1393,R S Nelson,3,3,1
+55936,Entergy Gulf States - LA LLC,1393,R S Nelson,4,4,1
+55936,Entergy Gulf States - LA LLC,1393,R S Nelson,6,6,1
+55936,Entergy Gulf States - LA LLC,1394,Willow Glen,1,1,1
+55936,Entergy Gulf States - LA LLC,1394,Willow Glen,2,2,1
+55936,Entergy Gulf States - LA LLC,1394,Willow Glen,3,3,1
+55936,Entergy Gulf States - LA LLC,1394,Willow Glen,4,4,1
+55936,Entergy Gulf States - LA LLC,1394,Willow Glen,5,5,1
+55936,Entergy Gulf States - LA LLC,6462,River Bend,NSS1,CW,3
+55937,Entergy Texas Inc.,3457,Lewis Creek,2,1,1
+55937,Entergy Texas Inc.,3457,Lewis Creek,1,1,1
+55937,Entergy Texas Inc.,3459,Sabine,1,1,1
+55937,Entergy Texas Inc.,3459,Sabine,2,2,1
+55937,Entergy Texas Inc.,3459,Sabine,3,3,1
+55937,Entergy Texas Inc.,3459,Sabine,4,4,1
+55937,Entergy Texas Inc.,3459,Sabine,5,5A,1
+55937,Entergy Texas Inc.,3459,Sabine,5,5B,1
+55951,Exelon Nuclear,204,Clinton Power Station,NSS1,CW-1,3
+55951,Exelon Nuclear,869,Dresden Generating Station,NSS2,4400-2,3
+55951,Exelon Nuclear,869,Dresden Generating Station,NSS3,4400-3,3
+55951,Exelon Nuclear,880,Quad Cities Generating Station,NSS1,CW-1,3
+55951,Exelon Nuclear,880,Quad Cities Generating Station,NSS2,CW-2,3
+55951,Exelon Nuclear,2388,Oyster Creek,NSS1,535,3
+55951,Exelon Nuclear,3166,Peach Bottom,NSS2,28-2,3
+55951,Exelon Nuclear,3166,Peach Bottom,NSS3,28-3,3
+55951,Exelon Nuclear,6022,Braidwood Generation Station,NSS1,CW-1,3
+55951,Exelon Nuclear,6022,Braidwood Generation Station,NSS2,CW-2,3
+55951,Exelon Nuclear,6023,Byron Generating Station,NSS1,CW-1,3
+55951,Exelon Nuclear,6023,Byron Generating Station,NSS2,CW-2,3
+55951,Exelon Nuclear,6026,LaSalle Generating Station,NSS1,CW-1,3
+55951,Exelon Nuclear,6026,LaSalle Generating Station,NSS2,CW-2,3
+55951,Exelon Nuclear,6105,Limerick,NSS1,009-1,3
+55951,Exelon Nuclear,6105,Limerick,NSS2,009-2,3
+55951,Exelon Nuclear,8011,Three Mile Island,NSS1,511,3
+55983,Luminant Generation Company LLC,3452,Lake Hubbard,1,1,1
+55983,Luminant Generation Company LLC,3452,Lake Hubbard,2,1,1
+55983,Luminant Generation Company LLC,3489,Eagle Mountain,2,1,1
+55983,Luminant Generation Company LLC,3489,Eagle Mountain,1,1,1
+55983,Luminant Generation Company LLC,3489,Eagle Mountain,3,1,1
+55983,Luminant Generation Company LLC,3490,Graham,2,1,1
+55983,Luminant Generation Company LLC,3490,Graham,1,1,1
+55983,Luminant Generation Company LLC,3492,Morgan Creek,6,1,4
+55983,Luminant Generation Company LLC,3492,Morgan Creek,5,1,4
+55983,Luminant Generation Company LLC,3494,Permian Basin,5,5,1
+55983,Luminant Generation Company LLC,3494,Permian Basin,6,6,1
+55983,Luminant Generation Company LLC,3504,Stryker Creek,1,1,1
+55983,Luminant Generation Company LLC,3504,Stryker Creek,2,1,1
+55983,Luminant Generation Company LLC,3507,Trinidad (TX),9,1,1
+55983,Luminant Generation Company LLC,6145,Comanche Peak,NSS2,1,3
+55983,Luminant Generation Company LLC,6145,Comanche Peak,NSS1,1,3
+55983,Luminant Generation Company LLC,6146,Martin Lake,1,1,1
+55983,Luminant Generation Company LLC,6146,Martin Lake,3,1,1
+55983,Luminant Generation Company LLC,6146,Martin Lake,2,1,1
+55983,Luminant Generation Company LLC,6147,Monticello,2,1,1
+55983,Luminant Generation Company LLC,6147,Monticello,1,1,1
+55983,Luminant Generation Company LLC,6147,Monticello,3,1,1
+55983,Luminant Generation Company LLC,6648,Sandow No 4,4,4,1
+55983,Luminant Generation Company LLC,8063,DeCordova Steam Electric Station,1,1,4
+55987,CER Generation LLC,55411,Hillabee Energy Center,HRSG2,CT,1
+55987,CER Generation LLC,55411,Hillabee Energy Center,HRSG1,CT,1
+55993,Kleen Energy Systemscomma LLC,56798,Kleen Energy Systems Project,HRSG2,CLTW,1
+55993,Kleen Energy Systemscomma LLC,56798,Kleen Energy Systems Project,HRSG1,CLTW,1
+56020,NRG Cedar Bayou Development Company LLC,56806,Cedar Bayou 4,CBYB41,C41,3
+56020,NRG Cedar Bayou Development Company LLC,56806,Cedar Bayou 4,CBYB42,C42,3
+56023,Arizona Solar One LLC,56812,Solana Generating Station,1,CS1,3
+56023,Arizona Solar One LLC,56812,Solana Generating Station,1,CS2,3
+56031,CPV Maryland LLC,56846,CPV St Charles Energy Center,HRSG1,CPV1,1
+56031,CPV Maryland LLC,56846,CPV St Charles Energy Center,HRSG2,CPV1,1
+56090,Star  West Gen Griffith Energy LLC,55124,Griffith Energy LLC,259612,CT,1
+56090,Star  West Gen Griffith Energy LLC,55124,Griffith Energy LLC,259611,CT,1
+56147,ArcelorMittal Burns Harbor Inc,10245,ArcelorMittal Burns Harbor,10,10,1
+56147,ArcelorMittal Burns Harbor Inc,10245,ArcelorMittal Burns Harbor,11,11,1
+56147,ArcelorMittal Burns Harbor Inc,10245,ArcelorMittal Burns Harbor,12,12,1
+56155,Lansing Board of Water and Light,1831,Eckert Station,2,1-6,1
+56155,Lansing Board of Water and Light,1831,Eckert Station,3,1-6,1
+56155,Lansing Board of Water and Light,1831,Eckert Station,6,1-6,1
+56155,Lansing Board of Water and Light,1831,Eckert Station,4,1-6,1
+56155,Lansing Board of Water and Light,1831,Eckert Station,1,1-6,1
+56155,Lansing Board of Water and Light,1831,Eckert Station,5,1-6,1
+56155,Lansing Board of Water and Light,1832,Erickson Station,1,1,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,6HPB,COOL7,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,5HPB,COOL7,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,7HPB,COOL7,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,8HPB,COOL7,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,9HPB,COOL7,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,6HPB,COOL8,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,8HPB,COOL8,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,7HPB,COOL8,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,5HPB,COOL8,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,9HPB,COOL8,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,8HPB,COOL9,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,9HPB,COOL9,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,7HPB,COOL9,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,5HPB,COOL9,1
+56165,ArcelorMittal Indiana Harbor West,10397,ArcelorMittal Indiana Harbor West,6HPB,COOL9,1
+56192,Entergy Nuclear Palisades LLC,1715,Palisades,NSS1,CW,3
+56195,BP Alternative Energy,55259,Whiting Clean Energy,2100,CT,1
+56195,BP Alternative Energy,55259,Whiting Clean Energy,1100,CT,1
+56204,CPV Valley LLC,56940,CPV Valley Energy Center,HRSG2,ACC,1
+56204,CPV Valley LLC,56940,CPV Valley Energy Center,HRSG1,ACC,1
+56211,KCP&L Greater Missouri Operations Co,2094,Sibley,1,12,1
+56211,KCP&L Greater Missouri Operations Co,2094,Sibley,2,12,1
+56211,KCP&L Greater Missouri Operations Co,2094,Sibley,3,3,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),5,1,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),1,1,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),2,1,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),4,1,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),1,2,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),5,2,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),2,2,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),4,2,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),1,3,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),8,3,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),2,3,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),4,3,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),3,3,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),5,3,1
+56211,KCP&L Greater Missouri Operations Co,2098,Lake Road (MO),6,4,1
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,1C,UNIT1,1
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,1B,UNIT1,1
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,1A,UNIT1,1
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,2A,UNIT2,1
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,2B,UNIT2,1
+56217,Portsmouth Operating Services LLC,10071,Portsmouth Genco LLC,2C,UNIT2,1
+56225,Clearwater Paper Corporation,50637,Clearwater Paper IPP Lewiston,5REC,4TG,1
+56225,Clearwater Paper Corporation,50637,Clearwater Paper IPP Lewiston,4PWR,4TG,1
+56236,West Deptford Energy LLC,56963,West Deptford Energy Station,H101,E201,1
+56236,West Deptford Energy LLC,56963,West Deptford Energy Station,H102,E202,1
+56290,CPV Vaca Station LLC,56999,CPV Vaca Station LLC,HRSG2,COOL1,1
+56290,CPV Vaca Station LLC,56999,CPV Vaca Station LLC,HRSG1,COOL1,1
+56358,CAMS NM LLC,56458,Hobbs Generating Station,HRSG2,ACC,1
+56358,CAMS NM LLC,56458,Hobbs Generating Station,HRSG1,ACC,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG3,ACW,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG4,ACW,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG2,ACW,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG1,ACW,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG1,CW,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG4,CW,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG2,CW,1
+56380,EIF Channelview Cogeneration LLC,55187,Channelview Cogeneration Plant,HRSG3,CW,1
+56401,NAEA Energy Massachusetts  LLC,1642,NAEA Energy Massachusetts LLC,3,3,1
+56480,Empire Generating Co  LLC,56259,Empire Generating Co  LLC,HRSG11,MOCT1,1
+56480,Empire Generating Co  LLC,56259,Empire Generating Co  LLC,HRSG12,MOCT1,1
+56505,National Grid Generation LLC,2511,E F Barrett,10,1,1
+56505,National Grid Generation LLC,2511,E F Barrett,20,2,1
+56505,National Grid Generation LLC,2513,Far Rockaway,40,4,4
+56505,National Grid Generation LLC,2514,Glenwood,40,4,4
+56505,National Grid Generation LLC,2514,Glenwood,50,5,4
+56505,National Grid Generation LLC,2516,Northport,1,1,1
+56505,National Grid Generation LLC,2516,Northport,2,2,1
+56505,National Grid Generation LLC,2516,Northport,3,3,1
+56505,National Grid Generation LLC,2516,Northport,4,4,1
+56505,National Grid Generation LLC,2517,Port Jefferson,1,1,1
+56505,National Grid Generation LLC,2517,Port Jefferson,2,2,1
+56505,National Grid Generation LLC,2517,Port Jefferson,3,3,1
+56505,National Grid Generation LLC,2517,Port Jefferson,4,4,1
+56534,Cricket Valley Energy Center LLC,57185,Cricket Valley Energy,U1HRSG,U1ACC,1
+56534,Cricket Valley Energy Center LLC,57185,Cricket Valley Energy,U2HRSG,U2ACC,1
+56534,Cricket Valley Energy Center LLC,57185,Cricket Valley Energy,U3HRSG,U3ACC,1
+56559,High Desert Power Project LLC,55518,High Desert Power Plant,1,CIRC,1
+56559,High Desert Power Project LLC,55518,High Desert Power Plant,2,CIRC,1
+56559,High Desert Power Project LLC,55518,High Desert Power Plant,3,CIRC,1
+56570,Coleto Creek Power LP,6178,Coleto Creek,1,1,1
+56598,Major Oak Powercomma LLC,7030,Twin Oaks Power One,U1,CT-1,1
+56598,Major Oak Powercomma LLC,7030,Twin Oaks Power One,U2,CT-2,1
+56605,Delaware City Refining Company LLC,52193,Delaware City Plant,HRSG 2,CWS,1
+56605,Delaware City Refining Company LLC,52193,Delaware City Plant,HRSG 1,CWS,1
+56605,Delaware City Refining Company LLC,52193,Delaware City Plant,BLR3,CWS,1
+56605,Delaware City Refining Company LLC,52193,Delaware City Plant,BLR1,CWS,1
+56605,Delaware City Refining Company LLC,52193,Delaware City Plant,BLR2,CWS,1
+56605,Delaware City Refining Company LLC,52193,Delaware City Plant,BLR4,CWS,1
+56606,Calpine New Jersey Generation LLC,2384,Deepwater,1,1,1
+56606,Calpine New Jersey Generation LLC,2384,Deepwater,8,6,1
+56607,Calpine Bethlehem LLC,55690,Bethlehem Power Plant,HRSG7,CWS,3
+56607,Calpine Bethlehem LLC,55690,Bethlehem Power Plant,HRSG6,CWS,3
+56607,Calpine Bethlehem LLC,55690,Bethlehem Power Plant,HRSG5,CWS,3
+56607,Calpine Bethlehem LLC,55690,Bethlehem Power Plant,HRSG3,CWS,3
+56607,Calpine Bethlehem LLC,55690,Bethlehem Power Plant,HRSG2,CWS,3
+56607,Calpine Bethlehem LLC,55690,Bethlehem Power Plant,HRSG1,CWS,3
+56608,Calpine Mid-Merit LLC,55524,York Energy Center,HRSG1,CWS,3
+56608,Calpine Mid-Merit LLC,55524,York Energy Center,HRSG2,CWS,3
+56608,Calpine Mid-Merit LLC,55524,York Energy Center,HRSG3,CWS,3
+56609,Calpine Mid-Atlantic Generation LLC,593,Edge Moor,3,3,1
+56609,Calpine Mid-Atlantic Generation LLC,593,Edge Moor,4,4,1
+56609,Calpine Mid-Atlantic Generation LLC,593,Edge Moor,5,5,1
+56609,Calpine Mid-Atlantic Generation LLC,7153,Hay Road,HRSG6,CWS,3
+56609,Calpine Mid-Atlantic Generation LLC,7153,Hay Road,HRSG7,CWS,3
+56609,Calpine Mid-Atlantic Generation LLC,7153,Hay Road,HRSG1,CWS,3
+56609,Calpine Mid-Atlantic Generation LLC,7153,Hay Road,HRSG2,CWS,3
+56609,Calpine Mid-Atlantic Generation LLC,7153,Hay Road,HRSG3,CWS,3
+56609,Calpine Mid-Atlantic Generation LLC,7153,Hay Road,HRSG5,CWS,3
+56611,Gainesville Renewable Energy Center LLC,57241,Gainesville Renewable Energy Center,BLR1,RF,1
+56613,Frederickson Power LP,55818,Frederickson Power LP,HRSG-1,CS-1,1
+56641,Tonopah Solar Energy LLC,57275,Crescent Dunes Solar Energy,TSE-B1,TSE-C1,3
+56641,Tonopah Solar Energy LLC,57275,Crescent Dunes Solar Energy,TSE-B2,TSE-C1,3
+56660,Mojave Solar LLC,57331,Mojave Solar Project,MSP1,CS1,3
+56660,Mojave Solar LLC,57331,Mojave Solar Project,MSP2,CS2,3
+56691,Garrison Energy Center LLC,57349,Garrison Energy Center LLC,HRSG1,CWS,1
+56723,Genesis Solar LLC,57394,Genesis Solar Energy Project,SOLAR,CS01,3
+56723,Genesis Solar LLC,57394,Genesis Solar Energy Project,SOLAR,CS02,3
+56730,Cedar Bay Operating Services LLC,10672,Cedar Bay Generating Company LP,CBC,1,1
+56730,Cedar Bay Operating Services LLC,10672,Cedar Bay Generating Company LP,CBB,1,1
+56730,Cedar Bay Operating Services LLC,10672,Cedar Bay Generating Company LP,CBA,1,1
+56765,CER Colorado Bend Energy Partners LP,56350,Colorado Bend Energy Center,HRSG2,TOWER1,1
+56765,CER Colorado Bend Energy Partners LP,56350,Colorado Bend Energy Center,HRSG1,TOWER1,1
+56765,CER Colorado Bend Energy Partners LP,56350,Colorado Bend Energy Center,HRSG4,TOWER2,1
+56765,CER Colorado Bend Energy Partners LP,56350,Colorado Bend Energy Center,HRSG3,TOWER2,1
+56766,CER Quail Run Energy Partners LP,56349,Quail Run Energy Center,HRSG2,CD1-6,1
+56766,CER Quail Run Energy Partners LP,56349,Quail Run Energy Center,HRSG1,CD1-6,1
+56766,CER Quail Run Energy Partners LP,56349,Quail Run Energy Center,HRSG4,CD7-12,1
+56766,CER Quail Run Energy Partners LP,56349,Quail Run Energy Center,HRSG3,CD7-12,1
+56812,Arlington Valley LLC,55282,Arlington Valley Energy Facility,HRSG2,CT,1
+56812,Arlington Valley LLC,55282,Arlington Valley Energy Facility,HRSG1,CT,1
+56872,Contra Costa Generating Station LLC,57552,Oakley Generating Station,HRSG1,ACC1,3
+56872,Contra Costa Generating Station LLC,57552,Oakley Generating Station,HRSG2,ACC1,3
+56881,Valley NG Power Company LLC,3508,Valley (TX),1,1,1
+56881,Valley NG Power Company LLC,3508,Valley (TX),3,2,1
+56881,Valley NG Power Company LLC,3508,Valley (TX),2,2,1
+56884,Big Brown Power Company LLC,3497,Big Brown,2,1,1
+56884,Big Brown Power Company LLC,3497,Big Brown,1,1,1
+56964,Sundevil Power Holdings LLC,59338,Sundevil Power Holdings - Gila River,1 B,CT-1,1
+56964,Sundevil Power Holdings LLC,59338,Sundevil Power Holdings - Gila River,1 A,CT-1,1
+56964,Sundevil Power Holdings LLC,59338,Sundevil Power Holdings - Gila River,2 A,CT-2,1
+56964,Sundevil Power Holdings LLC,59338,Sundevil Power Holdings - Gila River,2 B,CT-2,1
+56983,Gibson County Generation LLC,57709,Gibson County Generation Station,X,1,4
+56991,Astoria Energy II LLC,57664,Astoria Energy II,HRSG3,ACC2,1
+56991,Astoria Energy II LLC,57664,Astoria Energy II,HRSG4,ACC2,1
+57045,Guadalupe Power Partners LP,55153,Guadalupe Generating Station,HRSG2,CT1,1
+57045,Guadalupe Power Partners LP,55153,Guadalupe Generating Station,HRSG1,CT1,1
+57045,Guadalupe Power Partners LP,55153,Guadalupe Generating Station,HRSG4,CT2,1
+57045,Guadalupe Power Partners LP,55153,Guadalupe Generating Station,HRSG3,CT2,1
+57097,Oak Grove Management Co LLC,6180,Oak Grove (TX),1,1,1
+57097,Oak Grove Management Co LLC,6180,Oak Grove (TX),2,1,1
+57098,Sandow Power Co LLC,52071,Sandow No 5,5A,5,1
+57098,Sandow Power Co LLC,52071,Sandow No 5,5B,5,1
+57098,Sandow Power Co LLC,52071,Sandow No 5,SANDW3,CS,1
+57098,Sandow Power Co LLC,52071,Sandow No 5,SANDW2,CS,1
+57098,Sandow Power Co LLC,52071,Sandow No 5,SANDW1,CS,1
+57109,St Joseph Energy Center LLC,57794,St Joseph Energy Center,HRSG1,COOL1,1
+57109,St Joseph Energy Center LLC,57794,St Joseph Energy Center,HRSG2,COOL2,1
+57109,St Joseph Energy Center LLC,57794,St Joseph Energy Center,HRSG3,COOL3,1
+57109,St Joseph Energy Center LLC,57794,St Joseph Energy Center,HRSG4,COOL4,1
+57141,Dynegy Kendall Energy LLC,55131,Kendall County Generation Facility,B2,C1,1
+57141,Dynegy Kendall Energy LLC,55131,Kendall County Generation Facility,B1,C1,1
+57141,Dynegy Kendall Energy LLC,55131,Kendall County Generation Facility,B4,C2,1
+57141,Dynegy Kendall Energy LLC,55131,Kendall County Generation Facility,B3,C2,1
+57160,DuPont Sabine River Works,55120,SRW Cogen LP,DB1A,TOWER,3
+57160,DuPont Sabine River Works,55120,SRW Cogen LP,DB1B,TOWER,3
+57166,CPV Shore LLC,57839,Woodbridge Energy Center,HRSG1B,CTW,1
+57166,CPV Shore LLC,57839,Woodbridge Energy Center,HRSG1A,CTW,1
+57277,Hidden Hills Solar I LLC,57905,Hidden Hills Solar Plant 1,B1A,1,4
+57278,Hidden Hills Solar II LLC,57906,Hidden Hills Solar Plant 2,B1B,1,3
+57377,PPG - O&M Panda Temple Power LLC,58001,Panda Temple Power Station,HRSG2,WCC1,1
+57377,PPG - O&M Panda Temple Power LLC,58001,Panda Temple Power Station,HRSG1,WCC1,1
+57377,PPG - O&M Panda Temple Power LLC,58001,Panda Temple Power Station,HRSG4,WCC2,1
+57377,PPG - O&M Panda Temple Power LLC,58001,Panda Temple Power Station,HRSG3,WCC2,1
+57379,PPG - O&M Panda Sherman Power LLC,58005,Panda Sherman Power Station,HRSG2,WCC1,1
+57379,PPG - O&M Panda Sherman Power LLC,58005,Panda Sherman Power Station,HRSG1,WCC1,1
+57393,Duke Energy Commercial Asset Management,55397,Washington Energy Facility,DB2,CW,1
+57393,Duke Energy Commercial Asset Management,55397,Washington Energy Facility,DB1,CW,1
+57393,Duke Energy Commercial Asset Management,55516,Fayette Energy Facility,DB2,CW,1
+57393,Duke Energy Commercial Asset Management,55516,Fayette Energy Facility,DB1,CW,1
+57393,Duke Energy Commercial Asset Management,55736,Hanging Rock Energy Facility,1HR2,1CCW,1
+57393,Duke Energy Commercial Asset Management,55736,Hanging Rock Energy Facility,1HR1,1CCW,1
+57393,Duke Energy Commercial Asset Management,55736,Hanging Rock Energy Facility,2HR2,2CCW,1
+57393,Duke Energy Commercial Asset Management,55736,Hanging Rock Energy Facility,2HR1,2CCW,1
+57457,Newark Energy Centercomma LLC,58079,Newark Energy Center,HRSG-2,CLTWR,1
+57457,Newark Energy Centercomma LLC,58079,Newark Energy Center,HRSG-1,CLTWR,1
+57499,NRG Energy Services,57073,Ivanpah 2,BLR1,COOL1,3
+57499,NRG Energy Services,57074,Ivanpah 1,BLR1,COOL1,3
+57499,NRG Energy Services,57075,Ivanpah 3,BLR1,COOL1,3
+57501,NAES Salem Harbor,1626,Salem Harbor,1,1,1
+57501,NAES Salem Harbor,1626,Salem Harbor,2,2,1
+57501,NAES Salem Harbor,1626,Salem Harbor,3,3,1
+57501,NAES Salem Harbor,1626,Salem Harbor,4,4,1
+58177,Raven Power Holdings LLC,602,Brandon Shores,1,1,1
+58177,Raven Power Holdings LLC,602,Brandon Shores,2,2,1
+58177,Raven Power Holdings LLC,1552,C P Crane,1,1,1
+58177,Raven Power Holdings LLC,1552,C P Crane,2,2,1
+58177,Raven Power Holdings LLC,1554,Herbert A Wagner,1,1,1
+58177,Raven Power Holdings LLC,1554,Herbert A Wagner,2,2,1
+58177,Raven Power Holdings LLC,1554,Herbert A Wagner,3,3,1
+58177,Raven Power Holdings LLC,1554,Herbert A Wagner,4,4,1
+58185,FirstLight Power Resourcescomma Inc. - MA,1606,Mount Tom,1,1,1
+58199,PPL Ironwood LLC,55337,PPL Ironwood LLC,HRSG12,CW001,3
+58199,PPL Ironwood LLC,55337,PPL Ironwood LLC,HRSG11,CW001,3
+58209,CPI USA NC Southport LLC,10378,CPI USA NC Southport,1A,UNIT1,1
+58209,CPI USA NC Southport LLC,10378,CPI USA NC Southport,1C,UNIT1,1
+58209,CPI USA NC Southport LLC,10378,CPI USA NC Southport,1B,UNIT1,1
+58209,CPI USA NC Southport LLC,10378,CPI USA NC Southport,2B,UNIT2,1
+58209,CPI USA NC Southport LLC,10378,CPI USA NC Southport,2C,UNIT2,1
+58209,CPI USA NC Southport LLC,10378,CPI USA NC Southport,2A,UNIT2,1
+58371,NextEra Blythe Solar Energy Centercomma LLC,57273,Blythe Solar Power Project,A,1,4
+58371,NextEra Blythe Solar Energy Centercomma LLC,57273,Blythe Solar Power Project,B,1,4
+58409,Future Power PA,58409,Good Spring NGCC Facility,HRSG,RW,1
+58453,AltaGas Blythe Operations Inc,55295,Blythe Energy Inc,HRSG1,COOL1,1
+58453,AltaGas Blythe Operations Inc,55295,Blythe Energy Inc,HRSG2,COOL1,1
+58534,Brayton Point Energy LLC,1619,Brayton Point,1,1,1
+58534,Brayton Point Energy LLC,1619,Brayton Point,2,2,1
+58534,Brayton Point Energy LLC,1619,Brayton Point,3,3,1
+58534,Brayton Point Energy LLC,1619,Brayton Point,4,4,1
+58615,NRG Homer City Services LLC,3122,Homer City Generating Station,1,A,1
+58615,NRG Homer City Services LLC,3122,Homer City Generating Station,2,B,1
+58615,NRG Homer City Services LLC,3122,Homer City Generating Station,3,C,1
+58620,AEP Generation Resources Inc,2828,Cardinal,1,1,1
+58620,AEP Generation Resources Inc,2828,Cardinal,2,2,1
+58620,AEP Generation Resources Inc,2828,Cardinal,3,3,1
+58620,AEP Generation Resources Inc,2840,Conesville,1,1,1
+58620,AEP Generation Resources Inc,2840,Conesville,2,1,1
+58620,AEP Generation Resources Inc,2840,Conesville,1,2,1
+58620,AEP Generation Resources Inc,2840,Conesville,2,2,1
+58620,AEP Generation Resources Inc,2840,Conesville,3,3,1
+58620,AEP Generation Resources Inc,2840,Conesville,4,4,1
+58620,AEP Generation Resources Inc,2840,Conesville,5,5,1
+58620,AEP Generation Resources Inc,2840,Conesville,6,6,1
+58620,AEP Generation Resources Inc,2843,Picway,9,5,1
+58620,AEP Generation Resources Inc,2872,Muskingum River,1,1,1
+58620,AEP Generation Resources Inc,2872,Muskingum River,2,2,1
+58620,AEP Generation Resources Inc,2872,Muskingum River,3,3,1
+58620,AEP Generation Resources Inc,2872,Muskingum River,4,4,1
+58620,AEP Generation Resources Inc,2872,Muskingum River,5,5,1
+58620,AEP Generation Resources Inc,3947,Kammer,1,1,1
+58620,AEP Generation Resources Inc,3947,Kammer,2,2,1
+58620,AEP Generation Resources Inc,3947,Kammer,3,3,1
+58620,AEP Generation Resources Inc,8102,General James M Gavin,1,1,1
+58620,AEP Generation Resources Inc,8102,General James M Gavin,2,2,1
+58620,AEP Generation Resources Inc,55503,AEP Waterford Facility,HRSG3,CW1,1
+58620,AEP Generation Resources Inc,55503,AEP Waterford Facility,HRSG1,CW1,1
+58620,AEP Generation Resources Inc,55503,AEP Waterford Facility,HRSG2,CW1,1
+58666,AlphaGen Power LLC,55270,Jackson Power Facility,HRSG5,COOLTW,1
+58666,AlphaGen Power LLC,55270,Jackson Power Facility,HRSG6,COOLTW,1
+58666,AlphaGen Power LLC,55270,Jackson Power Facility,HRSG1,COOLTW,1
+58666,AlphaGen Power LLC,55270,Jackson Power Facility,HRSG2,COOLTW,1
+58666,AlphaGen Power LLC,55270,Jackson Power Facility,HRSG3,COOLTW,1
+58666,AlphaGen Power LLC,55270,Jackson Power Facility,HRSG4,COOLTW,1
+58666,AlphaGen Power LLC,55270,Jackson Power Facility,HRSG7,COOLTW,1
+58905,NRG Energy Services - Plum Point,56456,Plum Point Energy Station,BLR1,CS1,1
+58971,Danskammer Energy,2480,Danskammer Generating Station,1,1,1
+58971,Danskammer Energy,2480,Danskammer Generating Station,2,2,1
+58971,Danskammer Energy,2480,Danskammer Generating Station,3,3,1
+58971,Danskammer Energy,2480,Danskammer Generating Station,4,4,1
+59368,Calpine Fore River Energy Centercomma LLC,55317,Fore River Generating Station,12,15,1
+59368,Calpine Fore River Energy Centercomma LLC,55317,Fore River Generating Station,11,15,1
+59371,Mainline Generation LLC,862,Grand Tower Energy Center LLC,1,03,3
+59371,Mainline Generation LLC,862,Grand Tower Energy Center LLC,2,04,3
+59423,Effingham County Power,55406,Effingham County Power Project,HRSG1,CTW,3
+59423,Effingham County Power,55406,Effingham County Power Project,HRSG2,CTW,3
+59532,CAMS,55481,Mesquite Generating Station Block 2,6,2,1
+59532,CAMS,55481,Mesquite Generating Station Block 2,5,2,1
+59588,Lake Creek 3 Power Company LLC,3502,Lake Creek,2,1,1
+59588,Lake Creek 3 Power Company LLC,3502,Lake Creek,1,1,1
+59687,AltaGas Sonoran Energy Inc,59925,Sonoran Energy Project,HRSG1,CTWR,1
+"NOTE:
+Plants with a total steam-electric nameplate capacity of 10 MW or greater are required to report the configuration of their environmental equipment.  (These plants are designated as Steam Plant Types 1comma 2comma or 3).  Some plants that are not Steam Plant Type 1comma 2comma or 3 have voluntarily reported the configuration of their environmental equipment; this voluntarily reported information is also displayed.",,,,,,

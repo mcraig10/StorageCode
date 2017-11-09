@@ -1,0 +1,3 @@
+StorageType,PlantType,Modeled Fuels,Efficiency,Heat Rate (Btu/kWh),Capacity (MW),CapacityCharge (MW),FuelPrice($/MMBtu),NOxEmRate(lb/MMBtu),SO2EmRate(lb/MMBtu),CO2EmRate(lb/MMBtu),VOM($/MWh),RampRate(MW/hr),MinLoad(MW),MinDownTime(hrs),StartCost($),MaxCharge(MWh),MinCharge(MWh)
+PumpedHydro,Storage,Storage,0.81,1,1500,1500,0,0,0,0,2,1500,0,0,0,12000,0
+LiIon,Storage,Storage,0.81,1,1500,1500,0,0,0,0,2,90000,0,0,0,6000,0

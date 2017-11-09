@@ -1,0 +1,9 @@
+STEPS TO GET PYTHON AND GAMS HOOKED UP:
+1) Go to GAMS/win64/24.7/apifiles/Python/api_34 and type in cmd prompt: python setup.py install
+2) Now have error DLL load failed: specified module could nto be found
+	Specified module being gams __init__.py
+3) Got error b/c Ancaonda installed python 3.5 - GAMS only works w/ 3.4
+4) So created python 3.4 environmnet: conda create -n py34 python=3.4 anaconda
+5) Activate environment (activate py34) 
+6) Install GAMS API to that environment - just navigate to GAMS API folder as before and type same thing
+7) Change Sublime options so points to Python exe in new environment

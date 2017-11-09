@@ -1,0 +1,14 @@
+DATABASES
+Eastern wind dataset texas
+egrid2015
+eia860
+ercotdemand
+ercotreserves
+fuelpricescapacityexpansion
+needs
+nrelsolarpvdatatx
+phorum
+
+
+newplantdata
+storageparameters

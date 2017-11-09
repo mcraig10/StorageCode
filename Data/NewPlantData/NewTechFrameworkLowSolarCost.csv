@@ -1,0 +1,9 @@
+TechnologyType,ATBTechnologyType,FuelType,ThermalOrRenewable,Capacity(MW),HR(Btu/kWh),CAPEX(2012$/MW),FOM(2012$/MW/yr),VOM(2012$/MWh),NSPSCompliant,NOxEmissionsRate(lb/MMBtu),SO2EmissionsRate(lb/MMBtu),CO2EmissionsRate(lb/MMBtu),Lifetime(years),MinDownTime(hrs),RampRate(MW/hr),MinLoad(MW),StartCost($2011),FuelCost($/MMBtu),Cooling Tech,SO2 Scrubber,CoalType
+Coal Steam,Coal-new-AvgCF-Mid,Coal,thermal,650,,,,,No,0.062,0.11,205,65,12,780,260,65000,0,recirculating,wet,Bituminous
+Coal Steam CCS,Coal-CCS-AvgCF-Mid,Coal,thermal,650,,,,,Yes,0.062,0.085,20.5,65,12,780,260,65000,0,recirculating,wet,Bituminous
+Combined Cycle,Gas-CC-AvgCF - Mid,Natural Gas,thermal,400,,,,,Yes,0.003,0.035,119,55,4,1200,200,40000,0,recirculating,NA,NA
+Combined Cycle CCS,Gas-CC-CCS-AvgCF - Mid,Natural Gas,thermal,340,,,,,Yes,0.003,0.035,11.9,55,4,1020,170,34000,0,recirculating,NA,NA
+Combustion Turbine,Gas-CT-AvgCF - Mid,Natural Gas,thermal,210,,,,,No,0.009,0.087,119,20,1,630,105,5250,0,recirculating,NA,NA
+Nuclear,Nuclear - Mid,Nuclear Fuel,thermal,1117,,,,,Yes,0,0,0,60,20,3351,558.5,558500,0,recirculating,NA,NA
+Wind,TRG 3 - Mid,Wind,renewable,100,0,,,,Yes,0,0,0,30,0,100,0,0,0,NA,NA,NA
+Solar PV,Utility PV - 20% - Low,Solar,renewable,20,0,,,,Yes,0,0,0,20,0,20,0,0,0,NA,NA,NA
